@@ -1,0 +1,494 @@
+## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
+
+
+;Get Monthly News
+Primiți știrile lunare
+
+
+;Your Email Address
+Adresa de e-mail
+
+
+;Your email address:
+Adresa de e-mail:
+
+
+;Text
+Text {ok}
+
+
+;Available Languages
+Limbi disponibile
+
+
+;Language:
+Limba:
+
+
+;Select country
+Selectați țara
+
+
+;Country:
+Țara:
+
+
+;Whoops! Be sure to enter a valid email address.
+Ups! Asigurați-vă că introduceți o adresa de e-mail validă.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Vă rugăm să citiți Politica de confidențialitate Mozilla și să confirmați acordul bifând căsuța.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Sunt de acord cu <a href="%s">Politica de confidențialitate</a>
+
+
+;Sign me up!
+Înregistrați-mă!
+
+
+;We will only send you Mozilla-related information.
+Vă vom trimite numai informații legate de Mozilla.
+
+
+;Thanks for Subscribing!
+Vă mulțumim pentru abonare!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Suntem nerăbdători să începem să vă împartășim ponturi și trucuri pentru a vă optimiza modul de utilizare al produsului Firefox, precum și știri despre Mozilla și despre cum lucrăm pentru a îmbunătăți Web-ul
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Abonați-vă pentru a primi noutăți lunare și pentru a fi la curent cu știrile Mozilla, ce includ ultimele ponturi și trucuri pentru a vă optimiza modul de utilizare al navigatorului Firefox. Este modalitatea perfectă pentru a ține legătura!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Tocmai v-am trimis un mesaj de confirmare prin e-mail. Clic pe legătura de confirmare din acest e-mail pentru a vă valida abonamentul la această listă de discuții.
+
+
+;Read all about it in our <span>newsletter</span>
+Citiți totul despre Mozilla în <span>buletinele de știri</span>
+
+
+;Your newsletter subscription has been confirmed.
+Abonamentul dumneavoastră la buletinul de știri a fost confirmat.
+
+
+;Format
+Format {ok}
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Sunteți pregătit! <span>Dar stați, asta nu e tot</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Doriți să obțineți cele mai relevante informații? Spuneți-ne mai multe despre dumneavoastră. Dacă tot sunteți aici, înregistrați-vă, pentru a primi și alte știri de la Mozilla.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox & You
+Firefox și tu
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox & You)
+;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+Un buletin de știri lunar și anunțuri speciale oferindu-vă ponturi prin care să îmbunătățiți experiența dumneavoastră cu Firefox pe calculator și pe dispozitivul Android.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS News
+Știri despre Firefox OS
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS News)
+;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+Un buletin de știri lunar și anunțuri speciale cu privire la cum să profitați la maxim de dipozitivul FIrefox OS, inclusiv ultimele funcționalități și cel mai tari aplicații din Firefox Marketplace.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozilla Communities
+Comunități Mozilla
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities)
+;Bringing you the best new opportunities to help support the open Web.
+Vă informează despre cele mai bune oportunități de a contribui la Web-ul deschis.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Student Ambassadors
+Ambasadori studenți Firefox
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+;A monthly newsletter on how to get involved with Mozilla on your campus.
+Buletin de știri lunar despre cum puteți contribui la Mozilla în zona dumneavoastră.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+Buletin de știri lunar pentru a fi la curent cu informații privind programul Firefox Affiliates.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Apps & Hacks
+Aplicații și hackuri pentru Firefox
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
+;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+Știri pentru dezvoltatori despre Firefox OS, Firefox Marketplace și aplicațiile din ecosistemul Open Web.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozillians
+Mozillians {ok}
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for desktop
+Firefox pentru desktop
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+;Don’t miss the latest announcements about our desktop browser.
+Nu ratați cele mai nou anunțuri despre navigatorul nostru pentru desktop.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for Android
+Firefox pentru Android
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+;Keep up with releases and news about Firefox for Android.
+Fiți la curent cu lansările și știrile despre Firefox pentru Android.
+
+
+# Description for the in Newsletter subscription page (Firefox OS)
+;Be the first to know when Firefox OS devices are available in your country.
+Fiți prima persoană care află când dispozitivele Firefox OS sunt disponibile în țara dumneavoastră.
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+;Special announcements and messages from the team dedicated to keeping the Web free and open.
+Anunțuri speciale și mesaje de la echipa dedicată păstrării Web-ului liber și deschis.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
+;Know when the coolest apps hit the Marketplace for your platform:
+Aflați când cele mai tari aplicații ajung în Marketplace pentru platforma dumneavoastră:
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS smartphone owner?
+Posesor de smartphone Firefox OS?
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+;Don’t miss important news and updates about your Firefox OS device.
+Nu ratați știrile importante și noutățile despre dispozitivul dumneavoastră Firefox OS.
+
+
+;Our Other Newsletters:
+Alte buletine de știri:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Primiți cele mai recente ponturi și trucuri pentru vă optimiza modul de utilizare al navigatorului dumneavoastră favorit.
+
+
+;Firefox Mobile
+Firefox pentru mobil
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Informați-vă în privința celor mai recente suplimente și funcționalități pentru Firefox pentru mobil.
+
+
+;Beta News
+Ştiri despre Beta
+
+
+;Let’s Be Friends!
+Să devenim prieteni!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+De asemenea, Firefox este prezent pe platforma voastră de socializare preferată. Conectați-vă cu noi și alăturați-vă conversației.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Gestionați-vă <span>Abonamentele la buletinele de știri</span>
+
+
+;Manage your Email Preferences
+Gestionați-vă preferințele privind e-mailul
+
+
+;We love sharing updates about all the awesome things happening at Mozilla.
+Ne placem să împărtășim noutăți despre toate lucrurile minunate care se petrec la Mozilla.
+
+
+;Set your preferences below to make sure you always receive the news you want.
+Setați-vă preferințele mai jos pentru a vă asigura că primiți știrile pe care le doriți.
+
+
+;Newsletters
+Buletine de știri
+
+
+;Getting too much email from us?
+Primiți prea multe e-mailuri de la noi?
+
+
+;Not interested in our newsletters, but like those special announcements? No problem.
+Nu sunteți interesat de buletinele noastre de știri, dar vă plac aceste anunțuri speciale? Nicio problemă.
+
+
+;We can keep in touch with occasional messages that matter most to you.
+Putem ține legătura cu mesaje ocazionale care contează cel mai mult pentru dumneavoastră.
+
+
+;Check all categories that apply to you, and we promise to keep the mail to a minimum.
+Bifați toate categoriile care vi se aplică și noi promitem să vă trimitem un minim de e-mailuri.
+
+
+;I’m interested in:
+Sunt interesat de:
+
+
+;Subscribe
+Abonați-vă
+
+
+;Unsubscribe
+Dezabonați-vă
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Faceți clic aici, dacă doriți să fiți eliminat din toate e-mailurile Mozilla
+
+
+;Remove me from all Mozilla emails
+Eliminați-mă din toate e-mailurile Mozilla
+
+
+;Save Preferences
+Salvarea preferințelor
+
+
+;Thanks for updating your email preferences.
+Vă mulțumim pentru actualizarea preferințelor privind e-mailul.
+
+
+;You've been unsubscribed.
+Ați fost dezabonat.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Ne pare rău să vedem că plecați. Ați vrea să ne comunicați motivul deciziei dumneavoastră?
+
+
+;You send too many emails.
+Trimiteți prea multe e-mailuri.
+
+
+;Your content wasn't relevant to me.
+Conținutul dumneavoastră nu este relevant pentru mine.
+
+
+;Your email design was too hard to read.
+Designul e-mailului dumneavoastră a fost prea dificil pentru a putea fi citit.
+
+
+;I didn't sign up for this.
+Nu m-am înregistrat pentru aceasta.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Țin legătura cu Mozilla prin Facebook și Twitter în schimb.
+
+
+;Submit
+Trimite
+
+
+;Thanks for telling us why you’re leaving.
+Vă mulțumim că ne-ați comunicat motivul plecării dumneavoastră.
+
+
+;Mozilla Newsletters
+Buletine de știri Mozilla
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Vă mulțumim! Vă rugăm să vă verificați e-mailul pentru a vă confirma abonarea.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Veți primi un e-mail din partea mozilla@e.mozilla.org pentru a vă confirma abonarea. Dacă nu îl vedeți, verificați-vă filtrul de spam. Trebuie să vă confirmați abonarea pentru a primi buletinul nostru de știri.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Vă rugăm să verificați că v-ați adăugat adresa noastră de expeditor: mozilla@e.mozilla.org în agendă, pentru a vă asigura că reușim întotdeauna să ajungem în e-mailul dumneavoastră.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Primiți noutăți despre Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ADRESA DE E-MAIL
+
+
+# Button
+;Sign me up
+Înregistrați-mă
+
+
+;I’m okay with Mozilla handling my info as explained in <a href="%s">this Privacy Policy</a>
+Sunt de acord cu folosirea informațiilor mele de către Mozilla așa cum se explică în <a href="%s">acestă Politică de confidențialitate</a>
+
+
+;The supplied link has expired. You will receive a new one in the next newsletter.
+Legătura furnizată a expirat. Veți primi una nouă în buletin de știri următor.
+
+
+;Something is amiss with our system, sorry! Please try again later.
+Ceva este în neregulă cu sistemul nostru, ne pare rău! Vă rugăm să încercați din nou mai târziu.
+
+
+;English&nbsp;only
+Doar engleză
+
+
+;Newsletter Subscriptions
+Abonamente la buletinul de știri
+
+
+;Newsletter confirm
+Confirmare pentru buletinul de știri
+
+
+;Format:
+Format: {ok}
+
+
+;You’ve been unsubscribed.
+Ați fost dezabonat.
+
+
+;We’re sorry to see you go.
+Ne pare rău să vedem că plecați.
+
+
+;Would you mind telling us why you’re leaving?
+V-ar deranja să ne spuneți de ce plecați?
+
+
+;Other…
+Altul…
+
+
+;While here, why not check out some more Firefox awesomeness.
+Dacă tot sunteți aici, de ce să nu testați mai multe lucruri minunate din Firefox.
+
+
+;Get up and go
+Avansează și mergi
+
+
+;It’s your Web anywhere you go.
+Este Web-ul tău oriunde vei merge.
+
+
+;Get Firefox for mobile!
+Obțineți Firefox pentru mobil!
+
+
+;Added extras
+Adaugă altele
+
+
+;Make Firefox do more with add-ons.
+Faceți Firefox să fie mai deosebit cu suplimentele.
+
+
+;Find out how!
+Aflați cum!
+
+
+;About us
+Despre noi
+
+
+;What’s Mozilla all about?
+Ce este Mozilla în esență?
+
+
+;We’re glad you asked!
+Ne bucurăm că ați întrebat!
+
+
+# Description for the newsletter in Newsletter subscription page
+;A monthly newsletter packed with tips to improve your Firefox experience.
+Un buletin de știri lunar ce conține ponturi pentru a îmbunătăți experiența dumneavoastră cu Firefox.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Tips and tricks to use Firefox on your Android phone.
+Sfaturi și trucuri pentru a folosi Firefox pe telefonul dumneavoastră cu Android.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Firefox OS news, tips, launch information and where to buy.
+Știri despre Firefox OS, ponturi, informații despre lansări și despre unde îl puteti cumpăra.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Be the first to know when Firefox is available for iOS devices.
+Fiți prima persoană care află când Firefox este disponibil pentru dispozitivele iOS.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Discover the latest, coolest HTML5 apps on Firefox OS.
+Descoperiți ultimele și cele mai deosebite aplicații HTML5 pentru Firefox OS.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Get a weekly tip on how to super-charge your Firefox experience.
+Obține un pont săptămânal cu privire la modul de îmbunătățire a experienței tale cu Firefox.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Citiți despre cele mai recente funcționalități pentru desktop și mobil Firefox înaintea lansării finale.
+
+
+# Description for the newsletter in Newsletter subscription page
+;News from the Mozilla Project.
+Știri de la Mozilla Project.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Periodic email updates about our annual international film competition.
+E-mail periodic cu noutăți privind competiția noastră anuală internațională de film.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Email updates for vouched Mozillians on mozillians.org.
+E-mail cu actualizări pentru voturile de susținere a mozilienilor pe mozillians.org.
+
+
+# Description for the newsletter in Newsletter subscription page
+;Former University program from 2008-2011, now retired and relaunched as the Firefox Student Ambassadors program.
+Fostul program pentru universități din 2008-2011, acum retras și relansat ca programul Ambasadori Studenți Firefox.
+
+

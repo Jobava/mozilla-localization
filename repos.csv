@@ -1,0 +1,9 @@
+reponame,repourl
+mozilla.com,https://svn.mozilla.org/projects/mozilla.com/trunk/locales/ro/
+start.mozilla.org,https://svn.mozilla.org/projects/l10n-misc/trunk/fx36start/locale/ro/
+about-healthreport,https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxhealthreport/locale/ro/
+slogans,https://svn.mozilla.org/projects/granary/slogans/ro/
+snippets,https://svn.mozilla.org/projects/l10n-misc/trunk/snippets/ro/
+firefoxos-marketing,https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxos-marketing/ro/
+firefox-tiles,https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxtiles/ro/
+google-play,https://svn.mozilla.org/projects/l10n-misc/trunk/googleplay/ro/

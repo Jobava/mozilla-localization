@@ -1,0 +1,286 @@
+## active ##
+## fx10_independent ##
+## gear_store ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_make ##
+## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Construim un internet mai bun
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Știai? Mozilla — creatorul Firefox — luptă pentru a păstra internerul drept o resursă publică globală deschisă și accesibilită tuturor.
+
+
+;Home of the Mozilla Project
+Pagina de start a proiectului Mozilla
+
+
+;Read more
+Citiți mai mult
+
+
+;Community
+Comunitate
+
+
+# This is used as a link to dismiss the video overlay and continue to mozilla.org website
+;Continue to mozilla.org
+Continuați pe mozilla.org
+
+
+;Discover <br>what drives our mission
+Descoperiți <br>motivația misiunii noastre
+
+
+;See the principles <br>that guide everything <br>we do.
+Vedeți principiile <br>care ne ghidează în tot ceea ce <br>facem.
+
+
+;Read the <br>Mozilla Manifesto
+Citiți <br>Manifestul Mozilla
+
+
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Introducing <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Join. Share. <br>Get rewarded.
+
+
+;Join Firefox Friends
+Join Firefox Friends
+
+
+# Small tile. Link points to https://advocacy.mozilla.org
+;Learn about Mozilla Advocacy
+Aflați despre pledoariile Mozilla
+
+
+;Understand your privacy online
+Înțelegți importanța confidențialității online
+
+
+;Download Firefox
+Descărcați Firefox
+
+
+;Learn more
+Aflați mai multe
+
+
+;Get creative <br>at Maker Party
+Get creative <br>at Maker Party
+
+
+;Join Mozilla <br>and help teach the Web.
+Join Mozilla <br>and help teach the Web.
+
+
+;Join the party
+Join the party
+
+
+;Make the Web you want
+Creați Web-ul pe care îl doriți
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Construiți o pagină Web sau o aplicație în câteva minute<br> — fără cunoștințe de programare.
+
+
+;Become a Webmaker
+Deveniți un creator Web
+
+
+;Teach the Web
+Instruiți internetul
+
+
+;Let’s build a Web that’s open <br>and made by everyone.
+Să construim un Web deschis <br>și realizat de toți.
+
+
+;Try the new Webmaker
+Try the new Webmaker
+
+
+;Build an app <br>in seconds
+Construiți o aplicație <br>în câteva secunde
+
+
+;Volunteer <br>with Mozilla
+Fiți voluntar <br>la Mozilla
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Try Firefox Developer Edition
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Introducing Firefox Developer Edition
+Vă prezentăm Firefox Developer Edition
+
+
+;The only browser made only for developers.
+Singurul navigator creat doar pentru dezvoltatori.
+
+
+;Get Firefox Developer Edition
+Obțineți Firefox Developer Edition
+
+
+;Try the best Firefox yet
+Încercați cel mai bun Firefox de până acum
+
+
+;Made with a mission to put you first.
+Creat cu misiunea de a vă pune pe primul loc.
+
+
+;Learn more about Firefox
+Aflați mai multe despre Firefox
+
+
+;Put your Firefox on your Android
+Instalați Firefox pe Android
+
+
+;The features <br>you love. <br>The privacy <br>you trust.
+Funcțiile <br>pe care le iubiți. <br>Confidențialitatea<br> în care aveți încredere.
+
+
+;Learn about <br>Firefox for Android
+Aflați despre <br>Firefox pentru Android
+
+
+# Used in a small tile
+;Official Mozilla gear is here
+Accesorile oficiale Mozilla sunt aici
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Merch with a mission. <br>Products with a purpose. <br>Goods that do good.
+Produse cu o misiune. <br>Produse cu un scop. <br>Bunuri care fac bine.
+
+
+# This string is currently unused (tile will link to Mozilla Gear Store)
+;Get your Mozilla gear
+Obțineți accesorii Mozilla
+
+
+;Help Mozilla users
+Ajutați utilizatorii Mozilla
+
+
+;Help millions <br>get the most from their <br>favorite browser.
+Ajutați milioane <br>să profite la maxim de <br>navigatorul lor favorit.
+
+
+;Join our support team
+Alăturați-vă echipei noastre pentru asistență
+
+
+# Used in Twitter feed
+;Reply
+Răspundeți
+
+
+# Used in Twitter feed
+;Retweet
+Re-ciripiți
+
+
+# <strong> tags below are for visual formatting only.
+;Committed to <strong>you, your privacy</strong> and an <strong>open Web</strong>
+Creat pentru <strong>tine, pentru confidențialitatea</strong> dumneavoastră și pentru un <strong>Web deschis</strong>
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;active Mozillians <br>worldwide
+mozilieni activi <br>la nivel mondial
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;upcoming events <br>around the globe
+evenimente viitoare <br>din întreaga lume
+
+
+# This label follows a variable numeric count. The number appears before this string, unfortunately we don't have support for plural forms.
+;languages and counting, <br>on every continent
+de limbi și numărătoarea continuă <br>pe fiecare continent
+
+
+;Get Involved with Mozilla today
+Implicați-vă astăzi la Mozilla
+
+
+;Upcoming events
+Evenimente viitoare
+
+
+;Next event
+Următorul eveniment
+
+
+;See all events
+Vedeți toate evenimentele
+
+
+;Compare prices, check the weather, listen to music, send a tweet and more right from Firefox.
+Comparați prețuri, verificați vremea, ascultați muzică, trimiteți o ciripeală sau multe altele direct în Firefox.
+
+
+;Careers
+Cariere
+
+
+;Learn about the benefits of working at Mozilla and view open positions around the world.
+Aflați despre beneficiile de a lucra la Mozilla și vedeți pozițiile vacante din întreaga lume.
+
+
+;Get answers to your questions about Firefox and all Mozilla products from our support team.
+Primiți răspunsuri la întrebările cu privire la Firefox și toate produsele Mozilla de la echipa noastră de asistență.
+
+
+;Discover more
+Descoperiți mai multe
+
+
+;Help us celebrate 10 years of Firefox.
+Ajutați-ne să sărbătorim 10 ani de Firefox.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Donați la Mozilla
+
+
+;Your gift helps us build the Internet the world needs.
+Donația dumneavoastră ne ajută să construim internetul de care lumea are nevoie.
+
+
+;Donate today
+Donați azi
+
+
+;Meet<br> Firefox Hello
+Faceți cunoștință cu<br> Firefox Hello
+
+
+;The easiest way to connect for free over video.
+Cea mai ușoară cale de a vă conecta video, gratuit.
+
+
+;Try Firefox Hello
+Încearcați Firefox Hello
+
+
