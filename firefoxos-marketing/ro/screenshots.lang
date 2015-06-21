@@ -5,466 +5,466 @@
 
 # Screen 1 (Music App): provide fictional items, DO NOT TRANSLATE the original string and remove the brackets in your translation.
 ;[made up song title]
-[made up song title]
+Un cântec aparte
 
 
 # Screen 1 (Music App): provide a fictional band and artist
 ;[made up local artist or band]
-[made up local artist or band]
+Zâmbărețu
 
 
 # Screen 1 (Music App):
 ;[made up local album title]
-[made up local album title]
+Revin de pe Marte
 
 
 # Screen 2 (Music), screen 6 (Icon Grid), screen 11 (e.me party)
 ;Music
-Music
+Muzică
 
 
 # Screen 3 (Video)
 ;Happy birthday
-Happy birthday
+La mulți ani
 
 
 # Screen 3 (Video)
 ;Summer vacation fun
-Summer vacation fun
+Distracție în vacanța de vară
 
 
 # Screen 3 (Video)
 ;Hanging out with the family
-Hanging out with the family
+Împreună cu familia
 
 
 # Screen 3 (Video)
 ;Dinner with the gang/friends
-Dinner with the gang/friends
+Cina cu prietenii
 
 
 # Screen 4 (Markeplace)
 ;Search
-Search
+Căutare
 
 
 # Screen 4 (Markeplace)
 ;All Categories
-All Categories
+Toate categoriile
 
 
 # Screen 4 (Markeplace)
 ;Featured Apps
-Featured Apps
+Aplicații recomandate
 
 
 # Screen 4 (Markeplace)
 ;View All
-View All
+Vedeți toate
 
 
 # Screen 4 (Markeplace)
 ;Popular
-Popular
+Ce e popular
 
 
 # Screen 4 (Markeplace)
 ;New
-New
+Nou
 
 
 # Screen 4 (Markeplace)
 ;Free
-Free
+Gratuit
 
 
 # Screen 5 (Homescreen)
 ;I’m thinking of…
-I’m thinking of…
+Mă gândesc la…
 
 
 # Screen 5 (Homescreen):
 ;Social
-Social
+Social {ok}
 
 
 # Screen 5 (Homescreen):
 ;Games
-Games
+Jocuri
 
 
 # Screen 5 (Homescreen):
 ;ShowBiz
-ShowBiz
+ShowBiz {ok}
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Gallery
-Gallery
+Galerie
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Camera
-Camera
+Cameră
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Calendar
-Calendar
+Calendar {ok}
 
 
 # Screen 6 (Icon Grid)
 ;Clock
-Clock
+Ceas
 
 
 # Screen 6 (Icon Grid), screen 18 (Usage)
 ;Usage
-Usage
+Utilizare
 
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Video
-Video
+Video {ok}
 
 
 # Screen 6 (Icon Grid)
 ;Email
-Email
+Email {ok}
 
 
 # Screen 6 (Icon Grid)
 ;FM Radio
-FM Radio
+Radio FM
 
 
 # Screen 6 (Icon Grid)
 ;Settings
-Settings
+Setări {ok}
 
 
 # Screen 7 (Here Maps)
 ;Cafe
-Cafe
+Cafea
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#1]
-[local street name#1]
+Aleea Cafenelelor
 
 
 # Screen 7 (Maps): This will point to the destination of city cafe.  remove the brackets in your translation.
 ;[local street name#2]
-[local street name#2]
+Strada Florilor
 
 
 # Screen 7 (Here Maps), screen 11 (e.me party), screen 12 (e.me party)
 ;Results Simulated
-Results Simulated
+Rezultate simulate
 
 
 # Screen 8 (Gallery)
 ;June 2014
-June 2014
+Iunie 2014
 
 
 # Screen 9 (Gallery with Filters)
 ;Edit
-Edit
+Modifică
 
 
 # Screen 9 (Gallery with Filters)
 ;Done
-Done
+Gata
 
 
 # Screen 11 (e.me party)
 ;Party
-Party
+Petrecere
 
 
 # Screen 11 (e.me party)
 ;Everything Party
-Everything Party
+Petrecerea Everything
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;EzGift
-EzGift
+EzGift {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Cater Girls
-Cater Girls
+Cater Girls {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Quickvite
-Quickvite
+Quickvite {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Balloonies
-Balloonies
+Balloonies {ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;Flowerettes
-Flowerettes
+Flowerettes{ok}
 
 
 # Screen 11 (e.me party) NOTE: fictional
 ;My Bulletin
-My Bulletin
+Buletinul meu
 
 
 # Screen 11 (e.me party)
 ;Notes
-Notes
+Note
 
 
 # Screen 12 (e.me party)
 ;Café
-Café
+Cafenea
 
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Everything Cafe
+Cafeneaua Everything
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Cafe Calories
-Cafe Calories
+Cafeneaua Calories
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Caffeine Diaries
-Caffeine Diaries
+Jurnalele cafelei
 
 
 # Screen 12 (e.me party) NOTE: fictional; DIY=Do It Yourself
 ;D.I.Y. Barista
-D.I.Y. Barista
+Bărmănița D.I.Y.
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Coffee Addicts
-Coffee Addicts
+Dependenți de cafeină
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Java Spotter
-Java Spotter
+Java Spotter {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Join Up
-Join Up
+Alăturați-vă
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;MyGrubber
-MyGrubber
+MyGrubber {ok}
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Park It Here
-Park It Here
+Parcați aici
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Bookclub Finder
-Bookclub Finder
+Cluburi de lectură
 
 
 # Screen 12 (e.me party) NOTE: fictional
 ;Book Beamer
-Book Beamer
+Book Beamer {ok}
 
 
 # Screen 13 (Contacts)
 ;Contacts
-Contacts
+Contacte
 
 
 # Screen 13 (Contacts)
 ;Search…
-Search…
+Căutare…
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #1]
-[made up name #1]
+Cristian Constantin
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #2]
-[made up name #2]
+Alexandru Popescu
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #3]
-[made up name #3]
+Gabriel Stoica
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #4]
-[made up name #4]
+Ștefan Suciu
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #5]
-[made up name #5]
+Andrei Vasilescu
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #6]
-[made up name #6]
+Ionuț Velea
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #7]
-[made up name #7]
+Maria Andronache
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #8]
-[made up name #8]
+Gabriela Ciobanu
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #9]
-[made up name #9]
+Alexandra Crișan
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #10]
-[made up name #10]
+Andreea Mocanu
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #11]
-[made up name #11]
+Elena Munteanu
 
 
 # Screen 13 (Contacts) NOTE: provide 12 fake names, 6 male and 6 female; 3  of each with profession/job title; sorting order by family name; The alphabet of family name must be three consecutive letters. Check screenshot for reference
 ;[made up name #12]
-[made up name #12]
+Ioana Ungureanu
 
 
 # Screen 14 (Email)
 ;Inbox (2)
-Inbox (2)
+Inbox (2) {ok}
 
 
 # Screen 14 (Email)
 ;Re:
-Re:
+Re: {ok}
 
 
 # Screen 14 (Email)
 ;Send photos please / You 're the best! Thanks so…
-Send photos please / You 're the best! Thanks so…
+Trimiteți poze / Ești cel mai bun! Mulțumesc foarte…
 
 
 # Screen 14 (Email)
 ;Road trip next weekend / I've been wanting to visit that place…
-Road trip next weekend / I've been wanting to visit that place…
+Călătorie în weekendul următor / Vroiam să vizitez acel loc…
 
 
 # Screen 14 (Email)
 ;You might like this / Great find! I'll definitely check with you
-You might like this / Great find! I'll definitely check with you
+S-ar putea să-ți placă astea / Foarte tare! Am să văd și eu
 
 
 # Screen 14 (Email)
 ;We're moving! / Hello Friends! Join us on Saturday to…
-We're moving! / Hello Friends! Join us on Saturday to…
+Ne mutăm! / Salut prieteni! Veniți la noi sâmbăta pentru…
 
 
 # Screen 14 (Email)
 ;It was nice meeting you! I heard you are going the…
-It was nice meeting you! I heard you are going the…
+Încântat de cunoștiință! Am auzit că mergi la…
 
 
 # Screen 14 (Email)
 ;Yesterday
-Yesterday
+Ieri
 
 
 # Screen 14 (Email)
 ;1 week ago
-1 week ago
+Acum o săptămână
 
 
 # Screen 14 (Email)
 ;May 25
-May 25
+25 Mai
 
 
 # Screen 15 and 16 (Dialer) NOTE: provide a fake phone number that complies to your country’s phone number format
 ;[fake local phone number]
-[fake local phone number]
+021 123 45 67
 
 
 # Screen 16 (Outgoing Call)
 ;Connecting
-Connecting
+Conectare
 
 
 # Screen 16 (Outgoing Call) NOTE: use the same fake name provided in the Contact screen.
 ;[fake name from Contact list]
-[fake name from Contact list]
+Gabriela Ciobanu
 
 
 # Screen 17 (Browser)
 ;Firefox Start Page
-Firefox Start Page
+Pagină de start Firefox
 
 
 # Screen 17 (Browser)
 ;Top Sites
-Top Sites
+Saituri de top
 
 
 # Screen 18 (Usage)
 ;3G Usage
-3G Usage
+Gradul de utilizare 3G
 
 
 # Screen 18 (Usage)
 ;Wifi Usage
-Wifi Usage
+Gradul de utilizare WiFi
 
 
 # Screen 18 (Usage)
 ;May 1, May 20, May 30
-May 1, May 20, May 30
+1 mai, 20 mai, 30 mai
 
 
 # Screen 19 (Lock Screen)
 ;Carrier
-Carrier
+Operator
 
 
 # Screen 19 (Lock Screen)
 ;8:36PM
-8:36PM
+8:36PM {ok}
 
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Friday, May 26
+Vineri 26 mai
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
 ;[song title]
-[song title]
+Un cântec aparte
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same artist provided in Music App screen)
 ;[artist]
-[artist]
+Zâmbărețu
 
 
