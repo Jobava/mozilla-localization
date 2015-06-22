@@ -75,5 +75,6 @@ Format: English - Romanian
 * tab / tabs - filă / file
 * tile / tiles - panou / panouri
 * extension / extensions - supliment / suplimente
-* add-on / add-ons - modul / module
+* add-on / add-ons - supliment / suplimente
+* plugin / plugins - modul / module
 * Sync - Sincronizare
