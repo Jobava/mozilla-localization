@@ -1,4 +1,4 @@
-;Firefox Health Report
+﻿;Firefox Health Report
 Raport de stare pentru Firefox
 
 
@@ -119,7 +119,7 @@ Se pare că navigatorul dumneavoastră a înregistrat câteva defecte recent. Pe
 
 
 ;OFF
-Oprită
+Oprit
 
 
 ;Visit our <a href="%(sumo_url)s">support website</a>
@@ -199,7 +199,7 @@ Performanță
 
 
 ;Timing of browser events, rendering, session restores
-Cronometratrea evenimentelor navigatorului, randarea, restaurarea sesiunii
+Cronometrarea evenimentelor navigatorului, randarea, restaurarea sesiunii
 
 
 ;Length of session, how old a profile is, count of crashes, count of pages
