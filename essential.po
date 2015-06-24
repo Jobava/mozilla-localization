@@ -1,0 +1,3038 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-09 23:19+0200\n"
+"PO-Revision-Date: 2015-06-11 17:37+0000\n"
+"Last-Translator: Raul <raul.malea@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1\n"
+"X-POOTLE-MTIME: 1434044222.000000\n"
+"X-Pootle-Path: /ro/terminology/essential.po\n"
+"X-Pootle-Revision: 0\n"
+
+# Essential terminology list for general software localisation
+# License: GPL
+# Copyright Youssef Chahibi, Friedel Wolff 2006
+msgid "abort"
+msgstr "renunță"
+
+msgid "absolute"
+msgstr "absolut"
+
+msgid "abstract"
+msgstr "abstract"
+
+msgid "accelerator"
+msgstr "accelerator"
+
+msgid "accent"
+msgstr "accent"
+
+msgid "accept"
+msgstr "accepta"
+
+msgid "access"
+msgstr "accesa"
+
+msgid "accessibility"
+msgstr "accesibilitate"
+
+msgid "accessory"
+msgstr "accesorii"
+
+msgid "account"
+msgstr "cont"
+
+msgid "accuracy"
+msgstr "acuratețe"
+
+msgid "acquire"
+msgstr "achiziționa"
+
+msgid "acronym"
+msgstr "acronim"
+
+msgid "action"
+msgstr "acțiune"
+
+msgid "activate"
+msgstr "activare"
+
+msgid "active"
+msgstr "activ"
+
+msgid "activity"
+msgstr "activitate"
+
+msgid "adapter"
+msgstr "adaptor"
+
+msgid "add"
+msgstr "adăugare"
+
+msgid "address"
+msgstr "adresă"
+
+msgid "adjust"
+msgstr "ajustare"
+
+msgid "administration"
+msgstr "administrare"
+
+msgid "administrator"
+msgstr "administrator"
+
+msgid "advanced"
+msgstr "avansat"
+
+msgid "agent"
+msgstr "agent"
+
+msgid "agree"
+msgstr "de acord"
+
+msgid "agreement"
+msgstr "acord"
+
+msgid "alarm"
+msgstr "alarmă"
+
+msgid "alert"
+msgstr "alertă"
+
+msgid "algorithm"
+msgstr "algoritm"
+
+msgid "alias"
+msgstr "alias"
+
+msgid "aliasing"
+msgstr "aliere"
+
+msgid "align"
+msgstr "aliniere"
+
+msgid "alignment"
+msgstr "aliniament"
+
+msgid "allow"
+msgstr "permite"
+
+msgid "alphanumeric"
+msgstr "alfanumeric"
+
+msgid "alternative"
+msgstr "alternativă"
+
+msgid "amount"
+msgstr "sumă"
+
+msgid "analysis"
+msgstr "analiză"
+
+msgid "anchor"
+msgstr "ancoră"
+
+msgid "angle"
+msgstr "unghi"
+
+msgid "animate"
+msgstr "anima"
+
+msgid "animation"
+msgstr "animație"
+
+msgid "announce"
+msgstr "anunța"
+
+msgid "announcement"
+msgstr "anunț"
+
+msgid "anonymous"
+msgstr "anonim"
+
+msgid "anti-aliasing"
+msgstr "antialiere"
+
+msgid "anti virus"
+msgstr "antivirus"
+
+msgid "appear"
+msgstr "apărea"
+
+msgid "append"
+msgstr "anexa"
+
+msgid "applet"
+msgstr "applet"
+
+msgid "application"
+msgstr "aplicație"
+
+msgid "apply"
+msgstr "aplicare"
+
+msgid "approval"
+msgstr "aprobare"
+
+msgid "approve"
+msgstr "aprobă"
+
+msgid "approximate"
+msgstr "aproximativ"
+
+msgid "arbitrary"
+msgstr "arbitrar"
+
+msgid "archive"
+msgstr "arhivă"
+
+msgid "area"
+msgstr "zonă"
+
+msgid "argument"
+msgstr "argument"
+
+msgid "arrangement"
+msgstr "aranjament"
+
+msgid "arrow"
+msgstr "săgeată"
+
+msgid "article"
+msgstr "articol"
+
+msgid "ascending"
+msgstr "ascendent"
+
+msgid "aspect"
+msgstr "aspect"
+
+msgid "assign"
+msgstr "atribui"
+
+msgid "assignment"
+msgstr "atribuire"
+
+msgid "asynchronous"
+msgstr "asincron"
+
+msgid "attach"
+msgstr "atașa"
+
+msgid "attachment"
+msgstr "atașament"
+
+msgid "attempt"
+msgstr "încercare"
+
+msgid "attribute"
+msgstr "atribut"
+
+msgid "audio"
+msgstr "audio"
+
+msgid "authenticate"
+msgstr "autentificare"
+
+msgid "authentication"
+msgstr "autentificare"
+
+msgid "authorization"
+msgstr "autorizare"
+
+msgid "authorize"
+msgstr "autoriza"
+
+msgid "auto"
+msgstr "auto"
+
+msgid "automatic"
+msgstr "automat"
+
+msgid "availability"
+msgstr "disponibilitate"
+
+msgid "available"
+msgstr "disponibil"
+
+msgid "average"
+msgstr "mediu"
+
+msgid "axis"
+msgstr "axă"
+
+msgid "backbone"
+msgstr "coloană vertebrală"
+
+msgid "back-end"
+msgstr ""
+
+msgid "background"
+msgstr "fundal"
+
+msgid "backup"
+msgstr "copie de siguranță"
+
+msgid "bandwidth"
+msgstr "lățime de bandă"
+
+msgid "banner"
+msgstr "banner"
+
+msgid "bar"
+msgstr "bară"
+
+msgid "base"
+msgstr "bază"
+
+msgid "beep"
+msgstr "beep"
+
+msgid "begin"
+msgstr "începe"
+
+msgid "behavior"
+msgstr "comportament"
+
+msgid "binary"
+msgstr "binar"
+
+msgid "bind"
+msgstr "fixa"
+
+msgid "bit"
+msgstr "bit"
+
+msgid "bitmap"
+msgstr "bitmap"
+
+msgid "blank"
+msgstr "gol"
+
+msgid "blink"
+msgstr "clipi"
+
+msgid "block (unit)"
+msgstr "bloc (unitate)"
+
+msgid "block (verb)"
+msgstr "bloca (verb)"
+
+msgid "blog"
+msgstr "blog"
+
+msgid "blur"
+msgstr "estompa"
+
+msgid "board"
+msgstr "panou"
+
+msgid "body"
+msgstr "corp"
+
+msgid "bold"
+msgstr "aldin"
+
+msgid "bookmarks"
+msgstr "semne de carte"
+
+msgid "boot"
+msgstr "pornire"
+
+msgid "border"
+msgstr "margine"
+
+msgid "box"
+msgstr "cutie"
+
+msgid "bracket"
+msgstr "paranteză"
+
+msgid "branch"
+msgstr "ramură"
+
+msgid "break"
+msgstr "întrerupere/pauză"
+
+msgid "break (program)"
+msgstr ""
+
+msgid "break point"
+msgstr "punct de întrerupere"
+
+msgid "bridge (verb)"
+msgstr "a construi o punte (verb)"
+
+msgid "bridge (noun)"
+msgstr "pod/punte (substantiv)"
+
+msgid "broken"
+msgstr "stricat/spart/incorect"
+
+msgid "browse"
+msgstr "navighează/răsfoiește/selectează"
+
+msgid "browser"
+msgstr "navigator"
+
+msgid "buffer"
+msgstr "zonă tampon"
+
+msgid "bug"
+msgstr "defect"
+
+msgid "build"
+msgstr "versiune generată/construită/compilată"
+
+msgid "built-in"
+msgstr "integrat"
+
+msgid "bullet"
+msgstr "bulină, punct, marcator"
+
+msgid "bus"
+msgstr "magistrală/autobuz"
+
+msgid "button"
+msgstr "buton"
+
+msgid "byte"
+msgstr "octet"
+
+msgid "cable"
+msgstr "cablu"
+
+msgid "cache"
+msgstr "cache"
+
+msgid "calculate"
+msgstr "calcula"
+
+msgid "calculator"
+msgstr "calculator"
+
+msgid "calendar"
+msgstr "calendar"
+
+msgid "call"
+msgstr "apel"
+
+msgid "camera"
+msgstr "cameră"
+
+msgid "cancel"
+msgstr "renunța/anula"
+
+msgid "capability"
+msgstr "capabilitate"
+
+msgid "capacity"
+msgstr "capacitate"
+
+msgid "caption"
+msgstr "etichetă/titlu"
+
+msgid "capture"
+msgstr "captură"
+
+msgid "card"
+msgstr "card/cartelă"
+
+msgid "case"
+msgstr ""
+
+msgid "case (font)"
+msgstr ""
+
+msgid "catalog"
+msgstr "catalog"
+
+msgid "category"
+msgstr "categorie"
+
+msgid "cell"
+msgstr "celulă"
+
+msgid "certificate"
+msgstr "certificat"
+
+msgid "certify"
+msgstr "certifică/atestă"
+
+msgid "change"
+msgstr "schimbare/modificare"
+
+msgid "channel"
+msgstr "canal"
+
+msgid "character"
+msgstr "caracter"
+
+msgid "charset"
+msgstr "set de caractere"
+
+msgid "chart"
+msgstr "diagramă/grafic"
+
+msgid "chat"
+msgstr "chat/discuție"
+
+msgid "check"
+msgstr "bifat / verificat / controlat"
+
+msgid "check box"
+msgstr "căsuță de bifare/validare"
+
+msgid "child"
+msgstr "copil"
+
+msgid "choice"
+msgstr "alegere"
+
+msgid "choose"
+msgstr "alege"
+
+msgid "class"
+msgstr "clasă"
+
+msgid "classic"
+msgstr "clasic"
+
+msgid "classify"
+msgstr "clasifica"
+
+msgid "clean"
+msgstr "curat"
+
+msgid "clear"
+msgstr "curăța"
+
+msgid "click (noun)"
+msgstr "clic (substantiv)"
+
+msgid "click (verb)"
+msgstr "(da)/(face) clic (verb)"
+
+msgid "client"
+msgstr "client"
+
+msgid "clip art"
+msgstr ""
+
+msgid "clip board"
+msgstr "clip board"
+
+msgid "clock"
+msgstr "ceas"
+
+msgid "close"
+msgstr "închide"
+
+msgid "code (program)"
+msgstr "cod (program)"
+
+msgid "code (symbol)"
+msgstr "cod (simbol)"
+
+msgid "codec"
+msgstr "codec"
+
+msgid "collapse"
+msgstr "restânge"
+
+msgid "collect"
+msgstr "colecta"
+
+msgid "column"
+msgstr "coloană"
+
+msgid "combination"
+msgstr "combinație"
+
+msgid "comma"
+msgstr "virgulă"
+
+msgid "command"
+msgstr "comandă"
+
+msgid "comment"
+msgstr "comentariu"
+
+msgid "common"
+msgstr "comun"
+
+msgid "communication"
+msgstr "comunicare"
+
+msgid "compact"
+msgstr "compacta"
+
+msgid "compare"
+msgstr "compara"
+
+msgid "compatibility"
+msgstr "compatibilitate"
+
+msgid "compatible"
+msgstr "compatibil"
+
+msgid "compilation"
+msgstr "compilare"
+
+msgid "compile"
+msgstr "compila"
+
+msgid "compiler"
+msgstr "compilator"
+
+msgid "complete"
+msgstr "complet"
+
+msgid "component"
+msgstr "componentă"
+
+msgid "compose"
+msgstr "compune"
+
+msgid "composition"
+msgstr "compoziție"
+
+msgid "compress"
+msgstr "comprima"
+
+msgid "compression"
+msgstr "compresie"
+
+msgid "computer"
+msgstr "calculator"
+
+msgid "computing"
+msgstr "computing"
+
+msgid "concatenate"
+msgstr "concatena"
+
+msgid "concurrent"
+msgstr "concomitent"
+
+msgid "condense"
+msgstr "condensa"
+
+msgid "condition"
+msgstr "condiție"
+
+msgid "configuration"
+msgstr "configurație"
+
+msgid "configure"
+msgstr "configura"
+
+msgid "confirm"
+msgstr "confirma"
+
+msgid "confirmation"
+msgstr "confirmare"
+
+msgid "conflict"
+msgstr "conflict"
+
+msgid "connect"
+msgstr "conectare"
+
+msgid "connection"
+msgstr "conexiune"
+
+msgid "console"
+msgstr "consolă"
+
+msgid "contact (noun)"
+msgstr "contact (substantiv)"
+
+msgid "contact (verb)"
+msgstr "contacta (verb)"
+
+msgid "content"
+msgstr "conținut"
+
+msgid "context"
+msgstr "context"
+
+msgid "continue"
+msgstr "continua"
+
+msgid "contrast"
+msgstr "contrast"
+
+msgid "contributor"
+msgstr "contribuitor"
+
+msgid "control"
+msgstr "control"
+
+msgid "conversion"
+msgstr "conversie"
+
+msgid "convert"
+msgstr "converti"
+
+msgid "cookie"
+msgstr "cookie"
+
+msgid "cooperative"
+msgstr "cooperativ"
+
+msgid "coordinate"
+msgstr "coordonată"
+
+msgid "copy (noun)"
+msgstr "copiere (substantiv)"
+
+msgid "copy (verb)"
+msgstr "copia (verb)"
+
+msgid "copy left"
+msgstr ""
+
+msgid "copy right"
+msgstr ""
+
+msgid "correct"
+msgstr "corect"
+
+msgid "correspondence"
+msgstr ""
+
+msgid "correspondent"
+msgstr "corespondent"
+
+msgid "corrupt"
+msgstr "corupt"
+
+msgid "count"
+msgstr "contor/contoriza/număra"
+
+msgid "countable"
+msgstr "numărabil"
+
+msgid "crash"
+msgstr "defecțiune"
+
+msgid "create"
+msgstr "crea"
+
+msgid "creation"
+msgstr "creare/creație"
+
+msgid "criteria"
+msgstr "criterii"
+
+msgid "crop"
+msgstr "decupare/tăiere"
+
+msgid "cross-platform"
+msgstr "mai multe platforme"
+
+msgid "crypt"
+msgstr ""
+
+msgid "cryptology"
+msgstr "criptologie"
+
+msgid "current"
+msgstr "actual/curent"
+
+msgid "cursor"
+msgstr "cursor"
+
+msgid "curve"
+msgstr "curbă"
+
+msgid "custom"
+msgstr "personalizat"
+
+msgid "customization"
+msgstr "personalizare"
+
+msgid "customize"
+msgstr "personalizare"
+
+msgid "cut"
+msgstr "tăia/decupa"
+
+msgid "cycle"
+msgstr "ciclu"
+
+msgid "daemon"
+msgstr "serviciu/aplicație"
+
+msgid "damage"
+msgstr ""
+
+msgid "data"
+msgstr "date"
+
+msgid "database"
+msgstr "bază de date"
+
+msgid "debug"
+msgstr "depana"
+
+msgid "debugger"
+msgstr "depanator"
+
+msgid "decimal"
+msgstr "zecimal"
+
+msgid "decode"
+msgstr ""
+
+msgid "decompress"
+msgstr "decomprima"
+
+msgid "decrease"
+msgstr "micșora"
+
+msgid "decrypt"
+msgstr "decripta"
+
+msgid "decryption"
+msgstr "decriptare"
+
+msgid "default"
+msgstr "implicit"
+
+msgid "defect"
+msgstr ""
+
+msgid "define"
+msgstr "defini"
+
+msgid "definition"
+msgstr "definiție"
+
+msgid "degree"
+msgstr "grad"
+
+msgid "delay"
+msgstr "întârziere"
+
+msgid "delete"
+msgstr "șterge"
+
+msgid "deletion"
+msgstr "ștergere"
+
+msgid "delimiter"
+msgstr "delimitator"
+
+msgid "demo"
+msgstr "demo(nstrație)"
+
+msgid "deny"
+msgstr "refuza/respinge"
+
+msgid "dependence"
+msgstr "dependență"
+
+msgid "dependency"
+msgstr "dependență"
+
+msgid "depth"
+msgstr "adâncime"
+
+msgid "derived"
+msgstr "derivat(ă)"
+
+msgid "descending"
+msgstr "descrescător"
+
+msgid "description"
+msgstr "descriere"
+
+msgid "deselect"
+msgstr "deselectare"
+
+msgid "design"
+msgstr "design/proiectare/concept"
+
+msgid "desktop"
+msgstr "desktop"
+
+msgid "destination"
+msgstr "destinație"
+
+msgid "destroy"
+msgstr "distruge"
+
+msgid "detach"
+msgstr "detașa"
+
+msgid "detect"
+msgstr "detecta"
+
+msgid "develop"
+msgstr "dezvolta"
+
+msgid "development"
+msgstr "dezvoltare"
+
+msgid "developer"
+msgstr "dezvoltator"
+
+msgid "device"
+msgstr "dispozitiv"
+
+msgid "diagram"
+msgstr "Diagramă"
+
+msgid "dial"
+msgstr ""
+
+msgid "dialog"
+msgstr "dialog"
+
+msgid "dialup"
+msgstr "dialup"
+
+msgid "difference"
+msgstr "diferență"
+
+msgid "digit"
+msgstr "cifră/zecimală"
+
+msgid "digital"
+msgstr "digital"
+
+msgid "dimension"
+msgstr "dimensiune"
+
+msgid "directory"
+msgstr "director"
+
+msgid "disable"
+msgstr "dezactiva"
+
+msgid "disc"
+msgstr "disc"
+
+msgid "discard"
+msgstr "înlătura/elimina/anula"
+
+msgid "disconnect"
+msgstr "deconecta"
+
+msgid "discussion"
+msgstr "discuție"
+
+msgid "disk"
+msgstr "disc"
+
+msgid "dispatch"
+msgstr "livra/trimite"
+
+msgid "display"
+msgstr "afișaj"
+
+msgid "distort"
+msgstr "distorsiona"
+
+msgid "distribute"
+msgstr "distribui"
+
+msgid "distribution"
+msgstr "distribuție/distribuire"
+
+msgid "distributor"
+msgstr "distribuitor"
+
+msgid "dock"
+msgstr "andoca"
+
+msgid "document"
+msgstr "document"
+
+msgid "documentation"
+msgstr "documentație"
+
+msgid "domain"
+msgstr "domeniu"
+
+msgid "double click"
+msgstr "dublu clic"
+
+msgid "download"
+msgstr "descărca/descărcare"
+
+msgid "drag"
+msgstr "trage"
+
+msgid "draw"
+msgstr "desena/desen"
+
+msgid "driver"
+msgstr "driver/unitate"
+
+msgid "dual"
+msgstr "dual/dublu"
+
+msgid "dump"
+msgstr ""
+
+msgid "duplicate"
+msgstr "duplica"
+
+msgid "dynamic"
+msgstr "dinamic"
+
+msgid "echo"
+msgstr "ecou"
+
+msgid "edit"
+msgstr "edita"
+
+msgid "edition"
+msgstr "ediție"
+
+msgid "editor"
+msgstr "editor"
+
+msgid "effect"
+msgstr "efect"
+
+msgid "eject"
+msgstr "ejecta/respinge/îndepărta"
+
+msgid "electronic"
+msgstr "electronic"
+
+msgid "element"
+msgstr "element"
+
+msgid "email"
+msgstr "e-mail"
+
+msgid "embed"
+msgstr "încorporat"
+
+msgid "emoticon"
+msgstr "emoticon"
+
+msgid "empty"
+msgstr "gol"
+
+msgid "emulate"
+msgstr "emula"
+
+msgid "emulation"
+msgstr "emulare"
+
+msgid "emulator"
+msgstr "emulator"
+
+msgid "enable"
+msgstr "activa"
+
+msgid "enabled"
+msgstr "activat"
+
+msgid "encode"
+msgstr ""
+
+msgid "encoding"
+msgstr ""
+
+msgid "encrypt"
+msgstr "cripta"
+
+msgid "encrypted"
+msgstr "criptat"
+
+msgid "encryption"
+msgstr "criptare"
+
+msgid "engine"
+msgstr "motor"
+
+msgid "enhancement"
+msgstr ""
+
+msgid "enlarge"
+msgstr ""
+
+msgid "enlargement"
+msgstr ""
+
+msgid "enter"
+msgstr ""
+
+msgid "entertainment"
+msgstr ""
+
+msgid "entry"
+msgstr "intrare"
+
+msgid "environment"
+msgstr ""
+
+msgid "equalizer"
+msgstr ""
+
+msgid "erase"
+msgstr ""
+
+msgid "error"
+msgstr "eroare"
+
+msgid "escape"
+msgstr ""
+
+msgid "evaluation"
+msgstr ""
+
+msgid "event"
+msgstr ""
+
+msgid "exception"
+msgstr ""
+
+msgid "executable"
+msgstr "executabil"
+
+msgid "execute"
+msgstr ""
+
+msgid "existing"
+msgstr ""
+
+msgid "exit"
+msgstr ""
+
+msgid "expand"
+msgstr ""
+
+msgid "expansion"
+msgstr ""
+
+msgid "explore"
+msgstr ""
+
+msgid "export"
+msgstr ""
+
+msgid "expression"
+msgstr ""
+
+msgid "extend"
+msgstr ""
+
+msgid "extensible"
+msgstr ""
+
+msgid "extension"
+msgstr "extensie"
+
+msgid "external"
+msgstr ""
+
+msgid "extra"
+msgstr ""
+
+msgid "extract"
+msgstr ""
+
+msgid "fail"
+msgstr ""
+
+# فادح: مثل خطأ فادح
+msgid "fatal"
+msgstr ""
+
+msgid "fault"
+msgstr ""
+
+msgid "favorite"
+msgstr ""
+
+msgid "feature"
+msgstr ""
+
+msgid "feed"
+msgstr ""
+
+msgid "feedback"
+msgstr ""
+
+msgid "fetch"
+msgstr ""
+
+msgid "field"
+msgstr ""
+
+msgid "figure"
+msgstr ""
+
+msgid "file"
+msgstr ""
+
+msgid "fill"
+msgstr "umple"
+
+msgid "filter"
+msgstr "filtru"
+
+msgid "find"
+msgstr "găsi"
+
+msgid "firewall"
+msgstr "firewall/paravan de protecție"
+
+msgid "firmware"
+msgstr ""
+
+msgid "fit"
+msgstr ""
+
+msgid "fix"
+msgstr ""
+
+msgid "flag"
+msgstr ""
+
+msgid "flash"
+msgstr ""
+
+msgid "flat"
+msgstr ""
+
+msgid "flip"
+msgstr ""
+
+msgid "float (verb)"
+msgstr ""
+
+msgid "flood"
+msgstr ""
+
+msgid "floppy"
+msgstr ""
+
+msgid "folder"
+msgstr ""
+
+msgid "font"
+msgstr ""
+
+msgid "footer"
+msgstr "subsol"
+
+msgid "form"
+msgstr ""
+
+msgid "format (noun)"
+msgstr ""
+
+msgid "format (verb)"
+msgstr ""
+
+msgid "formatted"
+msgstr ""
+
+msgid "formula"
+msgstr ""
+
+msgid "forum"
+msgstr "forum"
+
+msgid "fragment"
+msgstr "fragment"
+
+msgid "frame"
+msgstr ""
+
+msgid "frame set"
+msgstr ""
+
+msgid "framework"
+msgstr ""
+
+msgid "free software"
+msgstr ""
+
+msgid "freeze"
+msgstr ""
+
+msgid "frequency"
+msgstr "frecvență"
+
+msgid "front end"
+msgstr ""
+
+msgid "function"
+msgstr "funcție"
+
+msgid "gallery"
+msgstr "galerie"
+
+msgid "game"
+msgstr "joc"
+
+msgid "gateway"
+msgstr "gateway"
+
+msgid "generate"
+msgstr "genera"
+
+msgid "generation"
+msgstr "generație"
+
+msgid "generator"
+msgstr "generator"
+
+msgid "generic"
+msgstr "generic"
+
+msgid "geometric"
+msgstr "geometric"
+
+msgid "geometry"
+msgstr "geometrie"
+
+msgid "grab"
+msgstr ""
+
+msgid "gradient"
+msgstr ""
+
+msgid "grain"
+msgstr ""
+
+msgid "graph"
+msgstr ""
+
+msgid "graphic"
+msgstr "grafic"
+
+msgid "graphical"
+msgstr "grafic"
+
+msgid "graphics"
+msgstr "grafică"
+
+msgid "gray-scale"
+msgstr ""
+
+msgid "grid"
+msgstr ""
+
+msgid "group"
+msgstr "grup"
+
+msgid "guess"
+msgstr ""
+
+msgid "guest"
+msgstr ""
+
+msgid "handle (noun)"
+msgstr ""
+
+msgid "handle (verb)"
+msgstr ""
+
+msgid "handler"
+msgstr ""
+
+msgid "hardware"
+msgstr ""
+
+msgid "hash"
+msgstr ""
+
+msgid "head"
+msgstr ""
+
+msgid "header"
+msgstr "antet"
+
+msgid "height"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "hide"
+msgstr ""
+
+msgid "hierarchy"
+msgstr ""
+
+msgid "high light"
+msgstr ""
+
+msgid "history"
+msgstr ""
+
+msgid "host"
+msgstr ""
+
+msgid "hostname"
+msgstr ""
+
+msgid "hyperlink"
+msgstr ""
+
+msgid "hypertext"
+msgstr ""
+
+msgid "icon"
+msgstr ""
+
+msgid "identify"
+msgstr ""
+
+msgid "idle"
+msgstr ""
+
+msgid "ignore"
+msgstr ""
+
+msgid "image"
+msgstr ""
+
+msgid "implement"
+msgstr ""
+
+msgid "import"
+msgstr ""
+
+msgid "inactive"
+msgstr ""
+
+msgid "inbox"
+msgstr ""
+
+msgid "inch"
+msgstr ""
+
+msgid "include"
+msgstr ""
+
+msgid "incoming"
+msgstr ""
+
+msgid "incompatible"
+msgstr ""
+
+msgid "increase"
+msgstr ""
+
+msgid "increment"
+msgstr ""
+
+msgid "indent"
+msgstr ""
+
+msgid "index"
+msgstr ""
+
+msgid "indice"
+msgstr ""
+
+msgid "infect"
+msgstr ""
+
+msgid "infinite"
+msgstr ""
+
+msgid "information"
+msgstr ""
+
+msgid "infrared"
+msgstr ""
+
+msgid "initial"
+msgstr ""
+
+msgid "initialize"
+msgstr ""
+
+msgid "input"
+msgstr ""
+
+msgid "insert"
+msgstr ""
+
+msgid "install"
+msgstr ""
+
+msgid "installer"
+msgstr ""
+
+msgid "instance"
+msgstr ""
+
+msgid "instruction"
+msgstr ""
+
+msgid "integer"
+msgstr "număr/întreg"
+
+msgid "integral"
+msgstr ""
+
+msgid "integrate"
+msgstr ""
+
+msgid "integration"
+msgstr ""
+
+msgid "integrity"
+msgstr ""
+
+msgid "intensity"
+msgstr ""
+
+msgid "interactivity"
+msgstr ""
+
+msgid "interface"
+msgstr ""
+
+msgid "internal"
+msgstr ""
+
+msgid "internet"
+msgstr "internet"
+
+msgid "interrupt"
+msgstr "întrerupe"
+
+msgid "invalid"
+msgstr "invalid/nevalid/incorect"
+
+msgid "inverse"
+msgstr "inversa"
+
+msgid "invert"
+msgstr "Inversa"
+
+msgid "invoke"
+msgstr "invoca"
+
+msgid "italic"
+msgstr "cursiv"
+
+msgid "item"
+msgstr "element"
+
+msgid "iteration"
+msgstr "iterație"
+
+msgid "jag"
+msgstr ""
+
+msgid "jam"
+msgstr ""
+
+msgid "job"
+msgstr ""
+
+msgid "join"
+msgstr ""
+
+msgid "joy stick"
+msgstr ""
+
+msgid "jump"
+msgstr ""
+
+msgid "junk"
+msgstr "mesaje nesolicitate"
+
+msgid "justify"
+msgstr ""
+
+msgid "keep"
+msgstr ""
+
+msgid "kernel"
+msgstr ""
+
+msgid "key"
+msgstr ""
+
+msgid "keyboard"
+msgstr "tastatură"
+
+msgid "key stroke"
+msgstr ""
+
+msgid "key word"
+msgstr ""
+
+msgid "label"
+msgstr "etichetă"
+
+msgid "landscape"
+msgstr ""
+
+msgid "language"
+msgstr "limbă"
+
+msgid "laptop"
+msgstr "laptop"
+
+msgid "launch"
+msgstr "lansa"
+
+msgid "layer"
+msgstr "strat"
+
+msgid "layout"
+msgstr "aspect/aranjament"
+
+msgid "length"
+msgstr "lungime"
+
+msgid "license"
+msgstr "licență"
+
+msgid "line"
+msgstr "linie"
+
+msgid "link"
+msgstr "legătură"
+
+msgid "list"
+msgstr "listă"
+
+msgid "load"
+msgstr "încărca"
+
+msgid "local"
+msgstr "local"
+
+msgid "localization"
+msgstr "localizare"
+
+msgid "location"
+msgstr "locație"
+
+msgid "log"
+msgstr "jurnal"
+
+msgid "lookup"
+msgstr ""
+
+msgid "lower-case"
+msgstr "litere mici/minuscule"
+
+msgid "machine"
+msgstr "mașină"
+
+msgid "main board"
+msgstr "panou principal"
+
+msgid "maintainer"
+msgstr "menținător"
+
+msgid "maintenance"
+msgstr "mentenanță"
+
+msgid "manage"
+msgstr "gestiona"
+
+msgid "management"
+msgstr ""
+
+msgid "manager"
+msgstr ""
+
+msgid "manual"
+msgstr ""
+
+msgid "margin"
+msgstr ""
+
+msgid "mark"
+msgstr ""
+
+msgid "master"
+msgstr ""
+
+msgid "match"
+msgstr ""
+
+msgid "maximize"
+msgstr ""
+
+msgid "memory"
+msgstr ""
+
+msgid "menu"
+msgstr ""
+
+msgid "merge"
+msgstr ""
+
+msgid "message"
+msgstr ""
+
+msgid "method"
+msgstr ""
+
+msgid "minimize"
+msgstr ""
+
+msgid "mode"
+msgstr ""
+
+msgid "modem"
+msgstr "modem"
+
+msgid "moderator"
+msgstr "moderator"
+
+msgid "modify"
+msgstr "modifica"
+
+msgid "module"
+msgstr "modul"
+
+msgid "monitor"
+msgstr "monitor"
+
+msgid "mosaic"
+msgstr "mozaic"
+
+msgid "motion"
+msgstr "mișcare"
+
+msgid "mouse"
+msgstr "maus"
+
+msgid "move"
+msgstr "muta"
+
+msgid "multimedia"
+msgstr "multimedia"
+
+msgid "multitasking"
+msgstr ""
+
+msgid "name"
+msgstr "nume"
+
+msgid "navigation"
+msgstr "navigare"
+
+msgid "navigator"
+msgstr "navigator"
+
+msgid "network"
+msgstr "rețea"
+
+msgid "news group"
+msgstr ""
+
+msgid "next"
+msgstr "următorul/înainte"
+
+msgid "nick name"
+msgstr "pseudonim"
+
+msgid "no"
+msgstr "nu"
+
+msgid "node"
+msgstr "nod"
+
+msgid "notation"
+msgstr "notație"
+
+msgid "note"
+msgstr "notă"
+
+msgid "notebook"
+msgstr ""
+
+msgid "notification"
+msgstr "notificare"
+
+msgid "notify"
+msgstr "notifica"
+
+# في الرياضيات "صفر"
+# الصفة "منعدم"
+msgid "null"
+msgstr ""
+
+msgid "number"
+msgstr ""
+
+msgid "numbering"
+msgstr ""
+
+msgid "object"
+msgstr ""
+
+msgid "occurrence"
+msgstr ""
+
+msgid "octet"
+msgstr ""
+
+msgid "offline"
+msgstr ""
+
+msgid "OK"
+msgstr "Ok"
+
+msgid "online"
+msgstr ""
+
+msgid "ongoing"
+msgstr ""
+
+msgid "opacity"
+msgstr ""
+
+msgid "opaque"
+msgstr ""
+
+msgid "open"
+msgstr ""
+
+msgid "operation"
+msgstr ""
+
+msgid "option"
+msgstr ""
+
+msgid "optional"
+msgstr ""
+
+msgid "order"
+msgstr ""
+
+msgid "organize"
+msgstr ""
+
+msgid "orientation"
+msgstr "orientare"
+
+msgid "original"
+msgstr ""
+
+msgid "outgoing"
+msgstr ""
+
+msgid "output"
+msgstr ""
+
+msgid "overflow"
+msgstr ""
+
+msgid "override"
+msgstr ""
+
+msgid "overwrite"
+msgstr ""
+
+msgid "owner"
+msgstr ""
+
+msgid "pack"
+msgstr ""
+
+msgid "package"
+msgstr ""
+
+msgid "packet"
+msgstr ""
+
+msgid "padding"
+msgstr ""
+
+msgid "page"
+msgstr ""
+
+msgid "paint"
+msgstr ""
+
+msgid "pair"
+msgstr ""
+
+msgid "palette"
+msgstr ""
+
+msgid "panel"
+msgstr "panou"
+
+msgid "parallel"
+msgstr ""
+
+msgid "parameter"
+msgstr ""
+
+msgid "parcel"
+msgstr ""
+
+msgid "parent"
+msgstr ""
+
+msgid "parity"
+msgstr ""
+
+msgid "parse"
+msgstr ""
+
+msgid "partition"
+msgstr ""
+
+msgid "pass"
+msgstr ""
+
+msgid "password"
+msgstr ""
+
+msgid "paste"
+msgstr ""
+
+msgid "patch (noun)"
+msgstr ""
+
+msgid "patch (verb)"
+msgstr ""
+
+msgid "path"
+msgstr ""
+
+msgid "pattern"
+msgstr ""
+
+msgid "pause"
+msgstr ""
+
+msgid "peripheral"
+msgstr ""
+
+msgid "permanent"
+msgstr ""
+
+msgid "permission"
+msgstr ""
+
+msgid "permutation"
+msgstr ""
+
+msgid "physical"
+msgstr ""
+
+msgid "picture"
+msgstr ""
+
+msgid "pipe"
+msgstr ""
+
+msgid "pixel"
+msgstr ""
+
+msgid "placement"
+msgstr ""
+
+msgid "plain"
+msgstr ""
+
+msgid "plot (verb)"
+msgstr ""
+
+msgid "plotter"
+msgstr ""
+
+msgid "plugin"
+msgstr "modul"
+
+msgid "pop up"
+msgstr ""
+
+msgid "port"
+msgstr ""
+
+msgid "position"
+msgstr ""
+
+msgid "post"
+msgstr ""
+
+msgid "preferences"
+msgstr ""
+
+msgid "prepare"
+msgstr ""
+
+msgid "presentation"
+msgstr ""
+
+msgid "press"
+msgstr ""
+
+msgid "prevent"
+msgstr ""
+
+msgid "preview"
+msgstr ""
+
+msgid "primary"
+msgstr ""
+
+msgid "principal"
+msgstr ""
+
+msgid "print"
+msgstr ""
+
+msgid "printer"
+msgstr ""
+
+msgid "priority"
+msgstr ""
+
+msgid "privacy"
+msgstr ""
+
+msgid "private"
+msgstr ""
+
+msgid "privilege"
+msgstr ""
+
+msgid "procedure"
+msgstr ""
+
+msgid "process"
+msgstr ""
+
+msgid "processor"
+msgstr ""
+
+msgid "product"
+msgstr ""
+
+msgid "profile"
+msgstr ""
+
+msgid "program"
+msgstr ""
+
+msgid "programmer"
+msgstr ""
+
+msgid "project"
+msgstr ""
+
+msgid "prompt"
+msgstr ""
+
+msgid "property"
+msgstr ""
+
+msgid "proprietary"
+msgstr ""
+
+msgid "protect"
+msgstr ""
+
+msgid "protection"
+msgstr ""
+
+#, !!!
+msgid "protocol"
+msgstr ""
+
+msgid "provide"
+msgstr ""
+
+msgid "provider"
+msgstr ""
+
+msgid "proxy"
+msgstr ""
+
+msgid "public"
+msgstr ""
+
+msgid "publish"
+msgstr ""
+
+msgid "pull"
+msgstr ""
+
+msgid "push"
+msgstr ""
+
+msgid "quality"
+msgstr ""
+
+msgid "quantity"
+msgstr ""
+
+msgid "quarantine"
+msgstr ""
+
+msgid "query"
+msgstr ""
+
+msgid "queue"
+msgstr ""
+
+msgid "quit"
+msgstr ""
+
+msgid "quota"
+msgstr ""
+
+msgid "quotation"
+msgstr ""
+
+msgid "quote"
+msgstr ""
+
+msgid "raise"
+msgstr ""
+
+msgid "random"
+msgstr ""
+
+msgid "range"
+msgstr ""
+
+msgid "rate"
+msgstr ""
+
+msgid "ratio"
+msgstr ""
+
+msgid "raw"
+msgstr ""
+
+msgid "ray"
+msgstr ""
+
+msgid "read"
+msgstr ""
+
+msgid "read only"
+msgstr ""
+
+msgid "ready"
+msgstr ""
+
+msgid "real"
+msgstr ""
+
+msgid "reboot"
+msgstr ""
+
+msgid "receipt"
+msgstr ""
+
+msgid "receive"
+msgstr ""
+
+msgid "recognition"
+msgstr ""
+
+msgid "reconnect"
+msgstr ""
+
+msgid "record"
+msgstr ""
+
+msgid "record (verb)"
+msgstr ""
+
+msgid "recover"
+msgstr ""
+
+msgid "recovery"
+msgstr ""
+
+#
+msgid "recursion"
+msgstr ""
+
+msgid "recursive"
+msgstr ""
+
+msgid "redirect"
+msgstr ""
+
+msgid "redo"
+msgstr ""
+
+msgid "reduce"
+msgstr ""
+
+msgid "reduction"
+msgstr ""
+
+msgid "redundant"
+msgstr ""
+
+msgid "reference"
+msgstr ""
+
+msgid "referer"
+msgstr ""
+
+msgid "referral"
+msgstr ""
+
+msgid "reflexive"
+msgstr ""
+
+msgid "refresh"
+msgstr ""
+
+msgid "refuse"
+msgstr ""
+
+msgid "regenerate"
+msgstr ""
+
+msgid "register"
+msgstr ""
+
+msgid "registration"
+msgstr ""
+
+msgid "registry"
+msgstr ""
+
+msgid "regular"
+msgstr ""
+
+msgid "regulate"
+msgstr ""
+
+msgid "relay"
+msgstr ""
+
+msgid "release"
+msgstr ""
+
+msgid "remaining"
+msgstr ""
+
+msgid "remind"
+msgstr ""
+
+msgid "remote"
+msgstr ""
+
+msgid "removable"
+msgstr ""
+
+msgid "remove"
+msgstr ""
+
+msgid "rename"
+msgstr ""
+
+msgid "render"
+msgstr ""
+
+msgid "renew"
+msgstr ""
+
+msgid "repair"
+msgstr ""
+
+msgid "repeat"
+msgstr ""
+
+msgid "replace"
+msgstr ""
+
+msgid "replicate"
+msgstr ""
+
+msgid "replication"
+msgstr ""
+
+msgid "reply"
+msgstr ""
+
+msgid "report"
+msgstr ""
+
+msgid "repository"
+msgstr ""
+
+msgid "request"
+msgstr ""
+
+msgid "require"
+msgstr ""
+
+msgid "requirement"
+msgstr ""
+
+msgid "reset"
+msgstr ""
+
+msgid "resize"
+msgstr ""
+
+msgid "resolution"
+msgstr ""
+
+msgid "resolver"
+msgstr ""
+
+msgid "resource"
+msgstr ""
+
+msgid "response"
+msgstr ""
+
+msgid "restart"
+msgstr ""
+
+msgid "restore"
+msgstr ""
+
+msgid "restrict"
+msgstr ""
+
+msgid "restriction"
+msgstr ""
+
+msgid "result"
+msgstr ""
+
+msgid "resume"
+msgstr ""
+
+msgid "retrieve"
+msgstr ""
+
+msgid "retry"
+msgstr ""
+
+msgid "return"
+msgstr "întoarce/returna"
+
+msgid "reverse"
+msgstr ""
+
+msgid "revert"
+msgstr ""
+
+msgid "revocation"
+msgstr ""
+
+msgid "revoke"
+msgstr ""
+
+msgid "root"
+msgstr ""
+
+msgid "rotate"
+msgstr ""
+
+msgid "route"
+msgstr ""
+
+msgid "router"
+msgstr ""
+
+msgid "routine"
+msgstr ""
+
+msgid "row"
+msgstr "rând"
+
+msgid "rule"
+msgstr ""
+
+msgid "run"
+msgstr ""
+
+msgid "runtime"
+msgstr ""
+
+msgid "safe"
+msgstr ""
+
+msgid "sample"
+msgstr ""
+
+msgid "sans"
+msgstr ""
+
+msgid "save"
+msgstr ""
+
+msgid "scalable"
+msgstr ""
+
+msgid "scale"
+msgstr ""
+
+msgid "scan"
+msgstr ""
+
+msgid "scanner"
+msgstr ""
+
+msgid "schedule"
+msgstr ""
+
+msgid "scheme"
+msgstr ""
+
+msgid "scratch"
+msgstr ""
+
+msgid "screen"
+msgstr ""
+
+msgid "screw"
+msgstr ""
+
+msgid "script"
+msgstr ""
+
+# من لف الشئ يلفه
+# فتقول:
+# لف ﻷعلى=scroll up ، وهكذا
+msgid "scroll"
+msgstr ""
+
+msgid "search"
+msgstr "căuta"
+
+msgid "section"
+msgstr "secțiune"
+
+msgid "sector"
+msgstr ""
+
+msgid "secure"
+msgstr ""
+
+msgid "security"
+msgstr ""
+
+msgid "seek"
+msgstr ""
+
+msgid "segment"
+msgstr ""
+
+msgid "segmentation"
+msgstr ""
+
+msgid "select"
+msgstr ""
+
+msgid "selection"
+msgstr ""
+
+msgid "semantic"
+msgstr ""
+
+msgid "send"
+msgstr ""
+
+msgid "sender"
+msgstr ""
+
+msgid "sensitive"
+msgstr ""
+
+msgid "sensor"
+msgstr "senzor"
+
+msgid "serif"
+msgstr ""
+
+msgid "server"
+msgstr ""
+
+msgid "session"
+msgstr ""
+
+msgid "set"
+msgstr ""
+
+msgid "settings"
+msgstr ""
+
+msgid "setup"
+msgstr ""
+
+msgid "shading"
+msgstr ""
+
+msgid "shadow"
+msgstr ""
+
+msgid "shape"
+msgstr ""
+
+msgid "share"
+msgstr ""
+
+msgid "sharp"
+msgstr ""
+
+msgid "sheet"
+msgstr ""
+
+msgid "shell"
+msgstr ""
+
+msgid "shift"
+msgstr ""
+
+msgid "shortcut"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
+msgid "shrink"
+msgstr ""
+
+msgid "shut down"
+msgstr ""
+
+msgid "side bar"
+msgstr ""
+
+msgid "sign"
+msgstr ""
+
+msgid "signal"
+msgstr ""
+
+msgid "signature"
+msgstr ""
+
+msgid "site"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "skew"
+msgstr ""
+
+msgid "skip"
+msgstr ""
+
+msgid "slave"
+msgstr ""
+
+msgid "sleep"
+msgstr ""
+
+msgid "slide"
+msgstr ""
+
+msgid "slot"
+msgstr ""
+
+msgid "smart"
+msgstr ""
+
+msgid "smiley"
+msgstr ""
+
+msgid "smooth"
+msgstr ""
+
+msgid "socket"
+msgstr "soclu"
+
+msgid "software"
+msgstr ""
+
+msgid "solid"
+msgstr ""
+
+msgid "sort"
+msgstr ""
+
+msgid "source"
+msgstr ""
+
+msgid "space"
+msgstr ""
+
+msgid "spacing"
+msgstr ""
+
+msgid "spam"
+msgstr ""
+
+msgid "span"
+msgstr ""
+
+msgid "spawn"
+msgstr ""
+
+msgid "specify"
+msgstr ""
+
+msgid "speed"
+msgstr ""
+
+msgid "spelling"
+msgstr ""
+
+msgid "splash"
+msgstr ""
+
+msgid "split"
+msgstr ""
+
+msgid "spool"
+msgstr ""
+
+msgid "spread sheet"
+msgstr ""
+
+msgid "stack"
+msgstr ""
+
+msgid "stand alone"
+msgstr ""
+
+msgid "standard"
+msgstr ""
+
+msgid "start"
+msgstr ""
+
+msgid "state"
+msgstr ""
+
+msgid "static"
+msgstr ""
+
+msgid "statistics"
+msgstr ""
+
+msgid "step"
+msgstr ""
+
+msgid "stop"
+msgstr ""
+
+msgid "storage"
+msgstr ""
+
+msgid "store"
+msgstr ""
+
+msgid "stream"
+msgstr ""
+
+msgid "stretch"
+msgstr ""
+
+msgid "strict"
+msgstr ""
+
+msgid "string"
+msgstr ""
+
+msgid "strip"
+msgstr ""
+
+msgid "stroke"
+msgstr ""
+
+msgid "structure"
+msgstr ""
+
+msgid "stub"
+msgstr ""
+
+msgid "style"
+msgstr ""
+
+msgid "sub directory"
+msgstr ""
+
+msgid "sub folder"
+msgstr ""
+
+msgid "submission"
+msgstr ""
+
+msgid "submit"
+msgstr ""
+
+msgid "subscribe"
+msgstr ""
+
+msgid "subscription"
+msgstr ""
+
+msgid "subtract"
+msgstr ""
+
+msgid "succeed"
+msgstr ""
+
+msgid "suggest"
+msgstr ""
+
+msgid "suggestion"
+msgstr ""
+
+msgid "sum (noun)"
+msgstr ""
+
+msgid "sum (verb)"
+msgstr ""
+
+msgid "summary"
+msgstr ""
+
+msgid "support"
+msgstr ""
+
+msgid "surface"
+msgstr ""
+
+msgid "suspend"
+msgstr ""
+
+msgid "suspicious"
+msgstr ""
+
+msgid "swap"
+msgstr ""
+
+msgid "switch"
+msgstr ""
+
+msgid "symbol"
+msgstr ""
+
+msgid "synchronize"
+msgstr ""
+
+msgid "syntax"
+msgstr ""
+
+msgid "system"
+msgstr ""
+
+msgid "tab"
+msgstr "filă"
+
+msgid "table"
+msgstr "tabel"
+
+msgid "tag"
+msgstr ""
+
+msgid "target"
+msgstr ""
+
+msgid "template"
+msgstr ""
+
+msgid "temporary"
+msgstr ""
+
+msgid "terminal"
+msgstr ""
+
+msgid "test"
+msgstr ""
+
+msgid "text"
+msgstr ""
+
+msgid "texture"
+msgstr ""
+
+msgid "theme"
+msgstr ""
+
+msgid "thread"
+msgstr ""
+
+msgid "thumbnail"
+msgstr ""
+
+msgid "tick"
+msgstr ""
+
+msgid "tile"
+msgstr ""
+
+msgid "time"
+msgstr ""
+
+msgid "time out"
+msgstr ""
+
+msgid "tip"
+msgstr ""
+
+msgid "title"
+msgstr ""
+
+msgid "toggle"
+msgstr ""
+
+msgid "token"
+msgstr "token"
+
+msgid "tool"
+msgstr ""
+
+msgid "tool bar"
+msgstr ""
+
+msgid "tool box"
+msgstr ""
+
+msgid "topic"
+msgstr ""
+
+msgid "trace"
+msgstr ""
+
+msgid "track"
+msgstr ""
+
+msgid "traffic"
+msgstr ""
+
+msgid "transfer"
+msgstr ""
+
+msgid "transform"
+msgstr ""
+
+msgid "transformation"
+msgstr ""
+
+msgid "trap"
+msgstr ""
+
+msgid "trash"
+msgstr ""
+
+msgid "trigger"
+msgstr ""
+
+msgid "trouble shoot"
+msgstr ""
+
+msgid "tune"
+msgstr ""
+
+msgid "tweak"
+msgstr ""
+
+msgid "type (noun)"
+msgstr ""
+
+msgid "type (verb)"
+msgstr ""
+
+msgid "type face"
+msgstr ""
+
+msgid "unavailable"
+msgstr ""
+
+msgid "undelete"
+msgstr "anulează ștergerea/recupera"
+
+msgid "under line"
+msgstr ""
+
+msgid "undo"
+msgstr ""
+
+msgid "uninstall"
+msgstr ""
+
+msgid "unit"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "unload"
+msgstr ""
+
+msgid "named"
+msgstr ""
+
+msgid "reachable"
+msgstr ""
+
+msgid "readable"
+msgstr ""
+
+msgid "unspecified"
+msgstr ""
+
+msgid "unsubscribe"
+msgstr ""
+
+msgid "unsupported"
+msgstr ""
+
+msgid "update"
+msgstr ""
+
+msgid "upgrade"
+msgstr ""
+
+msgid "upload"
+msgstr ""
+
+msgid "upper case"
+msgstr ""
+
+msgid "usage"
+msgstr ""
+
+msgid "user"
+msgstr ""
+
+msgid "user name"
+msgstr ""
+
+msgid "utility"
+msgstr ""
+
+msgid "valid"
+msgstr ""
+
+msgid "validation"
+msgstr ""
+
+msgid "validity"
+msgstr ""
+
+msgid "value"
+msgstr ""
+
+msgid "variable"
+msgstr ""
+
+msgid "vector"
+msgstr ""
+
+msgid "verbose"
+msgstr ""
+
+msgid "verify"
+msgstr ""
+
+msgid "version"
+msgstr ""
+
+msgid "video"
+msgstr ""
+
+msgid "view"
+msgstr ""
+
+msgid "viewer"
+msgstr ""
+
+msgid "virtual"
+msgstr ""
+
+msgid "virus"
+msgstr ""
+
+msgid "visual"
+msgstr ""
+
+msgid "volume"
+msgstr "volum"
+
+msgid "wallpaper"
+msgstr ""
+
+msgid "warn"
+msgstr ""
+
+msgid "web"
+msgstr ""
+
+msgid "web cam"
+msgstr ""
+
+msgid "web master"
+msgstr ""
+
+msgid "web page"
+msgstr ""
+
+msgid "widget"
+msgstr ""
+
+msgid "width"
+msgstr ""
+
+msgid "wi fi"
+msgstr ""
+
+msgid "wild card"
+msgstr ""
+
+msgid "window"
+msgstr ""
+
+msgid "wizard"
+msgstr ""
+
+msgid "word processor"
+msgstr ""
+
+msgid "work around"
+msgstr ""
+
+msgid "work group"
+msgstr ""
+
+msgid "work station"
+msgstr ""
+
+msgid "wrap"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "zone"
+msgstr ""
+
+msgid "zoom"
+msgstr ""
