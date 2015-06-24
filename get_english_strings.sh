@@ -1,6 +1,7 @@
+#!/bin/bash
+
 # Extract only the translated strings from a .lang file, line by line
 
-#!/bin/bash
 if [ -z "$1" ]; then
     echo "Get english strings from a .lang file"
     echo "  usage: get_english_strings filename [-l]"

@@ -1,8 +1,9 @@
+#!/bin/bash
+
 # Check a .lang file for missing strings
 # It verifies that the second string is different from the first string
 #    and displays those lines which are identical
 
-#!/bin/bash
 filename="$1"
 
 line_number=0
