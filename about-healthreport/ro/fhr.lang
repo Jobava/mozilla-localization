@@ -347,11 +347,11 @@ Data cea mai recentă la care acest supliment a fost actualizat (informațiile a
 
 
 ;<var>True</var> if the user manually disabled the add-on
-<var>True</var> dacă utilizatorul a dezactivat manual extensia
+<var>True</var> dacă utilizatorul a dezactivat manual suplimentul
 
 
 ;The current version of this add-on
-Versiunea curentă a acestei extensii
+Versiunea curentă a acestui supliment
 
 
 ;How long in milliseconds it took during startup for the application to render the UI and display the window
@@ -640,7 +640,7 @@ Număr pluginuri:
 
 
 ;How many plugin add-ons are installed.
-Câte pluginuri suplimentare sunt instalate.
+Câte module suplimentare sunt instalate.
 
 
 ;Theme Count:

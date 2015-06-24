@@ -23,7 +23,7 @@ while IFS='' read -r english || [[ -n $english ]]; do
         english=${english:1}
         read -r tline
         if [[ $print_line_number == 1 ]]; then
-            echo "$line_number|en:$english|$((line_number + 1))|ro:$tline|"
+            echo "$filename:$line_number|en:$english|$((line_number + 1))|ro:$tline|"
         else
             echo "|$english|$tline|"
         fi
