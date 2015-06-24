@@ -78,3 +78,14 @@ Format: English - Romanian
 * add-on / add-ons - supliment / suplimente
 * plugin / plugins - modul / module
 * Sync - Sincronizare
+
+### Quick svn tips (use your own query parameters)
+
+* [Web view](https://viewvc.svn.mozilla.org/vc/?view=query&dir=&file=&file_match=exact&who=jobava&who_match=regex&comment=&comment_match=exact&querysort=date&hours=2&date=month&mindate=&maxdate=&limit_changes=100)
+* svn log ro | grep yourname
+* svn2git https://github.com/nirvdrum/svn2git
+
+### Misc (the great Romanian terminology debate)
+
+*  https://romania.etherpad.mozilla.org/7?
+*  https://groups.google.com/forum/#!topic/mozilla-ro/nyToBI32yb8
