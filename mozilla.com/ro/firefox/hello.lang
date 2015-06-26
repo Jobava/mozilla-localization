@@ -180,7 +180,7 @@ Actualizați Firefox pentru a porni la drum cu Hello
 
 
 ;Unfortunately, iOS doesn’t support Hello. To start having free video conversations, use Hello on Firefox for desktop, Firefox OS or Firefox for Android.
-Din păcate iOS nu suportă Hello. Pentru a purta conversații video gratuite trebuie să folosiți Hello din Firefox pentru desktop, Firefox OS sau Firefox pentru Android.
+Din păcate iOS nu suportă Hello. Pentru a conversa video gratuit trebuie să folosiți Hello din Firefox pentru desktop, Firefox OS sau Firefox pentru Android.
 
 
 # “Hello” is the product name and should not be localized
@@ -223,7 +223,7 @@ Cu sprijinul %s
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
 # The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
 ;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
-Vedeți cât de ușor este să vă partajați ecranul. Dați clic %s în fereastra de conversatii pentru a încerca.
+Vedeți cât de ușor este să vă partajați ecranul. Clic %s în fereastra de conversatii pentru a încerca.
 
 
 # “Hello” is the product name and should not be localized
@@ -258,11 +258,11 @@ Aveți on conversație în așteptare
 
 # In this case “hello” is just a greeting (think of it as “hi”)
 ;Click now to join and say hello.
-Dați clic acum pentru a vă alătura și pentru a spune „bună”.
+Clic acum pentru a vă alătura și pentru a spune „bună”.
 
 
 ;The easiest way to have a free video conversation with anyone, anywhere
-Cea mai ușoară cale de a purta o conversație video gratuită cu oricine, oriunde
+Cea mai ușoară cale de a conversa video, gratuit cu oricine, oriunde
 
 
 ;Start a conversation right from Firefox
