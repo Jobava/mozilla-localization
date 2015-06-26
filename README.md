@@ -11,6 +11,8 @@ Multi-repo for Romanian language Mozilla localization projects
 * [Google translate](https://translate.google.com/#en/ro/)
 * [Transvision](https://transvision.mozfr.org)
 * [Localizare Microsoft - pentru comparații](https://www.microsoft.com/Language/en-US/Search.aspx?langID=ro-ro)
+* [Exemplu de document localizat - Google Chrome](https://www.google.com/intl/ro/chrome/browser/privacy/whitepaper.html)
+* [Exemplu 2 - Google Chrome](https://www.google.com/intl/ro/chrome/browser/privacy/)
 
 ### Main resources
 
