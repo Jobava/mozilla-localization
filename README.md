@@ -7,9 +7,11 @@ Multi-repo for Romanian language Mozilla localization projects
 * [Web dashboard view #2](https://l10n.mozilla-community.org/~flod/webstatus/?locale=ro)
 * [Web dashboard view #3](https://l10n.mozilla.org/teams/ro#webdashboard)
 * [Marketplace dashboard](https://l10n.mozilla-community.org/~flod/webstatus/mpstats/)
+* [Market dashboard #2](http://l10n.mozilla-community.org/~flod/mpstats/)
 * [Graphic for web localization](https://l10n.mozilla-community.org/~pascalc/web_l10n_stats/?locale=ro)
 * [Localization errors](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=errors)
 * [Transvision](https://transvision.mozfr.org)
+* [Mozilla wiki for Web Parts](https://wiki.mozilla.org/L10n:Web_parts)
 * [Microsoft localization - for comparisons](https://www.microsoft.com/Language/en-US/Search.aspx?langID=ro-ro)
 * [I18N project glossary](i18n.ro/Glosar)
 
@@ -92,3 +94,8 @@ Format: English - Romanian
 
 *  https://romania.etherpad.mozilla.org/7?
 *  https://groups.google.com/forum/#!topic/mozilla-ro/nyToBI32yb8
+
+### Other resources
+
+* [gettext documentation](https://www.gnu.org/software/gettext/manual/gettext.html)
+
