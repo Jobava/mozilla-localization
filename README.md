@@ -1,25 +1,33 @@
 # mozilla-localization
 Multi-repo for Romanian language Mozilla localization projects
 
+### Guides
+
+* [i18n ghidul traducătorului de software](http://www.i18n.ro/Ghidul_traducatorului_de_software)
+* [i18n ce nu trebuie tradus](http://www.i18n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse)
+* [i18n greșeli frecvente](http://www.i18n.ro/Greseli_frecvente)
+* [Ghid localizare Ubuntu](https://wiki.ubuntu.com/RomanianTeam/Proiecte/Localizare/Ghid)
+* [Glosar i18n](i18n.ro/Glosar)
+* [Google translate](https://translate.google.com/#en/ro/)
+* [Transvision](https://transvision.mozfr.org)
+* [Localizare Microsoft - pentru comparații](https://www.microsoft.com/Language/en-US/Search.aspx?langID=ro-ro)
+
 ### Main resources
 
 * [Web dashboard](https://l10n.mozilla-community.org/webdashboard/?locale=ro)
 * [Web dashboard view #2](https://l10n.mozilla-community.org/~flod/webstatus/?locale=ro)
 * [Web dashboard view #3](https://l10n.mozilla.org/teams/ro#webdashboard)
 * [Marketplace dashboard](https://l10n.mozilla-community.org/~flod/webstatus/mpstats/)
-* [Market dashboard #2](http://l10n.mozilla-community.org/~flod/mpstats/)
 * [Graphic for web localization](https://l10n.mozilla-community.org/~pascalc/web_l10n_stats/?locale=ro)
 * [Localization errors](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=errors)
-* [Transvision](https://transvision.mozfr.org)
 * [Mozilla wiki for Web Parts](https://wiki.mozilla.org/L10n:Web_parts)
-* [Microsoft localization - for comparisons](https://www.microsoft.com/Language/en-US/Search.aspx?langID=ro-ro)
-* [I18N project glossary](i18n.ro/Glosar)
 
 ### Romanian L10N
+
 * [Romanian localization team](https://wiki.mozilla.org/L10n:Teams:ro)
 * [Mozilla Romania Google group] (http://groups.google.com/group/mozilla-ro)
-* [Romanian pootle server] (http://mozilla.locamotion.org/ro/)
-* [Mozilla's pootle for Romanian localization](https://localize.mozilla.org/ro/)
+* [Locamotion (Pootle) Romanian] (http://mozilla.locamotion.org/ro/)
+* [Verbatim (older Pootle) Romanian](https://localize.mozilla.org/ro/)
  
 ### Staging for www-mozilla-org
 
@@ -77,12 +85,17 @@ The application can be controlled with an .ini file.
 
 Format: English - Romanian
 
-* tab / tabs - filă / file
-* tile / tiles - panou / panouri
-* extension / extensions - extensie / extensii
-* add-on / add-ons - supliment / suplimente
-* plugin / plugins - modul / module
+* tab - filă / file
+* tile - panou / panouri
+* extension - extensie / extensii
+* add-on - supliment / suplimente
+* plugin - modul / module
 * Sync - Sincronizare
+* click - clic / clicuri
+* byte - octet / octeți
+* share - impărtășeșiți, distribuiți, dați de veste, spuneți ( și altora | prietenilor )
+* tweet(noun) - ciripeală
+* tweet(verb) - ciripiți
 
 ### Quick svn tips (use your own query parameters)
 
