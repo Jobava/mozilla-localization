@@ -1,0 +1,14 @@
+La sfârșit, am o sugestie pentru echipa de localizare Mozilla legată
+de interfața de utilizare din Firefox. Printre normele adoptate pentru
+interfețele grafice ale Microsoft e ceva referitor la tastele de
+acces: https://msdn.microsoft.com/en-us/library/ms971323.aspx#atg_keyboardshortcuts_selecting_access_keys
+Au acolo o recomandare pentru a evita alocarea de taste de acces pe
+„p”, „g”, „q”, și „y”, „i”, și „l”. În Firefox se pot întâlni anume
+astfel de taste de acces: „g” din „Aranjare în pagină” sau „p" din
+„Tipărește” (ambele din meniul „Fișier”), „p” din „Lipește” și „g” din
+„Șterge” (ambele din „Editare”), „l” din „Bară laterală” (din meniul
+„Vizualizare”), și altele. La lista de taste de evitat aș mai adăuga
+pentru română perechea „s” cu „t” (cu referință la „S” din meniul
+„Semne de carte” sau „Unelte”→„Suplimente”).
+
+Source: https://groups.google.com/d/msg/diacritice/h4F_veQwyYQ/BPQXCJYjM6cJ

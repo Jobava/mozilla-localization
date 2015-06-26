@@ -1,0 +1,4 @@
+Get all files touched by a particular user
+svn log | sed -n '/username/,/-----$/ p'
+
+
