@@ -29,7 +29,7 @@ Firefox Beta transmite automat opinii către Mozilla. <a href="%(link)s">Aflați
 
 
 ;<a href="%(feedback)s">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
-<a href="%(feedback)s">Oferiți-ne opiniile dumneavoastră</a> pentru a ne ajuta să punem îmbunătățirile finale privind performanța și funcționalitatea în versiunea stabilă.
+<a href="%(feedback)s">Oferiți-ne opiniile dvs.</a> pentru a ne ajuta să punem îmbunătățirile finale privind performanța și funcționalitatea în versiunea stabilă.
 
 
 ;Firefox Aurora and Firefox Developer Edition automatically send feedback to Mozilla. <a href="%(link)s">Learn more</a>.

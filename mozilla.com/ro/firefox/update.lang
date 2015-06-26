@@ -15,7 +15,7 @@ Nu. Noua versiune de Firefox va înlocui automat versiunea mai veche. Pentru a �
 
 
 ;It varies slightly depending on the operating system you're using. You can find <a %(link)s>instructions for your computer here</a>.
-Variază ușor în funcție de sistemul de operare pe care îl utilizați. Puteți găsi instrucțiuni <a %(link)s> pentru calculatorul dumneavoastră aici</a>.
+Variază ușor în funcție de sistemul de operare pe care îl utilizați. Puteți găsi instrucțiuni <a %(link)s> pentru calculatorul dvs. aici</a>.
 
 
 ;Your Firefox is out of date.
@@ -31,7 +31,7 @@ Felicitări!
 
 
 ;Very much so – your security is our top priority. Our open source security process means we have an international community of experts working around the clock to monitor the latest threats. As soon as a security threat is discovered, we write a patch and release an update to stay one step ahead. Downloading Firefox updates is a very important part of staying safe online.
-Foarte mult - securitatea dumneavoastră este prioritatea noastră. Procesul nostru de securitate cu sursă deschisă înseamnă că avem o comunitate internațională de experți care lucrează non-stop pentru a monitoriza cele mai recente amenințări. De îndată ce este descoperită o amenințare la adresa securității, vom scrie un petic și vom lansa o actualizare pentru a rămâne cu un pas înaintea amenințării. Descărcarea actualizărilor Firefox este o parte foarte importantă a siguranței on-line.
+Foarte mult - securitatea dvs. este prioritatea noastră. Procesul nostru de securitate cu sursă deschisă înseamnă că avem o comunitate internațională de experți care lucrează non-stop pentru a monitoriza cele mai recente amenințări. De îndată ce este descoperită o amenințare la adresa securității, vom scrie un petic și vom lansa o actualizare pentru a rămâne cu un pas înaintea amenințării. Descărcarea actualizărilor Firefox este o parte foarte importantă a siguranței on-line.
 
 
 ;If I already have Firefox, and then do a fresh install, what happens to my settings?
@@ -119,11 +119,11 @@ De ce am nevoie de actualizare?
 
 
 ;By default, Firefox is configured to automatically check for updates for itself and notify you when one is available. When prompted, just click OK and the newest version will be downloaded and installed on your computer. You’ll need to restart Firefox to begin using the new version.
-În mod implicit, Firefox este configurat să verifice automat dacă există actualizări pentru el și să vă anunțe atunci când este disponibilă. Când vi se solicită actualizarea, dați clic pe OK și cea mai nouă versiune va fi descărcată și instalată pe calculatorul dumneavoastră. Va trebui să reporniți Firefox pentru a începe să utilizați noua versiune.
+În mod implicit, Firefox este configurat să verifice automat dacă există actualizări pentru el și să vă anunțe atunci când este disponibilă. Când vi se solicită actualizarea, dați clic pe OK și cea mai nouă versiune va fi descărcată și instalată pe calculatorul dvs. Va trebui să reporniți Firefox pentru a începe să utilizați noua versiune.
 
 
 ;No. A Firefox update will not make any changes to your bookmarks, saved passwords or other settings. However, there is a possibility that some of your Add-ons won’t be immediately compatible with new updates.
-Nu. O actualizare Firefox nu va face nicio modificare la semnele de carte, parolele salvate sau alte setări. Cu toate acestea, există posibilitatea ca unele dintre Suplimentele dumneavoastră nu vor fi imediat compatibile cu noile actualizări.
+Nu. O actualizare Firefox nu va face nicio modificare la semnele de carte, parolele salvate sau alte setări. Cu toate acestea, există posibilitatea ca unele dintre Suplimentele dvs. nu vor fi imediat compatibile cu noile actualizări.
 
 
 ;Download Firefox to get started.

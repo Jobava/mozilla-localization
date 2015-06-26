@@ -7,7 +7,7 @@ Multi-repo for Romanian language Mozilla localization projects
 * [i18n ce nu trebuie tradus](http://www.i18n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse)
 * [i18n greșeli frecvente](http://www.i18n.ro/Greseli_frecvente)
 * [Ghid localizare Ubuntu](https://wiki.ubuntu.com/RomanianTeam/Proiecte/Localizare/Ghid)
-* [Glosar i18n](i18n.ro/Glosar)
+* [Glosar i18n](http://i18n.ro/Glosar)
 * [Google translate](https://translate.google.com/#en/ro/)
 * [Transvision](https://transvision.mozfr.org)
 * [Localizare Microsoft - pentru comparații](https://www.microsoft.com/Language/en-US/Search.aspx?langID=ro-ro)
