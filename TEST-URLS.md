@@ -2,11 +2,10 @@
 
 * [download_button.lang](https://www-dev.allizom.org/ro/styleguide/websites/sandstone/buttons/)
 * [main.lang](https://www-demo2.allizom.org/ro/firefox/os/2.0/)
-* [mwc2014_promos.lang](https://www.mozilla.org/ro/firefox/partners/)
 * [firefox/channel.lang](https://www-dev.allizom.org/ro/firefox/channel/)
 * [firefox/developer.lang](https://www-dev.allizom.org/ro/firefox/developer/)
 * [firefox/dnt.lang](https://www-dev.allizom.org/ro/firefox/dnt/)
-* [firefox/geolocation.lang](https://www-dev.allizom.org/firefox/geolocation/)
+* [firefox/geolocation.lang](https://www-dev.allizom.org/ro/firefox/geolocation/)
 * [firefox/hello.lang](https://www-dev.allizom.org/ro/firefox/hello/)
 * [firefox/independent.lang](https://www-dev.allizom.org/ro/firefox/independent/)
 * [firefox/installer-help.lang #1](https://www-dev.allizom.org/ro/firefox/installer-help/) * [firefox/installer-help.lang #2](https://www-dev.allizom.org/ro/firefox/installer-help/?channel=release)
