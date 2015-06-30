@@ -1,10 +1,11 @@
 reponame,repourl
-mozilla.com,https://svn.mozilla.org/projects/mozilla.com/trunk/locales/ro/
-start.mozilla.org,https://svn.mozilla.org/projects/l10n-misc/trunk/fx36start/locale/ro/
-about-healthreport,https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxhealthreport/locale/ro/
-slogans,https://svn.mozilla.org/projects/granary/slogans/ro/
-snippets,https://svn.mozilla.org/projects/l10n-misc/trunk/snippets/ro/
-firefoxos-marketing,https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxos-marketing/ro/
-firefox-tiles,https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxtiles/ro/
-google-play,https://svn.mozilla.org/projects/l10n-misc/trunk/googleplay/ro/
+1-mozilla.com,https://svn.mozilla.org/projects/mozilla.com/trunk/locales/ro/
+2-start.mozilla.org,https://svn.mozilla.org/projects/l10n-misc/trunk/fx36start/locale/ro/
+3-about-healthreport,https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxhealthreport/locale/ro/
+4-slogans,https://svn.mozilla.org/projects/granary/slogans/ro/
+5-snippets,https://svn.mozilla.org/projects/l10n-misc/trunk/snippets/ro/
+6-firefoxos-marketing,https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxos-marketing/ro/
+7-firefox-tiles,https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxtiles/ro/
+8-google-play,https://svn.mozilla.org/projects/l10n-misc/trunk/googleplay/ro/
+9-contribute-autoreplies,https://svn.mozilla.org/projects/mozilla.com/trunk/locales/ro/
 
