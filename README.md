@@ -16,9 +16,10 @@ Multi-repo for Romanian language Mozilla localization projects
 
 ### Main resources
 
-* [Web dashboard](https://l10n.mozilla-community.org/webdashboard/?locale=ro)
-* [Web dashboard view #2](https://l10n.mozilla-community.org/~flod/webstatus/?locale=ro)
-* [Web dashboard view #3](https://l10n.mozilla.org/teams/ro#webdashboard)
+* [Web dashboard for .lang(webparts) and Verbatim-managed websites](https://l10n.mozilla-community.org/webdashboard/?locale=ro)
+* [Web dashboard for Verbatim-managed websites](https://l10n.mozilla-community.org/~flod/webstatus/?locale=ro)
+* [Web dashboard teams](https://l10n.mozilla.org/teams/ro#webdashboard)
+* [Web dashboard signoffs](https://l10n.mozilla.org/shipping/dashboard)
 * [Marketplace dashboard](https://l10n.mozilla-community.org/~flod/webstatus/mpstats/)
 * [Graphic for web localization](https://l10n.mozilla-community.org/~pascalc/web_l10n_stats/?locale=ro)
 * [Localization errors](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=errors)
