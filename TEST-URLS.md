@@ -9,7 +9,7 @@
 * [firefox/hello.lang](https://www-dev.allizom.org/ro/firefox/hello/)
 * [firefox/independent.lang](https://www-dev.allizom.org/ro/firefox/independent/)
 * [firefox/installer-help.lang #1](https://www-dev.allizom.org/ro/firefox/installer-help/) * [firefox/installer-help.lang #2](https://www-dev.allizom.org/ro/firefox/installer-help/?channel=release)
-* [firefox/new.lang](https://www.mozilla.org/ro/firefox/new/)
+* [firefox/new.lang](https://www-dev.allizom.org/ro/firefox/new/)
 * [sendto.lang #1](https://www-dev.allizom.org/ro/styleguide/docs/send-to-device/) [sendto.lang #2](https://www-dev.allizom.org/ro/styleguide/docs/send-to-device/)
 * [firefox/sync.lang](https://www-dev.allizom.org/ro/firefox/sync/)
 * [firefox/tiles.lang](https://www-dev.allizom.org/ro/firefox/tiles/)
