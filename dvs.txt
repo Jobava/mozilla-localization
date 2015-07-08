@@ -1,0 +1,108 @@
+mozilla.com/privacy/privacy-day.lang|56|Cât de importantă este confidențialitatea pentru dumneavoastră?
+mozilla.com/privacy/privacy-day.lang|60|Înainte de a vorbi despre confidențialitate și despre ponturile și uneltele noastre favorite, întrebați-vă cât este de importantă confidențialitatea pentru dumneavoastră.
+mozilla.com/privacy/index.lang|21|Mozilla e un proiect „open source” cu misiunea de a îmbunătăți experiența dumneavoastră pe Internet. Aceasta este motivația noastră în susținerea practicilor de confidențialitate. <a href="%(link)s">Citiți mai multe</a>
+mozilla.com/privacy/index.lang|29|Am creat aceste note scurte și clare pentru a descrie cum fiecare din produsele și serviciile noastre primesc, transmit și folosesc datele și care sunt opțiunile dumneavoastră. Aflați mai multe:
+mozilla.com/thunderbird/start/release.lang|34|Dorim <a href="%s">să auzim de la dumneavoastră.</a>.
+mozilla.com/lightbeam/lightbeam.lang|125|Puteți să ne ajutați prin contribuirea datelor dumneavoastră la Lightbeam.
+mozilla.com/lightbeam/lightbeam.lang|155|Prin folosirea a două reprezentări interactive — Grafic și Listă — Lightbeam vă permite să examinați terții în mod individual, să identificați unde se conectează cu activitatea dumneavoastră și modalități de abordare a acestei vederi unice de pe Web.
+mozilla.com/lightbeam/lightbeam.lang|160|Prin folosirea a trei reprezentări interactive — Grafic, Ceas și Listă — Lightbeam vă permite să examinați terții în timp și spațiu, să identificați unde se conectează cu activitatea dumneavoastră și vă oferă modalități de abordare a acestei vederi unice de pe Web.
+mozilla.com/lightbeam/lightbeam.lang|176|Preferințele saiturilor din vederea List vă permit să blocați saituri de a se conecta la navigator, urmăriți saituri care vă interesează și ascundeți pe cele pe care nu doriți să le vizualizați.
+mozilla.com/mozorg/products.lang|27|Navigator gratuit și nonprofit pentru calculatorul dumneavoastră.
+mozilla.com/mozorg/about.lang|104|Ce face Mozilla cu datele personale.
+mozilla.com/mozorg/about/history.lang|54|Suplimentele Firefox vă permit să personalizați și să preluați controlul experiențe pe internet. Peste 3 miliarde dintre acestea au fost descărcate până acum.
+mozilla.com/mozorg/plugincheck.lang|166|<strong>Modulele actualizate</strong> fac Web-ul <strong>mai bun și mai sigur</strong> pentru dumneavoastră.
+mozilla.com/mozorg/plugincheck.lang|195|Ajutați-vă prietenii să rămână în siguranță online! Vizitați <a href="%(url)s">Afiliați Firefox</a> pentru a obține o insignă pentru atestarea verificării modulele pentru saitul dumneavoastră.
+mozilla.com/mozorg/home/index.lang|271|Donația dumneavoastră ne ajută să construim internetul de care lumea are nevoie.
+mozilla.com/firefox/android/index.lang|46|Unic pentru dumneavoastră
+mozilla.com/firefox/android/index.lang|95|Sau schimbați-l oricând cu unul care se potrivește mai bine nevoilor dumneavoastră de căutare și confidențialitate.
+mozilla.com/firefox/channel.lang|32|<a href="%(feedback)s">Oferiți-ne un feedback</a> pentru a pune la punct performanța și funcționalitatea într-un mediu stabil.
+mozilla.com/firefox/sync.lang|21|Luați internetul cu dumneavoastră.
+mozilla.com/firefox/sync.lang|151|Vreți să accesați filele deschise de pe calculator pe alt dispozitiv? Să accesați istoria de navigare din mișcare? Să luați parolele cu dumneavoastră? Acum puteți.
+mozilla.com/firefox/sync.lang|219|Pentru a beneficia de întreaga experiență Sincronizare, luați Web-ul cu dumneavoastră oriunde folosiți Firefox. Conectați telefonul, tableta, calculatorul și laptopul.
+mozilla.com/firefox/dnt.lang|14|Starea dumneavoastră:
+mozilla.com/firefox/dnt.lang|42|„Nu mă urmări” este un pas către asumarea controlului asupra modului în care sunt colectate și folosite datele dumneavoastră online. „Nu mă urmări” este o funcționalitate din Firefox care le spune saiturilor că nu doriți să fiți supuși urmăririi, inclusiv pentru publicitatea comportamentală. Firefox realizează acest lucru prin transmiterea unui „header” HTTP „Do Not Track” cu fiecare cerere realizată pe Web.
+mozilla.com/firefox/dnt.lang|114|<a href="%(url1)s">Gestionarea cookie-urilor</a> în Firefox &#8212; vă permite să controlați modul în care sunt salvate <a href="%(url2)s">cookie-urile</a> pe calculator.
+mozilla.com/firefox/dnt.lang|142|Vedeți <a href="%s">unde se duc datele dumneavoastră</a> înainte să dați clic &#8212; o viziune din cadrul Forumului de Protecție a Confidențialității
+mozilla.com/firefox/partners/index.lang|82|Vă mulțumim pentru interesul acordat privind un parteneriat cu noi
+mozilla.com/firefox/partners/index.lang|137|Vedeți de ce au nevoie clienții dumneavoastră.
+mozilla.com/firefox/partners/index.lang|183|Dețineți și să controlați relația cu clienții.
+mozilla.com/firefox/partners/index.lang|225|Creșteți afacerea prin combinația planurilor dumneavoastră existente cu oferta noastră „open source”. Particularizați aspectele comerciale și experiența din aplicații pentru a veni în întâmpinarea nevoilor dumneavoastră și pentru a vă impune pe piețe noi.
+mozilla.com/firefox/partners/index.lang|234|Experții în aplicații și membrii comunității Mozilla din lumea întreagă vă pot ajuta să identificați conținut relevant pentru Firefox Marketplace. Asta ajută clienții dumneavoastră să găsească mai ușor conținutul care contează pentru ei.
+mozilla.com/firefox/partners/index.lang|276|Un „raft pentru operatori” unde puteți promova mesajele, conținutul și colecțiile de aplicații relevante pentru clienții și piețele dumneavoastră.
+mozilla.com/firefox/partners/index.lang|357|Oferiți utilizatorilor varianta dumneavoastră de Firefox pentru Android și Firefox Marketplace pentru o experiență mai captivantă care vă crește vizibilitatea brandului.
+mozilla.com/firefox/partners/index.lang|366|Pășiți în ecosistemul Firefox pentru a profita de oportunități precum Firefox Marketplace și WebRTC. Puteți afișa conținut web nou sau vă puteți integra în sufrageria clienților dumneavoastră pentru a le oferi produse noi, indiferent de platformă.
+mozilla.com/firefox/partners/index.lang|393|Adăugați brandul și conținutul dumneavoastră pentru a vă crește punctele de contact cu clienții, pentru a spori loialitatea clienților și pentru a vă crește vânzările.
+mozilla.com/firefox/partners/index.lang|483|Scrieți prenumele dumneavoastră.
+mozilla.com/firefox/partners/index.lang|488|Scrieți numele dumneavoastră.
+mozilla.com/firefox/partners/index.lang|493|Scrieți numele companiei dumneavoastră.
+mozilla.com/firefox/partners/index.lang|637|Dezvoltați-vă afacerea prin combinarea planurilor dumneavoastră de plată pentru clienți cu ofertele noastre de servicii cu sursă deschisă, intrați pe noi piețe și personalizați procesul de achiziție și gestiune a aplicațiilor pentru a vă satisface nevoile specifice.
+mozilla.com/firefox/partners/index.lang|692|Creați secțiuni particularizate pentru Firefox pe Android și Firefox Marketplace pentru o experiență a utilizatorilor mai credibilă și pentru creșterea vizibilității brandului.
+mozilla.com/firefox/partners/index.lang|727|Dezvoltați-vă afacerea prin combinarea propriilor planuri de plată ale clienților cu ofertele noastre de servicii „open source”
+mozilla.com/firefox/update.lang|122|În mod implicit, Firefox este configurat să verifice automat dacă există actualizări și să vă anunțe când sunt disponibile. Când vi se solicită actualizarea, dați clic pe OK și cea mai nouă versiune va fi descărcată și instalată pe calculator. Va trebui să reporniți Firefox pentru a utiliza noua versiune.
+mozilla.com/firefox/update.lang|126|Nu. O actualizare Firefox nu va face nicio modificare la semnele de carte, parolele salvate sau alte setări. Cu toate acestea, există posibilitatea ca unele dintre suplimente să nu fie imediat compatibile cu noile actualizări.
+mozilla.com/firefox/geolocation.lang|15|Firefox poate spune saiturilor web unde vă aflați pentru ca acestea să vă ofere informații cât mai relevante și mai utile. E un pas către un web mai inteligent &ndash; și totul cu respect pentru intimitatea dumneavoastră <a href="%(url)s" id="%(id)s" style="%(style)s">Încercați acum!</a>
+mozilla.com/firefox/geolocation.lang|27|Saiturile care folosesc servicii de detectare a locației vă vor întreba unde vă aflați pentru a vă oferi informații mai relevante sau pentru a micșora timpul de căutare. Să zicem că vreți să găsiți o pizzerie în zona în care vă aflați. Un sait va putea să vă ceară să vă împărtășiți locația pentru ca printr-o simplă căutare după „pizza” să găsiți cele mai apropiate pizzerii și nu pizzerii de pe alt continent.
+mozilla.com/firefox/geolocation.lang|35|Acest serviciu este totalmente opțional &ndash; Firefox nu va dezvălui locația dumneavoastră fără permisiune &ndash; totul este gândit astfel încât intimitatea să vă fie respectată mereu. Și, ca toate elementele din Firefox, acest serviciu este creat folosind standarde deschise pentru a ușura adoptarea lor de către dezvoltatorii Web.
+mozilla.com/firefox/geolocation.lang|43|Când vizitați un sait care poate folosi locația dumneavoastră, Firefox vă va întreba dacă doriți să vă împărtășiți locația.
+mozilla.com/firefox/geolocation.lang|47|Dacă permiteți, Firefox adună informații despre puncte de acces radio din apropiere și despre adresa IP. Firefox trimite aceste informații către furnizorul serviciului de geolocație - Google Location Services - pentru a obține o estimare a locației. Această estimare este apoi împărtășită cu saitul care a cerut informația.
+mozilla.com/firefox/geolocation.lang|59|Acuratețea variază în funcție de locație. În unele locuri, furnizorii noștri de servicii pot furniza datele cu o precizie de câțiva metri. În alte situații, locația poate fi mai puțin precisă. Toate pozițiile returnate de furnizorii de servicii sunt estimări și nu putem garanta acuratețea lor. Nu vă bazați pe aceste informații pentru urgențe.
+mozilla.com/firefox/geolocation.lang|67|Confidențialitatea dumneavoastră este extrem de importantă pentru noi. Firefox nu va furniza date despre locație fără a vă cere permisiunea. Când vizitați o pagină care cere aceste informații, veți fi întrebat înainte ca informația să fie împărtășită cu saitul care o cere sau cu furnizorul de servicii de geolocație.
+mozilla.com/firefox/geolocation.lang|75|adresa IP a calculatorului,
+mozilla.com/firefox/geolocation.lang|95|Schimbul de informații se face printr-o conexiune criptată pentru a vă proteja confidențialitatea. De îndată ce Firefox vă cunoaște locația, o va trimite mai departe saitului care le-a cerut. Nu se vor trimite către Google în niciun moment informații despre saitul pe care-l vizitați sau orice alte informații.
+mozilla.com/firefox/geolocation.lang|107|Pentru mai multe informații despre confidențialitate, vă sugerăm să citiți și:
+mozilla.com/firefox/geolocation.lang|123|Nu. Firefox vă cere permisiunea de a împărtăși aceste informații doar când saiturile web o cer la rândul lor. Firefox nu memorează locația dumneavoastră în timp ce navigați pe internet.
+mozilla.com/firefox/geolocation.lang|131|Dacă ați permis prin intermediul Firefox unui sait să primească întotdeauna informații despre locație și ulterior vă răzgândiți, puteți revoca foarte ușor acea permisiune. Iată cum:
+mozilla.com/firefox/geolocation.lang|175|Navigarea conștientă de locație este opțională în Firefox. Nu este trimisă nicio informație despre locație fără permisiunea dumneavoastră. Dacă doriți să dezactivați complet această funcționalitate, vă rugăm urmați acești pași:
+mozilla.com/firefox/geolocation.lang|200|Puteți integra suportul pentru geolocație în serviciile dumneavoastră urmând instrucțiunile de la <a href="%(url)s">Mozilla Developer Center</a>.
+mozilla.com/firefox/geolocation.lang|208|Hopa! A intervenit o eroare în timp ce se încerca determinarea poziției dumneavoastră.
+mozilla.com/firefox/developer.lang|50|Singurul navigator făcut pentru dezvoltatori, Firefox Developer Edition a fost creat cu modul dumneavoastră de operare în minte. Construiți, testați, scalați, toate dintr-un singur loc pentru prima dată.
+mozilla.com/firefox/developer.lang|328|Dacă doriți vechiul aspect Firefox Aurora înapoi am făcut acest lucru foarte ușor.
+mozilla.com/firefox/desktop/trust.lang|55|O inovație Firefox, „Nu mă urmări” vă lasă să indicați preferințele cu privire la modul în care informațiile dumneavoastră personale sunt colectate și folosite online.
+mozilla.com/firefox/desktop/trust.lang|137|Folosiți Website ID instant pentru a vă asigura că un sait este ceea ce pretinde a fi și pentru a verifica dacă conexiunea către sait este sigură.
+mozilla.com/firefox/desktop/trust.lang|146|Aflați mai multe despre de ce confidențialitatea și securitatea dumneavoastră sunt așa de importante <br class="wide-br"> și ce puteți face pentru a vă proteja online.
+mozilla.com/firefox/desktop/tips.lang|138|Păstrați suplimentele speciale și favorite în meniul dumneavoastră pentru a fi vizibile și ușor de accesat.
+mozilla.com/firefox/desktop/customize.lang|14|Este mai ușor ca niciodată să personalizați Firefox și să îl faceți să funcționeze în aceeași manieră ca dumneavoastră<br class="wide-br">
+mozilla.com/firefox/desktop/customize.lang|59|Faceți ca Firefox să se potrivească stilului dumneavoastră
+mozilla.com/firefox/desktop/customize.lang|107|Vedeți ce poate să facă pentru dumneavoastră
+mozilla.com/firefox/desktop/index.lang|54|Funcționează în aceeași manieră ca dumneavoastră
+mozilla.com/firefox/desktop/index.lang|62|Firefox vă lasă să il modificați pentru a se potrivi nevoilor dumneavoastră
+mozilla.com/firefox/os/devices.lang|974|Alegeți unul din lista de mai jos pentru a obține un telefon cu Firefox OS în țara dumneavoastră
+mozilla.com/firefox/os/devices.lang|979|Clic pe furnizorul de mai jos pentru a obține un telefon cu Firefox OS în țara dumneavoastră
+mozilla.com/firefox/os/faq.lang|79|Pentru a cumpăra un telefon cu Firefox OS, vă rugăm să vizitați <a href="%(link)s">pagina dispozitivelor</a> și să alegeți țara dumneavoastră
+mozilla.com/firefox/os/index-new.lang|289|Alegeți unul din lista de mai jos pentru a obține un telefon cu Firefox OS în țara dumneavoastră
+mozilla.com/firefox/os/index-new.lang|294|Clic pe furnizorul de mai jos pentru a obține un telefon cu Firefox OS în țara dumneavoastră
+mozilla.com/firefox/sendto.lang|7|Trimiteți Firefox tabletei sau telefonului dumneavoastră
+mozilla.com/firefox/sendto.lang|15|Ne pare rău, acest număr nu este valid. Vă rugăm să introduceți un număr valid pentru țara dumneavoastră
+mozilla.com/firefox/hello.lang|69|Pur și simplu începeți o conversație, trimiteți un link prietenului dumneavoastră și rugați-l să dea clic.
+mozilla.com/firefox/hello.lang|108|Hello este super ușor de folosit iar prietenii și familia nici măcar nu au nevoie de Firefox pentru a se alătura conversației.
+mozilla.com/firefox/hello.lang|163|Tot ce aveți nevoie este Firefox &mdash; navigatorul cu sursă deschisă care vă ajută să păstrați controlul asupra vieții online în timp ce rămâneți conectat cu prietenii și familia.
+mozilla.com/firefox/hello.lang|206|Aflați mai multe despre Firefox Hello și vedeți cu ochii dumneavoastră cât este de ușor să purtați o conversație video gratuită cu oricine, oriunde, direct din navigator.
+mozilla.com/firefox/hello.lang|252|Odată ce prietenul dumneavoastră dă clic pe link, iconița Hello se va schimba în albastru, anunțându-vă că s-a conectat.
+mozilla.com/firefoxlive.lang|34|Vă plac puii de animale? Mozilla Firefox transmite în direct cei 3 pui de panda roșu adoptați. Dați de veste și „împărtășiți” cu prietenii.
+mozilla.com/newsletter.lang|77|Abonamentul dumneavoastră la buletinul de știri a fost confirmat.
+mozilla.com/newsletter.lang|89|Doriți să obțineți cele mai relevante informații? Spuneți-ne mai multe despre dumneavoastră. Dacă tot sunteți aici, înregistrați-vă, pentru a primi și alte știri de la Mozilla.
+mozilla.com/newsletter.lang|99|Un buletin de știri lunar și anunțuri speciale oferindu-vă ponturi prin care să îmbunătățiți experiența dumneavoastră cu Firefox pe calculator și pe dispozitivul Android.
+mozilla.com/newsletter.lang|129|Buletin de știri lunar despre cum puteți contribui la Mozilla în campusul dumneavoastră
+mozilla.com/newsletter.lang|174|Fiți prima persoană care află când dispozitivele Firefox OS sunt disponibile în țara dumneavoastră
+mozilla.com/newsletter.lang|194|Nu ratați știrile importante și noutățile despre dispozitivul Firefox OS al dumneavoastră.
+mozilla.com/newsletter.lang|254|Putem ține legătura prin mesaje ocazionale despre ce contează cel mai mult pentru dumneavoastră.
+mozilla.com/newsletter.lang|322|Vă mulțumim că ne-ați comunicat motivul plecării dumneavoastră.
+mozilla.com/newsletter.lang|338|Vă rugăm să verificați că ați adăugat adresa noastră de expeditor: mozilla@e.mozilla.org în agendă, pentru a vă asigura că reușim întotdeauna să vă trimitem e-mailuri.
+mozilla.com/newsletter.lang|442|Un buletin de știri lunar ce conține ponturi pentru a îmbunătăți experiența dumneavoastră cu Firefox.
+mozilla.com/newsletter.lang|447|Sfaturi și trucuri pentru a folosi Firefox pe telefonul cu Android.
+mozilla.com/download_button.lang|9|Sistemul dumneavoastră nu îndeplinește <a href="%(url)s">cerințele</a> pentru a rula Firefox.
+mozilla.com/upgradedialog.lang|47|Versiunea de Firefox a dumneavoastră va fi în curând vulnerabilă atacurilor online.
+mozilla.com/upgradedialog.lang|63|Versiunea de Firefox a dumneavoastră nu mai este protejată împotriva atacurilor online.
+start.mozilla.org/fx36start.lang|74|Un mesaj despre navigatorul dumneavoastră.
+about-healthreport/fhr.lang|26|Ați ales să opriți partajarea de date cu Mozilla, dar veți putea vedea în continuare cum se comportă navigatorul.
+about-healthreport/fhr.lang|30|Datele din raportul de stare vor fi deasemenea șterse de pe serverele Mozilla. Aflați mai multe în <a href="%(privacy_url)s">politica noastră de confidențialitate.</a>
+about-healthreport/fhr.lang|34|Ați ales să partajați periodic datele cu Mozilla. Vă mulțumim pentru că faceți parte din misiunea noastră de a construi un viitor mai luminos pentru Web.
+about-healthreport/fhr.lang|38|Aflați cum gestionăm datele dumneavoastră în <a href="%(privacy_url)s">politica noastră de confidențialitate.</a>
+about-healthreport/fhr.lang|118|Se pare că navigatorul a înregistrat câteva defecte recent. Pentru a afla mai multe:
+about-healthreport/fhr.lang|138|Se pare că navigatorul rulează mai încet decât în mod normal. Pentru a afla mai multe:
+about-healthreport/fhr.lang|162|Timpul de pornire ne ajută să determinăm cât de bine funcționează versiunea dumneavoastră de Firefox. În general, timpii mai rapizi (de ex. mai puțin timp) indică o performanță mai bună.
+about-healthreport/fhr.lang|683|Ziua în care a fost creat profilul navigatorului dumneavoastră. Calculat în zile începând din data de 1 ianuarie 1970.
+about-healthreport/fhr.lang|691|Raportul de stare Firefox (FHR) analizează informațiile privind performanța navigatorului dumneavoastră cu scopul de a vă oferi sfaturi utile care vă ajută să folosiți Firefox la maxim. Pentru mai multe informații despre Raportul de stare Firefox, <a href="https://support.mozilla.org/kb/firefox-health-report-understand-your-android-brow" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>vizitați secțiunea de suport Mozilla.</a>
+about-healthreport/fhr.lang|695|Pentru mai multe informații despre modul în care se gestionează datele dumneavoastră, <a href="https://www.mozilla.org/legal/privacy/firefox.html#health-report" target="_blank" class="external"><span aria-hidden="true" class="external_icon"></span>consultați politica noastră de confidențialitate.</a>
+about-healthreport/fhr.lang|699|În prezent transmiteți raportul de stare către Mozilla.
+
