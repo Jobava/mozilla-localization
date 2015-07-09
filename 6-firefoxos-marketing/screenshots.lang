@@ -125,7 +125,7 @@ Utilizare
 
 # Screen 6 (Icon Grid), screen 11 (e.me party)
 ;Video
-Video {ok}
+Videoclipuri
 
 
 # Screen 6 (Icon Grid)
@@ -230,7 +230,7 @@ Cafenea
 
 # Screen 12 (e.me party)
 ;Everything Cafe
-Cafeneaua Everything
+Totul Cafenea
 
 
 # Screen 12 (e.me party) NOTE: fictional
@@ -430,7 +430,7 @@ Saituri de top
 
 # Screen 18 (Usage)
 ;3G Usage
-Gradul de utilizare 3G
+Utilizare 3G
 
 
 # Screen 18 (Usage)
@@ -455,7 +455,7 @@ Operator
 
 # Screen 19 (Lock Screen)
 ;Friday, May 26
-Vineri 26 mai
+Vineri, 26 mai
 
 
 # Screen 20 (Lock Screen 2 )  NOTE: use the same title provided in Music App screen)
