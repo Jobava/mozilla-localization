@@ -26,16 +26,20 @@ while IFS='' read -r english || [[ -n $english ]]; do
         #get the very last character of the english string
         epunc=${english:${#english} - 1}
 
-        if [[ $epunc == "." || $epunc == "," || $epunc == ";" || $epunc == "?" || $epunc == "!" ]]; then
-            read -r tline
-            tpunc=${tline:${#tline} - 1}
+        read -r tline
+        tpunc=${tline:${#tline} - 1}
+
+        if [[ $epunc == "." || $epunc == "," || $epunc == ";" || $epunc == "?" || $epunc == "!" || 
+              $tpunc == "." || $tpunc == "," || $tpunc == ";" || $tpunc == "?" || $tpunc == "!" ]]; then
             if [[ $tpunc != $epunc ]]; then
                 echo "$filename"
                 echo "line:$line_number:$english"
                 echo "     $((line_number + 1)):$tline"
             fi
-            line_number=$((line_number+1)) #don't forget to increment again
+
         fi
+
+        line_number=$((line_number+1)) #don't forget to increment again
     fi
 done < "$filename"
 
