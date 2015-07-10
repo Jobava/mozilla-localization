@@ -25,6 +25,7 @@ Multi-repo for Romanian language Mozilla localization projects
 * [Localization errors](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=errors)
 * [Mozilla wiki for Web Parts](https://wiki.mozilla.org/L10n:Web_parts)
 * [Web dashboard SVN repos for the lang files](https://l10n.mozilla-community.org/~pascalc/langchecker/?locale=ro)
+* [Langchecker for Web dashboard](https://l10n.mozilla-community.org/~pascalc/langchecker/?locale=ro&json)
 
 ### Romanian L10N
 
