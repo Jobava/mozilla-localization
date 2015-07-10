@@ -111,6 +111,23 @@ Format: English - Romanian
 
 *  https://romania.etherpad.mozilla.org/7?
 *  https://groups.google.com/forum/#!topic/mozilla-ro/nyToBI32yb8
+  
+### SVN viewer - trunk (development) branches
+
+* mozilla.com: http://viewvc.svn.mozilla.org/vc/projects/mozilla.com/trunk/locales/ro/
+* slogans: http://viewvc.svn.mozilla.org/vc/projects/granary/slogans/ro/
+* snippets: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/snippets/ro/
+* start mozilla org: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/fx36start/locale/ro/
+* google-play: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/googleplay/ro/
+* about:healthreport: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/firefoxhealthreport/locale/ro/
+* firefoxos-marketing: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/firefoxos-marketing/ro/
+* firefox-tiles: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/firefoxtiles/ro/
+
+### SVN viewer - production branches
+
+* mozilla.com pre-production (staging): http://viewvc.svn.mozilla.org/vc/projects/mozilla.com/tags/stage/locales/ro/
+* mozilla.com production: viewvc.svn.mozilla.org/vc/projects/mozilla.com/tags/production/locales/ro/
+* Mozillians: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/tags/production/mozillians/locales/ro/LC_MESSAGES/
 
 ### Other resources
 
