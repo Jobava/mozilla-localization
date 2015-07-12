@@ -85,6 +85,7 @@ The application can be controlled with an .ini file.
 * [Mozilla release schedule](https://www.google.com/calendar/embed?src=bW96aWxsYS5jb21fZGJxODRhbnI5aTh0Y25taGFiYXRzdHY1Y29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 * [L10n blog](https://blog.mozilla.org/l10n/)
 * [Twitter](https://twitter.com/mozilla_l10n)
+* [MDN on Localization](https://developer.mozilla.org/en-US/docs/Mozilla/Localization)
 
 ### Common terminology
 
@@ -102,17 +103,6 @@ Format: English - Romanian
 * tweet(noun) - ciripeală
 * tweet(verb) - ciripiți
 
-### Quick svn tips (use your own query parameters)
-
-* [Web view](https://viewvc.svn.mozilla.org/vc/?view=query&dir=&file=&file_match=exact&who=jobava&who_match=regex&comment=&comment_match=exact&querysort=date&hours=2&date=month&mindate=&maxdate=&limit_changes=100)
-* svn log ro | grep yourname
-* svn2git https://github.com/nirvdrum/svn2git
-
-### Misc (the great Romanian terminology debate)
-
-*  https://romania.etherpad.mozilla.org/7?
-*  https://groups.google.com/forum/#!topic/mozilla-ro/nyToBI32yb8
-  
 ### SVN viewer - trunk (development) branches
 
 * mozilla.com: http://viewvc.svn.mozilla.org/vc/projects/mozilla.com/trunk/locales/ro/
@@ -133,4 +123,3 @@ Format: English - Romanian
 ### Other resources
 
 * [gettext documentation](https://www.gnu.org/software/gettext/manual/gettext.html)
-
