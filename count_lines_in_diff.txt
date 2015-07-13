@@ -1,0 +1,2 @@
+#How to count the number of changes in a .lang diff
+cat diff.txt | sed '/^$/d' | sed '/^+++/d' | sed '/^.;/d' | sed '/^\+$/d' | sed '/^+\s*\#/d' | egrep "^\+"  | wc -l

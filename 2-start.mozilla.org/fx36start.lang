@@ -15,7 +15,7 @@ Sigla Firefox
 
 
 ;Google Search
-Căutare Google
+Caută cu Google
 
 
 ;Advanced search
@@ -47,15 +47,15 @@ Important {ok}
 
 
 ;Your Firefox is out of date!
-Versiunea ta de Firefox este veche!
+Versiunea curentă Firefox este veche!
 
 
 ;Please download the latest version to continue.
-Te rugăm să descarci ultima versiune pentru a continua.
+Vă rugăm să descărcați ultima versiune pentru a continua.
 
 
 ;Your browser is out of date.
-Versiunea ta de navigator este veche.
+Navigatorul este prea vechi.
 
 
 ;Upgrade today for the latest in speed and security.
@@ -71,7 +71,7 @@ Nu mulțumesc, voi risca.
 
 
 ;A message about your browser
-Un mesaj despre navigatorul dumneavoastră.
+Un mesaj despre navigator
 
 
 # Displayed to users with Firefox 3
