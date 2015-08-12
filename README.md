@@ -126,3 +126,17 @@ Format: English - Romanian
 ### Other resources
 
 * [gettext documentation](https://www.gnu.org/software/gettext/manual/gettext.html)
+ 
+### Mozilla legal documents
+* Github repo: https://github.com/mozilla/legal-docs
+
+#### To do (9 total):
+* Website-ToU
+* FF-CloudService-PN
+* FF-CloudService-ToS
+* FFOS-PN
+* MP-DevAgrmt
+* MP-PN
+* MP-ToS
+* Mozilla-PP
+* Website-PN
