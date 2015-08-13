@@ -11,6 +11,7 @@ Multi-repo for Romanian language Mozilla localization projects
 * [Dicționare hallo.ro](http://hallo.ro/)
 * [Google translate](https://translate.google.com/#en/ro/)
 * [Transvision](https://transvision.mozfr.org)
+* [Amagama FOSS translations](https://amagama-live.translatehouse.org/)
 * [Linguee - resursă pentru traduceri](http://ro.linguee.com/)
 * [Dicționar Munte Alb - posibil parodie, utilizați cu atenție](http://muntealb.orgfree.com/Traduceri/dictionar-traducere.htm)
 * [Localizare Microsoft - pentru comparații](https://www.microsoft.com/Language/en-US/Search.aspx?langID=ro-ro)
