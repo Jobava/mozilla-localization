@@ -141,3 +141,5 @@ Format: English - Romanian
 * MP-ToS
 * Mozilla-PP
 * Website-PN
+* SUMO: https://support.mozilla.org/en-US/kb/marketplace-apps-firefox-desktop
+* SUMO: https://support.mozilla.org/en-US/get-involved
