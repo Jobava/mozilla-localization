@@ -31,6 +31,10 @@ Multi-repo for Romanian language Mozilla localization projects
 * [Web dashboard SVN repos for the lang files](https://l10n.mozilla-community.org/~pascalc/langchecker/?locale=ro)
 * [Langchecker for Web dashboard](https://l10n.mozilla-community.org/~pascalc/langchecker/?locale=ro&json)
 
+## Restricted resources
+* [Fennec](https://dataviz.mozilla.org/views/Fennec-DailyADIPlayground/AboutFennec-DailyADI)
+* [Fennec desktop playground](https://dataviz.mozilla.org/views/FirefoxDesktop-DailyADIPlayground/AboutFirefoxDesktop-DailyADI)
+
 ### Romanian L10N
 
 * [Romanian localization team](https://wiki.mozilla.org/L10n:Teams:ro)
