@@ -1,12 +1,14 @@
 # mozilla-localization
 Multi-repo for Romanian language Mozilla localization projects
 
-### Guides
+### Ghiduri
 
 * [i18n ghidul traducătorului de software](http://www.i18n.ro/Ghidul_traducatorului_de_software)
 * [i18n ce nu trebuie tradus](http://www.i18n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse)
 * [i18n greșeli frecvente](http://www.i18n.ro/Greseli_frecvente)
 * [Ghid localizare Ubuntu](https://wiki.ubuntu.com/RomanianTeam/Proiecte/Localizare/Ghid)
+
+### Unelte
 * [Glosar i18n](http://i18n.ro/Glosar)
 * [Dicționare hallo.ro](http://hallo.ro/)
 * [Google translate](https://translate.google.com/#en/ro/)
@@ -15,10 +17,8 @@ Multi-repo for Romanian language Mozilla localization projects
 * [Linguee - resursă pentru traduceri](http://ro.linguee.com/)
 * [Dicționar Munte Alb - posibil parodie, utilizați cu atenție](http://muntealb.orgfree.com/Traduceri/dictionar-traducere.htm)
 * [Localizare Microsoft - pentru comparații](https://www.microsoft.com/Language/en-US/Search.aspx?langID=ro-ro)
-* [Exemplu de document localizat - Google Chrome](https://www.google.com/intl/ro/chrome/browser/privacy/whitepaper.html)
-* [Exemplu 2 - Google Chrome](https://www.google.com/intl/ro/chrome/browser/privacy/)
 
-### Main resources
+### Resurse, panouri de bord
 
 * [Web dashboard for .lang(webparts) and Verbatim-managed websites](https://l10n.mozilla-community.org/webdashboard/?locale=ro)
 * [Web dashboard for Verbatim-managed websites](https://l10n.mozilla-community.org/~flod/webstatus/?locale=ro)
@@ -31,7 +31,7 @@ Multi-repo for Romanian language Mozilla localization projects
 * [Web dashboard SVN repos for the lang files](https://l10n.mozilla-community.org/~pascalc/langchecker/?locale=ro)
 * [Langchecker for Web dashboard](https://l10n.mozilla-community.org/~pascalc/langchecker/?locale=ro&json)
 
-## Restricted resources
+## Resurse restricționate
 * [Fennec](https://dataviz.mozilla.org/views/Fennec-DailyADIPlayground/AboutFennec-DailyADI)
 * [Fennec desktop playground](https://dataviz.mozilla.org/views/FirefoxDesktop-DailyADIPlayground/AboutFirefoxDesktop-DailyADI)
 
@@ -42,11 +42,11 @@ Multi-repo for Romanian language Mozilla localization projects
 * [Locamotion (Pootle) Romanian] (http://mozilla.locamotion.org/ro/)
 * [Verbatim (older Pootle) Romanian](https://localize.mozilla.org/ro/)
  
-### Staging for www-mozilla-org
+### Staging pentru www-mozilla-org
 
 https://www-dev.allizom.org/ro/
 
-### Review checklist
+### Listă de verificare
 * What type of doc am I reviewing?
 * Who is the target audience?
 * What need is this doc trying to fill?
@@ -103,10 +103,10 @@ Format: English - Romanian
 * tile - panou / panouri
 * extension - extensie / extensii
 * add-on - supliment / suplimente
-* plugin - modul / module
+* plugin - plugin
 * Sync - Sincronizare
 * click - clic / clicuri
-* byte - octet / octeți
+* byte - byte
 * share - impărtășeșiți, distribuiți, dați de veste, spuneți ( și altora | prietenilor )
 * tweet(noun) - ciripeală
 * tweet(verb) - ciripiți
