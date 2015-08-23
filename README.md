@@ -1,6 +1,4 @@
 # mozilla-localization
-Multi-repo for Romanian language Mozilla localization projects
-
 ### Ghiduri
 
 * [i18n ghidul traducătorului de software](http://www.i18n.ro/Ghidul_traducatorului_de_software)
