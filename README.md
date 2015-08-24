@@ -5,6 +5,7 @@
 * [i18n ce nu trebuie tradus](http://www.i18n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse)
 * [i18n greșeli frecvente](http://www.i18n.ro/Greseli_frecvente)
 * [Ghid localizare Ubuntu](https://wiki.ubuntu.com/RomanianTeam/Proiecte/Localizare/Ghid)
+* [Despre nici o, nici un, nicio, niciun, etc](https://ro.wikipedia.org/wiki/Utilizator:AdiJapan/Nici_o)
 
 ### Unelte
 * [Glosar i18n](http://i18n.ro/Glosar)
