@@ -127,7 +127,7 @@ Format: English - Romanian
 ### SVN viewer - production branches
 
 * mozilla.com pre-production (staging): http://viewvc.svn.mozilla.org/vc/projects/mozilla.com/tags/stage/locales/ro/
-* mozilla.com production: viewvc.svn.mozilla.org/vc/projects/mozilla.com/tags/production/locales/ro/
+* mozilla.com production: https://viewvc.svn.mozilla.org/vc/projects/mozilla.com/tags/production/locales/ro/
 * Mozillians: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/tags/production/mozillians/locales/ro/LC_MESSAGES/
 
 ### Other resources
