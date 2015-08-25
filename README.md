@@ -107,8 +107,8 @@ Format: English - Romanian
 * click - clic / clicuri
 * byte - byte
 * share - impărtășeșiți, distribuiți, dați de veste, spuneți ( și altora | prietenilor )
-* tweet(noun) - ciripeală
-* tweet(verb) - ciripiți
+* tweet(noun) - tweet
+* tweet(verb) - „trimite un tweet” sau „ciripește” (rar)
 
 ### SVN viewer - trunk (development) branches
 
