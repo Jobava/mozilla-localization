@@ -113,13 +113,16 @@ Format: English - Romanian
 ### SVN viewer - trunk (development) branches
 
 * mozilla.com: http://viewvc.svn.mozilla.org/vc/projects/mozilla.com/trunk/locales/ro/
-* slogans: http://viewvc.svn.mozilla.org/vc/projects/granary/slogans/ro/
-* snippets: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/snippets/ro/
 * start mozilla org: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/fx36start/locale/ro/
-* google-play: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/googleplay/ro/
+* surveys: https://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/surveys/ro/
 * about:healthreport: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/firefoxhealthreport/locale/ro/
+* slogans https://viewvc.svn.mozilla.org/vc/projects/granary/slogans/ro/
 * firefoxos-marketing: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/firefoxos-marketing/ro/
 * firefox-tiles: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/firefoxtiles/ro/
+* google-play: https://github.com/mozilla-l10n/appstores/tree/master/ro
+* (obsolete) <s>slogans: http://viewvc.svn.mozilla.org/vc/projects/granary/slogans/ro/ </s>
+* (obsolete) <s>snippets: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/snippets/ro/ </s>
+* (obsolete) <s>google-play: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/googleplay/ro/ </s>
 
 ### SVN viewer - production branches
 
