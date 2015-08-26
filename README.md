@@ -76,17 +76,6 @@ This is a .NET application, therefore the Microsoft .NET Framework 1.1 or Mono i
 
 The application can be controlled with an .ini file.
 
-### Working repositories (trunk)
-* [mozilla.com](https://svn.mozilla.org/projects/mozilla.com/trunk/locales/ro/)
-* [start.mozilla.org](https://svn.mozilla.org/projects/l10n-misc/trunk/fx36start/locale/ro/)
-* [about-healthreport](https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxhealthreport/locale/ro/)
-* [slogans](https://svn.mozilla.org/projects/granary/slogans/ro/)
-* [snippets](https://svn.mozilla.org/projects/l10n-misc/trunk/snippets/ro/)
-* [firefoxos-marketing](https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxos-marketing/ro/)
-* [firefox-tiles](https://svn.mozilla.org/projects/l10n-misc/trunk/firefoxtiles/ro/)
-* [google-play](https://svn.mozilla.org/projects/l10n-misc/trunk/googleplay/ro/)
-* [contribute-autoreplies](https://svn.mozilla.org/projects/mozilla.com/trunk/locales/ro/)
-
 ### Other resources
 * https://rospell.wordpress.com/
 * [Mozilla release schedule](https://www.google.com/calendar/embed?src=bW96aWxsYS5jb21fZGJxODRhbnI5aTh0Y25taGFiYXRzdHY1Y29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
@@ -109,6 +98,9 @@ Format: English - Romanian
 * share - impărtășeșiți, distribuiți, dați de veste, spuneți ( și altora | prietenilor )
 * tweet(noun) - tweet
 * tweet(verb) - „trimite un tweet” sau „ciripește” (rar)
+
+### Tracked files for .lang projects
+* [List of langs](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=listpages)
 
 ### SVN viewer - trunk (development) branches
 
