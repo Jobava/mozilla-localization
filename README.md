@@ -100,7 +100,8 @@ Format: English - Romanian
 * tweet(verb) - „trimite un tweet” sau „ciripește” (rar)
 
 ### Tracked files for .lang projects
-* [List of langs](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=listpages)
+* [List of langs - global](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=listpages)
+* [List of langs - romanian](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=listpages&locale=ro)
 * [List of langs - JSON](https://l10n.mozilla-community.org/~pascalc/langchecker/?locale=ro&json)
 
 ### SVN viewer - trunk (development) branches
