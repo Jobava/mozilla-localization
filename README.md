@@ -97,7 +97,7 @@ Format: English - Romanian
 * byte - byte
 * share - impărtășeșiți, distribuiți, dați de veste, spuneți ( și altora | prietenilor )
 * tweet(noun) - tweet
-* tweet(verb) - „trimite un tweet” sau „ciripește” (rar)
+* tweet(verb) - „trimite (un) tweet” sau „tweet despre asta” (tweet this)
 
 ### Tracked files for .lang projects
 * [List of langs - global](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=listpages)
