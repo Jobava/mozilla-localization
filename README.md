@@ -127,6 +127,13 @@ Format: English - Romanian
 ### Mozilla releases
 * http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/
 
+### Mozilla software
+* Firefox OS 2.5 (dev): http://hg.mozilla.org/gaia-l10n/ro
+* Firefox OS 2.2: http://hg.mozilla.org/releases/gaia-l10n/v2_2/ro
+* Firefox OS 2.1: http://hg.mozilla.org/releases/gaia-l10n/v2_1/ro
+* Firefox OS 2.0: http://hg.mozilla.org/releases/gaia-l10n/v2_0/ro
+* Aurora (Firefox, Firefox for Android, Thunderbird, Lightning): https://hg.mozilla.org/releases/l10n/mozilla-aurora/ro/
+
 ### Other resources
 
 * [gettext documentation](https://www.gnu.org/software/gettext/manual/gettext.html)
