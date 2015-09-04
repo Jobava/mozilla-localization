@@ -1,15 +1,15 @@
 # mozilla-localization
 ### Ghiduri
 
-* [i18n ghidul traducătorului de software](http://www.i18n.ro/Ghidul_traducatorului_de_software)
-* [i18n ce nu trebuie tradus](http://www.i18n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse)
-* [i18n greșeli frecvente](http://www.i18n.ro/Greseli_frecvente)
+* [L10n ghidul traducătorului de software](http://www.l10n.ro/Ghidul_traducatorului_de_software)
+* [L10n ce nu trebuie tradus](http://www.l10n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse)
+* [L10n greșeli frecvente](http://www.l10n.ro/Greseli_frecvente)
 * [Ghid localizare Ubuntu](https://wiki.ubuntu.com/RomanianTeam/Proiecte/Localizare/Ghid)
 * [Despre nici o, nici un, nicio, niciun, etc](https://ro.wikipedia.org/wiki/Utilizator:AdiJapan/Nici_o)
 * [Tutorial git - opțional](http://rypress.com/tutorials/git/index)
 
 ### Unelte
-* [Glosar i18n](http://i18n.ro/Glosar)
+* [Glosar L10n](http://l10n.ro/Glosar)
 * [Dicționare hallo.ro](http://hallo.ro/)
 * [Google translate](https://translate.google.com/#en/ro/)
 * [Transvision](https://transvision.mozfr.org)
