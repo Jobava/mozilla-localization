@@ -134,6 +134,7 @@ Format: English - Romanian
 * Firefox OS 2.1: http://hg.mozilla.org/releases/gaia-l10n/v2_1/ro
 * Firefox OS 2.0: http://hg.mozilla.org/releases/gaia-l10n/v2_0/ro
 * Aurora (Firefox, Firefox for Android, Thunderbird, Lightning): https://hg.mozilla.org/releases/l10n/mozilla-aurora/ro/
+* Latest L10n builds for Aurora: https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-aurora-l10n/
 
 ### Other resources
 
