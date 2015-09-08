@@ -139,6 +139,7 @@ Format: English - Romanian
 ### Other resources
 
 * [gettext documentation](https://www.gnu.org/software/gettext/manual/gettext.html)
+* [lang file format](https://github.com/mozilla-l10n/langchecker/wiki/.lang-files-format)
  
 ### Mozilla legal documents
 * Github repo: https://github.com/mozilla/legal-docs
