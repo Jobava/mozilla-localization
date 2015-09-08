@@ -140,6 +140,8 @@ Format: English - Romanian
 
 * [gettext documentation](https://www.gnu.org/software/gettext/manual/gettext.html)
 * [lang file format](https://github.com/mozilla-l10n/langchecker/wiki/.lang-files-format)
+* [langchecker - available URLs](https://github.com/mozilla-l10n/langchecker/wiki/Available-URLs)
+* [langchecker - CLI commands](https://github.com/mozilla-l10n/langchecker/wiki/CLI-scripts-syntax)
  
 ### Mozilla legal documents
 * Github repo: https://github.com/mozilla/legal-docs
