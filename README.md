@@ -110,7 +110,7 @@ Format: English - Romanian
 * link = link (linkul/linkuri)
 * log in = autentificare
 * log out = deconectare
-* mouse = maus
+* mouse = maus („mouse” pe Locamotion deocamdată)
 * plugin = plugin (pluginul/pluginuri)
 * private browsing = navigare privată
 * release = lansare
