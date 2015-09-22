@@ -102,24 +102,24 @@ Format: English - Romanian
 * add-on = supliment
 * browse = navighează (ex. navighează pe web)
 * browse = răsfoiește (cu sensul exclusiv în care apeși pe buton și selectezi un fișier; exemplu concret: folosit la încărcarea de fișiere pe diverse site-uri)
-* browser = browser [browserul/browsere]
+* browser = browser (browserul/browsere)
 * crash reporter = raportor de defecțiuni
 * crash report = raport de defecțiuni
-* feedback = feedback [feedbackul/feedbackuri]
+* feedback = feedback (feedbackul/feedbackuri)
 * report a bug = raportează un defect
-* link = link [linkul/linkuri]
+* link = link (linkul/linkuri)
 * log in = autentificare
 * log out = deconectare
 * mouse = maus
-* plugin = plugin [pluginul/pluginuri]
+* plugin = plugin (pluginul/pluginuri)
 * private browsing = navigare privată
 * release = lansare
 * release notes = note privind lansarea
 * sign in = autentificare
 * sign out = deconectare
 * update channel = sursă de actualizare
-* web = web [webul/weburi] (se va încerca pe cât posibil să fie scris cu literă mică)
-* site = site [site-ul/site-uri]
+* web = web (webul/weburi) (se va încerca pe cât posibil să fie scris cu literă mică)
+* site = site (site-ul/site-uri)
 
 ### Tracked files for .lang projects
 * [List of langs - global](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=listpages)
