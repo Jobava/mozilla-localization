@@ -17,6 +17,7 @@
 * [Linguee - resursă pentru traduceri](http://ro.linguee.com/)
 * [Dicționar Munte Alb - posibil parodie, utilizați cu atenție](http://muntealb.orgfree.com/Traduceri/dictionar-traducere.htm)
 * [Localizare Microsoft - pentru comparații](https://www.microsoft.com/Language/en-US/Search.aspx?langID=ro-ro)
+* [Glosar Ceata](https://wiki.ceata.org/index.php/Glosar), diferă de glosarul Mozilla - pentru comparații 
 
 ### Resurse, panouri de bord
 
