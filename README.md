@@ -130,7 +130,7 @@ Format: English - Romanian
 ### SVN viewer - trunk (development) branches
 
 ## In Github
-* mozilla.com: https://github.com/mozilla-l10n/bedrock-l10n
+* mozilla.com: https://github.com/mozilla-l10n/www.mozilla.org
 * appstores (google-play): https://github.com/mozilla-l10n/appstores/tree/master/ro
 * FHR (Firefox Health Report in about:healthreport): https://github.com/mozilla-l10n/fhr-l10n
 * **Romanian team's forks of github repos: https://github.com/mirror-mozilla-svn**
@@ -147,11 +147,12 @@ Format: English - Romanian
 * (obsolete) <s>snippets: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/snippets/ro/ </s>
 * (obsolete) <s>google-play: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/googleplay/ro/ </s>
 
-### SVN viewer - production branches
+### Production branches
 
 * mozilla.com pre-production (staging): http://viewvc.svn.mozilla.org/vc/projects/mozilla.com/tags/stage/locales/ro/
-* mozilla.com production: https://viewvc.svn.mozilla.org/vc/projects/mozilla.com/tags/production/locales/ro/
+* mozilla.com production: https://github.com/mozilla-l10n/bedrock-l10n
 * Mozillians: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/tags/production/mozillians/locales/ro/LC_MESSAGES/
+* (obsolete) <s>mozilla.com production: https://viewvc.svn.mozilla.org/vc/projects/mozilla.com/tags/production/locales/ro/</s>
  
 ### Mozilla releases
 * http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/
