@@ -7,6 +7,7 @@
 * [Ghid localizare Ubuntu](https://wiki.ubuntu.com/RomanianTeam/Proiecte/Localizare/Ghid)
 * [Despre nici o, nici un, nicio, niciun, etc](https://ro.wikipedia.org/wiki/Utilizator:AdiJapan/Nici_o)
 * [Tutorial git - opțional](http://rypress.com/tutorials/git/index)
+* [scurtături de tastatură pentru Pontoon](http://i.imgur.com/aG9xDOc.png)
 
 ### Unelte
 * [Glosar L10n](http://l10n.ro/Glosar)
