@@ -36,6 +36,14 @@
 ## Resurse restricționate
 * [Fennec](https://dataviz.mozilla.org/views/Fennec-DailyADIPlayground/AboutFennec-DailyADI)
 * [Fennec desktop playground](https://dataviz.mozilla.org/views/FirefoxDesktop-DailyADIPlayground/AboutFirefoxDesktop-DailyADI)
+ 
+## SUMO
+* Production site: https://support.mozilla.org/ro/
+* Development site: https://support.allizom.org
+* Pontoon SUMO UI buddyup: https://pontoon.mozilla.org/ro/sumo/LC_MESSAGES/buddyup.po/
+* Pontoon SUMO UI yaocho: https://pontoon.mozilla.org/ro/sumo/LC_MESSAGES/yaocho.po/
+* Pontoon SUMO UI main: https://pontoon.mozilla.org/ro/sumo/LC_MESSAGES/messages.po/
+* People (IRC nicknames) to bother to push strings to production: mythmon, Kadir, vesper|
 
 ### Romanian L10N
 
