@@ -171,6 +171,7 @@ Format: English - Romanian
 * Firefox OS 2.2: http://hg.mozilla.org/releases/gaia-l10n/v2_2/ro
 * Firefox OS 2.1: http://hg.mozilla.org/releases/gaia-l10n/v2_1/ro
 * Firefox OS 2.0: http://hg.mozilla.org/releases/gaia-l10n/v2_0/ro
+* Alcatel's builds for Firefox OS and others: http://sourceforge.net/projects/alcatel/files/
 * Aurora (Firefox, Firefox for Android, Thunderbird, Lightning): https://hg.mozilla.org/releases/l10n/mozilla-aurora/ro/
 * Latest nightlies L10n builds: https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-aurora-l10n/
 
