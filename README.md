@@ -187,6 +187,7 @@ Format: English - Romanian
 * [lang file format](https://github.com/mozilla-l10n/langchecker/wiki/.lang-files-format)
 * [langchecker - available URLs](https://github.com/mozilla-l10n/langchecker/wiki/Available-URLs)
 * [langchecker - CLI commands](https://github.com/mozilla-l10n/langchecker/wiki/CLI-scripts-syntax)
+* [How Pontoon Works](http://mozilla-pontoon.readthedocs.org/en/latest/)
  
 ### Mozilla legal documents
 * Github repo: https://github.com/mozilla/legal-docs
