@@ -36,7 +36,21 @@
 ## Resurse restricționate
 * [Fennec](https://dataviz.mozilla.org/views/Fennec-DailyADIPlayground/AboutFennec-DailyADI)
 * [Fennec desktop playground](https://dataviz.mozilla.org/views/FirefoxDesktop-DailyADIPlayground/AboutFirefoxDesktop-DailyADI)
- 
+
+## Etherpads, todos
+* FFOS bugged strings: https://public.etherpad-mozilla.org/p/FFOS_bugged_strings
+* Website-ToU
+* FF-CloudService-PN
+* FF-CloudService-ToS
+* FFOS-PN
+* MP-DevAgrmt
+* MP-PN
+* MP-ToS
+* Mozilla-PP
+* Website-PN
+* SUMO: https://support.mozilla.org/en-US/kb/marketplace-apps-firefox-desktop
+* SUMO: https://support.mozilla.org/en-US/get-involved
+
 ## SUMO
 * Production site: https://support.mozilla.org/ro/
 * Development site: https://support.allizom.org
@@ -192,16 +206,3 @@ Format: English - Romanian
  
 ### Mozilla legal documents
 * Github repo: https://github.com/mozilla/legal-docs
-
-#### To do (9 total):
-* Website-ToU
-* FF-CloudService-PN
-* FF-CloudService-ToS
-* FFOS-PN
-* MP-DevAgrmt
-* MP-PN
-* MP-ToS
-* Mozilla-PP
-* Website-PN
-* SUMO: https://support.mozilla.org/en-US/kb/marketplace-apps-firefox-desktop
-* SUMO: https://support.mozilla.org/en-US/get-involved
