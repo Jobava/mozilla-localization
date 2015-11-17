@@ -38,7 +38,7 @@
 * [Fennec desktop playground](https://dataviz.mozilla.org/views/FirefoxDesktop-DailyADIPlayground/AboutFirefoxDesktop-DailyADI)
 
 ## Etherpads, todos
-* FFOS bugged strings: https://public.etherpad-mozilla.org/p/FFOS_bugged_strings
+* FFOS bugged strings: https://public.etherpad-mozilla.org/p/romania-FFOS_bugged_strings
 * Website-ToU
 * FF-CloudService-PN
 * FF-CloudService-ToS
