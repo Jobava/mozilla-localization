@@ -157,6 +157,7 @@ Format: English - Romanian
 * appstores (google-play): https://github.com/mozilla-l10n/appstores/tree/master/ro
 * FHR (Firefox Health Report in about:healthreport): https://github.com/mozilla-l10n/fhr-l10n
 * **Romanian team's forks of github repos: https://github.com/mirror-mozilla-svn**
+* What can you do for Mozilla (AskNot): https://github.com/jdm/asknot/tree/master/locales
 
 ## On the old SVN
 * start mozilla org: http://viewvc.svn.mozilla.org/vc/projects/l10n-misc/trunk/fx36start/locale/ro/
