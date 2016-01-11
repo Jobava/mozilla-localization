@@ -1,16 +1,16 @@
 link https://blog.mozilla.org/blog/2016/01/05/firefox-os-will-power-new-panasonic-uhd-tvs-unveiled-at-ces/
 title Firefox OS will Power New Panasonic UHD TVs Unveiled at CES
 
-Firefox OS va alimenta noile televizoare ultra-HD Panasonic la Consumer ELectronics Show în Las Vegas
+Firefox OS va alimenta noile televizoare ultra-HD Panasonic prezentate la Consumer ELectronics Show în Las Vegas
 
 
-[Panasonic a anunțat](http://www.mynewsdesk.com/uk/panasonic-uk/pressreleases/panasonic-launches-world-s-first-official-ultra-hd-premium-tv-at-the-2016-consumer-electronics-show-1286442) că Firefox OS va alimenta noul televizor ultra-HD Panasonic DX900, inaugurat azi la CES 2016.
+[Panasonic a anunțat](http://www.mynewsdesk.com/uk/panasonic-uk/pressreleases/panasonic-launches-world-s-first-official-ultra-hd-premium-tv-at-the-2016-consumer-electronics-show-1286442) că Firefox OS va alimenta noul televizor ultra-HD Panasonic DX900, inaugurat marți, 5 ianuarie, la CES 2016.
 
-Televizoarele Panasonic cu Firefox OS sunt deja [disponibile global](https://blog.mozilla.org/blog/2015/05/14/first-panasonic-smart-tvs-powered-by-firefox-os-debut-worldwide/), fapt ce permite consumatorilor să găsească canalele preferate, aplicații, videoclipuri și alt tip de conținut rapid, cu posibilitatea de a plasa conținutul și aplicațiile favorite pe ecranul principal.
+Televizoarele Panasonic cu Firefox OS sunt deja [disponibile global](https://blog.mozilla.org/blog/2015/05/14/first-panasonic-smart-tvs-powered-by-firefox-os-debut-worldwide/), fapt ce permite consumatorilor să găsească canalele preferate, aplicații, videoclipuri și alte tipuri de conținut rapid, cu posibilitatea de a plasa conținutul și aplicațiile favorite pe ecranul principal.
 
 ![exemplu de ecran principal](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/wp-content/uploads/2016/01/Panasonic-TV-powered-by-Firefox-OS-600x338.png)
 
-Mozilla și Panasonic au colaborat începând cu anul 2014 pentru a putea oferi consumatorilor o experiență intuitivă și optimizată pentru platforma webului deschis. Firefox OS este prima platformă veritabilă construită în întregime pe tehnologii web și care oferă mai mult control și alegere utilizatorilor, dezvoltatorilor și producătorilor de dispozitive.
+Mozilla și Panasonic au colaborat începând cu anul 2014 pentru a putea oferi consumatorilor o experiență intuitivă și optimizată pentru platforma webului deschis. Firefox OS este prima platformă veritabilă construită în întregime pe tehnologii web și care oferă mai mult control și alegere utilizatorilor, dezvoltatorilor și producătorilor de diferite dispozitive.
 
 **Ce-i nou în Firefox OS pentru televizoare**
 
