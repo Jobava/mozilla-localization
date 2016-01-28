@@ -189,6 +189,7 @@ Format: English - Romanian
 * Alcatel's builds for Firefox OS and others: http://sourceforge.net/projects/alcatel/files/
 * Aurora (Firefox, Firefox for Android, Thunderbird, Lightning): https://hg.mozilla.org/releases/l10n/mozilla-aurora/ro/
 * Latest nightlies L10n builds: https://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-mozilla-aurora-l10n/
+* Firefox for iOS: https://github.com/mozilla-l10n/firefoxios-l10n
 
 ## Just the strings
 
