@@ -144,6 +144,7 @@ Format: English - Romanian
 * update channel = sursă de actualizare
 * web = web (webul/weburi) (se va încerca pe cât posibil să fie scris cu literă mică)
 * site = site (site-ul/site-uri)
+* syntax highlighting = evidențiere de sintaxă
 
 ### Tracked files for .lang projects
 * [List of langs - global](https://l10n.mozilla-community.org/~pascalc/langchecker/?action=listpages)
