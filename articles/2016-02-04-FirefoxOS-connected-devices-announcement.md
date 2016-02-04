@@ -2,7 +2,7 @@ Link original: https://discourse.mozilla-community.org/t/firefox-os-connected-de
 
 De la George Roter
 
-Azi am împărtășit un număr de decizii asociate Firefox OS, împreună cu schimbări pentru Marketplace, foxfooding și procesul Product Innovation (inovația produselor). Mai jos este e-mailul trimis.
+Azi am împărtășit un număr de decizii asociate Firefox OS, împreună cu schimbări pentru Marketplace, foxfooding și procesul Product Innovation (inovația pentru produse). Mai jos este e-mailul trimis.
 
 Știm că aceste decizii sunt substanțiale și știm că vor fi multe întrebări. Colectivul Mozilla va monitoriza acest canal cu atenție în următoarele 48 de ore pentru a răspunde cât mai rapid întrebărilor și preocupărilor dumneavoastră.
 
@@ -16,19 +16,19 @@ https://wiki.mozilla.org/Connected_Devices/Participation2
 
 Dragi mozilieni,
 
-Scopul acestui e-mail este să vă împărtășim o urmare a celor anunțate de Ari Jaaksi, SVP Mozilla pentru Connected Devices [la începutul lui decembrie](https://blog.mozilla.org/blog/2015/12/09/firefox-os-pivot-to-connected-devices/), respectiv intenția de a pivota de la „Firefox OS” la „Connected Devices” și pentru a ne concentra pe explorarea inovațiilor în spațiul IoT (Internet of Things - Internetul Lucrurilor). Împărtășim acestea din partea lui Ari și a grupului de conducere Connected Devices.
+Scopul acestui e-mail este acela de a vă împărtăși urmarea celor anunțate de Ari Jaaksi, SVP Mozilla pentru Connected Devices (dispozitive conectate) [la începutul lui decembrie](https://blog.mozilla.org/blog/2015/12/09/firefox-os-pivot-to-connected-devices/), respectiv intenția de a pivota de la „Firefox OS” la „Connected Devices” și pentru a ne concentra pe explorarea inovațiilor în spațiul IoT (Internet of Things - Internetul Lucrurilor). Împărtășim acestea din partea lui Ari și a grupului de conducere Connected Devices.
 
 Sunt câteva decizii pe care vrem să le împărtășim despre ce se va întâmpla în continuare. Vom detalia mai jos, dar putem începe să fim foarte clari și direcți despre 4 decizii făcute:
 
 1. Vom înceta dezvoltarea pentru Firefox OS pentru smartphone-uri după lansarea ediției 2.6
 
-2. Începând cu 29 martie 2016, Marketplace nu va mai accepta propuneri de aplicații pentru Android, Desktop și tabletă, vom elimina toate aplicațiile care nu suportă Firefox OS. Aplicațiile Firefox OS vor mai fi acceptate până în 2017 (nu avem încă o dată până la care nu vom mai accepta aceste aplicații).
+2. Începând cu 29 martie 2016, Marketplace nu va mai accepta propuneri de aplicații pentru Android, desktop și tabletă, vom elimina toate aplicațiile care nu suportă Firefox OS. Aplicațiile Firefox OS vor mai fi acceptate până în 2017 (nu avem încă o dată până la care nu vom mai accepta aceste aplicații).
 
 3. Echipa Connected Devices a testat un nou proces de inovație a produselor cu personalul angajat, 3 produse au trecut de prima „etapă” și multe altele sunt în desfășurare. Abordarea noastră în viitor este aceea de a avea mai multe inovații diferite de produse în dezvoltare și sperăm să deschidem un proces formal pentru participarea non-angajaților în prima parte a anului.
 
 4. Programul foxfooding va continua și se va concentra pe aceste noi inovații pe produse (în defavoarea îmbunătățirii experienței pentru smartphone-uri). Ne așteptăm ca telefoanele Sony Z3C să fie de folos în această abordare, dar ne așteptăm ca până la sfârșitul lunii martie să detaliem mai precis acest program.
 
-Evident că aceste decizii sunt substanțiale. Motivul principal pentru care le luăm este dorința de a ne concentra energiile și resursele în aducerea puterii webului pentru IoT. Facem acestea pentru că pășim într-un spațiu captivant dar fragmentat pentru a ne asigura că utilizatorii au drept de alegere prin intermediul soluțiilor interoperabile, deschise și pentru a pleda pentru confidențialitatea datelor și securitate.
+Evident că aceste decizii sunt substanțiale. Motivul principal pentru care le luăm este dorința de a ne concentra energiile și resursele în aducerea puterii webului pentru IoT. Facem acestea pentru că pășim într-un spațiu captivant dar fragmentat pentru a ne asigura că utilizatorii au drept de alegere prin soluți interoperabile și deschise și pentru a pleda pentru confidențialitatea datelor și securitate.
 
 Sunt câteva oportunități captivante pentru dumneavoastră pentru a modela următoarea fază a proiectului prin participare. Am început să detaliem câteva dintre acestea mai jos și vă vom trimite mai multe detalii în zilele următoare.
 
@@ -38,7 +38,7 @@ Iar acum, mai multe detalii...
 
 **Vom înceta dezvoltarea Firefox OS pentru smartphone-uri după lansarea versiunii 2.6**
 
-Prin munca a sute de contribuitori am făcut un efort extraordinar și am creat o platformă impresionantă din Firefox OS. Totuși, după cum am anunțat în decembrie, circumstanțele sistemelor de operare și a ecosistemelor de aplicații multiple existente pe piață ne-au pus în postura de a recupera mereu un decalaj și nu au fost condiții pentru ca Mozilla să câștige în bătălia smartphone-urilor. Ne-am decis ca pentru a putea câștiga în noua strategie Connected Devices că trebuie să ne concentrăm eforturilor spre prototiparea viitorului și explorarea modului în care putem avea cel mai mare impact în IoT.
+Prin munca a sute de contribuitori am făcut un efort extraordinar și am creat o platformă impresionantă din Firefox OS. Totuși, după cum am anunțat în decembrie, circumstanțele sistemelor de operare și a ecosistemelor de aplicații multiple existente pe piață ne-au pus în postura de a recupera mereu un decalaj și nu au fost condiții pentru ca Mozilla să câștige în bătălia smartphone-urilor. Ne-am decis ca pentru a putea câștiga în noua strategie Connected Devices că trebuie să ne concentrăm eforturilor pe prototiparea viitorului și explorarea modului în care putem avea cel mai mare impact în IoT.
 
 De aceea, anunțăm planul nostru de a sfârși suportul pentru smartphone-uri după lansarea versiunii Firefox OS 2.6. Aceasta înseamnă că Firefox OS pentru smartphone-uri nu va mai avea implicare din partea angajaților Mozilla după luna mai.
 
