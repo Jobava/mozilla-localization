@@ -78,7 +78,7 @@ Posibilitățile, libertatea și potențialul spațiului dispozitivelor conectat
 
 Vă rugăm să împărtășiți aici toate întrebările, preocupările cu noi pe Discourse, unde vom posta des și vă vom răspunde la întrebări. Mai puteți adresa întrebări direct pe e-mail lui [John](https://mozillians.org/en-US/u/jbernard/), [George](https://mozillians.org/en-US/u/geroter/), [Lucy](https://mozillians.org/en-US/u/lucyeoh/) sau [Brian](https://mozillians.org/en-US/u/kinger/).
 
-Privind spre viitor,
+Privind înainte,
 
 John Bernard. Director, Colaborare, Connected Devices
 
