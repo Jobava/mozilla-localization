@@ -51,3 +51,35 @@ Vom continua să evaluăm stiva tehnologică pentru a vedea cum se potrivesc cu 
 Începând cu 29 martie 2016, Marketplace nu va mai accepta aplicații pentru Android, desktop și tabletă și va elimina toate aplicațiile care nu suportă Firefox OS. Vom continua să acceptăm aplicații pentru Firefox OS până în 2017 (nu avem încă o data de la care nu vom mai accepta nici aceste aplicații). Aplicațiile care merg momentan pentru desktop și android nu vor mai funcționa pe aceste platforme deoarece Web Runtime (WebRT) va fi eliminat și nu va mai putea instala și lansa aplicații. Vom continua să permitem aplicații și actualizări pentru aplicații libere pentru telefoane Firefox OS și vor fi milioane de utilizatori existenți pe care îi vom susține în continuare. Pentru mai multe informații despre viitorul Marketplace [vizitați acest link](https://wiki.mozilla.org/Marketplace).
 
 **Procesul de inovație pentru produse**
+
+Pe durata lunii trecute, echipa Connected Devices a testat un nou proces de inovație pentru produse cu ajutorul angajaților pentru a identifica programele pentru produse IoT pentru 2016.
+
+Acest proces ne împinge să ne gândim despre idei aflate la stadiul incipient ca și cum ar fi proiecte de startup-uri tehnologice în care echipe pledează pentru ideile lor și în care să demonstreze propuneri de valoare pentru consumatori în cadrul tuturor punctelor de evaluare („porți”) din ciclul de dezvoltare. Aceasta va fi abordarea echipei de acum înainte.
+
+Începând de azi, avem 3 proiecte care au trecut de prima poartă, inclusiv [SmartTV](https://wiki.mozilla.org/Firefox_OS/Smart_TV), și mai sunt un număr de aproximativ 12 proiecte ce așteaptă o evaluare. Puteți afla mai multe despre proiectul de inovație pentru produse [aici](https://wiki.mozilla.org/Connected_Devices/Product_Innovation_Process).
+
+Sperăm să deschidem acest proces formal de inovație pentru participarea contribuitorilor neangajați în prima parte a anului. Partea dificilă constă în modalitatea de abordare a proiectelor conduse de voluntari care nu trec de porți în procesul de dezvoltare și care trebuie dezangajate rapid. Dacă sunteți interesați în conceperea acestui proces de inovație pentru participarea voluntarilor, vă rugăm să ne contactați.
+
+**Programul foxfooding va continua și se va concentra pe inovațiile produselor noi**
+
+Desantul nostru în spațiul Connected Devices va avea nevoie de un puternic sprijin din partea comunității pentru a avea succes, iar aceasta înseamnă hacking și testare pentru produsele inovatoare ce vor rezulta din noile procese.
+
+Aceasta înseamnă că programul de foxfooding se va extinde pentru a captiva membrii comunității devreme și des cu noile concepte de produse. Ne așteptăm ca dispozitivele Sony Z3C din programul de foxfooding existent să fie de folos în acest demers (deoarece conțin deja senzorii necesari pentru spațiul IoT). Ne așteptăm să stabilim coordonatele acestui program până la sfârșitul lunii martie.
+
+**Începeți să construiți viitorul de acum!**
+
+Posibilitățile, libertatea și potențialul spațiului dispozitivelor conectate îl fac deosebit de captivant. Dorim să permitem unui număr cât mai mare de oameni să se implice! Programul de participare complet se află [în faza de concepție](https://github.com/mozilla/participation-org/issues/286) și va fi dezvăluit în lunile următoare.
+
+Între timp va fi inițiat un fond de inovații condus de voluntari inițiat de consiliul Mozilla Reps. Acest fond este un experiment pentru următoarele trei luni și va oferi un proces ușor și eficient pentru a oferi fonduri pentru proiecte mici care au scopul de a experimenta și prototipa cu idei inovative din spațiul dispozitivelor conectate. [Puteți citi mai multe despre aceasta aici](https://wiki.mozilla.org/Connected_Devices/Participation/Reps_Innovation_Fund).
+
+Întreaga conducere a programului Connected Devices apreciază în mod deosebit ceea ce ați construit și realizat împreună și pentru aceasta vă oferim cele mai calde mulțumiri. Suntem foarte entuziasmați despre ce vom crea împreună în viitor.
+
+[Am compilat o serie de informații despre cum vă puteți implica în Connected Devices aici](https://wiki.mozilla.org/Connected_Devices/Participation).
+
+Vă rugăm să împărtășiți aici toate întrebările, preocupările cu noi pe Discourse, unde vom posta des și vă vom răspunde la întrebări. Mai puteți adresa întrebări direct pe e-mail lui [John](https://mozillians.org/en-US/u/jbernard/), [George](https://mozillians.org/en-US/u/geroter/), [Lucy](https://mozillians.org/en-US/u/lucyeoh/) sau [Brian](https://mozillians.org/en-US/u/kinger/).
+
+Privind spre viitor,
+
+John Bernard. Director, Colaborare, Connected Devices
+
+George Roter. Șef pe departamentul contribuitori de bază, Participare
