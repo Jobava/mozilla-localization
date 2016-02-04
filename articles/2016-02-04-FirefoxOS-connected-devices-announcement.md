@@ -1,3 +1,5 @@
+Link original: https://discourse.mozilla-community.org/t/firefox-os-connected-devices-announcement/6864
+
 De la George Roter
 
 Azi am împărtășit un număr de decizii asociate Firefox OS, împreună cu schimbări pentru Marketplace, foxfooding și procesul Product Innovation (inovația produselor). Mai jos este e-mailul trimis.
@@ -6,9 +8,9 @@ Azi am împărtășit un număr de decizii asociate Firefox OS, împreună cu sc
 
 Pentru mai multe informații mai puteți vizita următoarele pagini wiki:
 
-http://wiki.mozilla.org/Marketplace
+https://wiki.mozilla.org/Marketplace
 
-wiki.mozilla.org/Connected_Devices/Participation2
+https://wiki.mozilla.org/Connected_Devices/Participation2
 
 ---
 
