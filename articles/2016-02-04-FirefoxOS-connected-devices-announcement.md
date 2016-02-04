@@ -24,7 +24,7 @@ Sunt câteva decizii pe care vrem să le împărtășim despre ce se va întâmp
 
 2. Începând cu 29 martie 2016, Marketplace nu va mai accepta propuneri de aplicații pentru Android, desktop și tabletă, vom elimina toate aplicațiile care nu suportă Firefox OS. Aplicațiile Firefox OS vor mai fi acceptate până în 2017 (nu avem încă o dată până la care nu vom mai accepta aceste aplicații).
 
-3. Echipa Connected Devices a testat un nou proces de inovație a produselor cu personalul angajat, 3 produse au trecut de prima „etapă” și multe altele sunt în desfășurare. Abordarea noastră în viitor este aceea de a avea mai multe inovații diferite de produse în dezvoltare și sperăm să deschidem un proces formal pentru participarea non-angajaților în prima parte a anului.
+3. Echipa Connected Devices a testat un nou proces de inovație a produselor cu personalul angajat, 3 produse au trecut de prima „etapă” și multe altele sunt în desfășurare. Abordarea noastră în viitor este aceea de a avea mai multe inovații diferite de produse în dezvoltare și sperăm să deschidem un proces formal pentru participarea non-angajaților din prima parte a anului.
 
 4. Programul foxfooding va continua și se va concentra pe aceste noi inovații pe produse (în defavoarea îmbunătățirii experienței pentru smartphone-uri). Ne așteptăm ca telefoanele Sony Z3C să fie de folos în această abordare, dar ne așteptăm ca până la sfârșitul lunii martie să detaliem mai precis acest program.
 
