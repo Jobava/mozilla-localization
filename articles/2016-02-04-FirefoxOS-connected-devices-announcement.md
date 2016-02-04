@@ -35,3 +35,19 @@ Sunt câteva oportunități captivante pentru dumneavoastră pentru a modela urm
 Este posibil să aveți întrebări sau gânduri pe care doriți să le împărtășiți după ce ați terminat de citit. Pentru aceasta, deschidem conversația chiar aici pe Discourse și vom avea [ore de discuții deschise în zilele următoare](https://wiki.mozilla.org/Connected_Devices/Participation#Upcoming_Office_Hours). Vă rugăm să participați.
 
 Iar acum, mai multe detalii...
+
+**Vom înceta dezvoltarea Firefox OS pentru smartphone-uri după lansarea versiunii 2.6**
+
+Prin munca a sute de contribuitori am făcut un efort extraordinar și am creat o platformă impresionantă din Firefox OS. Totuși, după cum am anunțat în decembrie, circumstanțele sistemelor de operare și a ecosistemelor de aplicații multiple existente pe piață ne-au pus în postura de a recupera mereu un decalaj și nu au fost condiții pentru ca Mozilla să câștige în bătălia smartphone-urilor. Ne-am decis ca pentru a putea câștiga în noua strategie Connected Devices că trebuie să ne concentrăm eforturilor spre prototiparea viitorului și explorarea modului în care putem avea cel mai mare impact în IoT.
+
+De aceea, anunțăm planul nostru de a sfârși suportul pentru smartphone-uri după lansarea versiunii Firefox OS 2.6. Aceasta înseamnă că Firefox OS pentru smartphone-uri nu va mai avea implicare din partea angajaților Mozilla după luna mai.
+
+Vom continua să evaluăm stiva tehnologică pentru a vedea cum se potrivesc cu noile proiecte ce reies în urma procesului de inovare (delineat mai jos). Desigur, Boot to Gecko (b2g) a fost întotdeauna și va rămâne un [sistem de operare în sursă deschisă](https://github.com/mozilla-b2g) deschis contribuțiilor.
+
+Încheiem această secțiune cu sincere mulțumiri tuturor care au contribuit din inimă pentru Firefox OS pentru smartphone-uri. Am adăugat mai bine de 30 de WebAPI-uri și am dovedit că webul este suficient de flexibil pentru a suporta produse de la smartphone-uri la televizoare. Am învățat foarte multe despre cum să fim parteneri cu alte organizații și cum să dezvoltăm produse conforme cu valorile noastre într-o piață hipercompetitivă. Toate acestea sunt un foarte bun punct de pornire pentru continuarea în faza următoare a Connected Devices.
+
+**Schimbări pentru Marketplace**
+
+Începând cu 29 martie 2016, Marketplace nu va mai accepta aplicații pentru Android, desktop și tabletă și va elimina toate aplicațiile care nu suportă Firefox OS. Vom continua să acceptăm aplicații pentru Firefox OS până în 2017 (nu avem încă o data de la care nu vom mai accepta nici aceste aplicații). Aplicațiile care merg momentan pentru desktop și android nu vor mai funcționa pe aceste platforme deoarece Web Runtime (WebRT) va fi eliminat și nu va mai putea instala și lansa aplicații. Vom continua să permitem aplicații și actualizări pentru aplicații libere pentru telefoane Firefox OS și vor fi milioane de utilizatori existenți pe care îi vom susține în continuare. Pentru mai multe informații despre viitorul Marketplace [vizitați acest link](https://wiki.mozilla.org/Marketplace).
+
+**Procesul de inovație pentru produse**
