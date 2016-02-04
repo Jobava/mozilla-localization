@@ -18,9 +18,9 @@ Dragi mozilieni,
 
 Scopul acestui e-mail este acela de a vă împărtăși urmarea celor anunțate de Ari Jaaksi, SVP Mozilla pentru Connected Devices (dispozitive conectate) [la începutul lui decembrie](https://blog.mozilla.org/blog/2015/12/09/firefox-os-pivot-to-connected-devices/), respectiv intenția de a pivota de la „Firefox OS” la „Connected Devices” și pentru a ne concentra pe explorarea inovațiilor în spațiul IoT (Internet of Things - Internetul Lucrurilor). Împărtășim acestea din partea lui Ari și a grupului de conducere Connected Devices.
 
-Sunt câteva decizii pe care vrem să le împărtășim despre ce se va întâmpla în continuare. Vom detalia mai jos, dar putem începe să fim foarte clari și direcți despre 4 decizii făcute:
+Sunt câteva decizii pe care vrem să le împărtășim despre ce se va întâmpla în continuare. Vom detalia mai jos, dar începem prin a fi foarte clari și direcți despre 4 decizii făcute:
 
-1. Vom înceta dezvoltarea pentru Firefox OS pentru smartphone-uri după lansarea ediției 2.6
+1. Vom înceta dezvoltarea Firefox OS pentru smartphone-uri după lansarea ediției 2.6
 
 2. Începând cu 29 martie 2016, Marketplace nu va mai accepta propuneri de aplicații pentru Android, desktop și tabletă, vom elimina toate aplicațiile care nu suportă Firefox OS. Aplicațiile Firefox OS vor mai fi acceptate până în 2017 (nu avem încă o dată până la care nu vom mai accepta aceste aplicații).
 
