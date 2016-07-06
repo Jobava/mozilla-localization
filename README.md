@@ -33,6 +33,11 @@
 * [Web dashboard SVN repos for the lang files](https://l10n.mozilla-community.org/~pascalc/langchecker/?locale=ro)
 * [Langchecker for Web dashboard](https://l10n.mozilla-community.org/~pascalc/langchecker/?locale=ro&json)
 
+### SUMO (Mozilla Support)
+
+* [Baza de cunoștințe](https://support.mozilla.org/ro/contributors/kb-overview)
+* [Starea localizărilor articolelor SUMO populare](https://support.mozilla.org/ro/localization)
+
 ## Resurse restricționate
 * [Fennec](https://dataviz.mozilla.org/views/Fennec-DailyADIPlayground/AboutFennec-DailyADI)
 * [Fennec desktop playground](https://dataviz.mozilla.org/views/FirefoxDesktop-DailyADIPlayground/AboutFirefoxDesktop-DailyADI)
