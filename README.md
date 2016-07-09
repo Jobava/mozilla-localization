@@ -16,7 +16,7 @@
 * [Transvision](https://transvision.mozfr.org)
 * [Amagama FOSS translations](https://amagama-live.translatehouse.org/)
 * [Linguee - resursă pentru traduceri](http://ro.linguee.com/)
-* [Dicționar Munte Alb - posibil parodie, utilizați cu atenție](http://muntealb.orgfree.com/Traduceri/dictionar-traducere.htm)
+* [Dicționar Munte Alb - posibil parodie, utilizați cu atenție](https://web.archive.org/web/20151009195756/http://muntealb.orgfree.com/Traduceri/dictionar-traducere.htm)
 * [Localizare Microsoft - pentru comparații](https://www.microsoft.com/Language/en-US/Search.aspx?langID=ro-ro)
 * [Glosar Ceata](https://wiki.ceata.org/index.php/Glosar), diferă de glosarul Mozilla - pentru comparații 
 
