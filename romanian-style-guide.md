@@ -29,22 +29,18 @@ Sunt trei moduri de adresare: *personală*, *politicoasă* și *impersonală*. I
 
 Exemple:
 
-* Butoane sau elemente de meniu
-
+Butoane sau elemente de meniu
 
     Text original:  Open
     Traducere:      Deschide
 
-
     Text original:  Save
     Traducere:      Salvează
-
 
     Text original:  Search Files
     Traducere:      Caută fișiere
 
-* când calculatorul solicită utilizatorul să ia o decizie, sau când calculatorul înștiințează utilizatorul cu privire la  o acțiune pe care acesta (utilizatorul) trebuie să o ia:
-
+când calculatorul solicită utilizatorul să ia o decizie, sau când calculatorul înștiințează utilizatorul cu privire la  o acțiune pe care acesta (utilizatorul) trebuie să o ia:
 
     Text original:  Do you want to continue ?
     Traducere:      Dorești să continui ? 
@@ -60,8 +56,7 @@ Exemple:
                     Încearcă din nou mai târziu.
 
 
-* când calculatorul raportează o stare sau o acțiune pe care o realizează fără intervenția utilizatorului se folosește forma reflexivă, calculatorul fiind o entitate abstractă, nu o persoană sau un personaj: 
-
+când calculatorul raportează o stare sau o acțiune pe care o realizează fără intervenția utilizatorului se folosește forma reflexivă, calculatorul fiind o entitate abstractă, nu o persoană sau un personaj: 
 
     Text original:     Could not open file %s
     Traducere greșită: Nu am putut deschide fișierul %s
@@ -75,7 +70,7 @@ Exemple:
     Traducere greșită: Salvez configurația
     Traducere corectă: Se salvează configurația 
 
-* pentru butoane care conduc la meniuri adiționale (fără acțiune imediată), sau poziții de meniu care deschid submeniuri, sau meniuri care constituie titluri ale unor submeniuri, se recomandă folosirea formei impersonale: 
+pentru butoane care conduc la meniuri adiționale (fără acțiune imediată), sau poziții de meniu care deschid submeniuri, sau meniuri care constituie titluri ale unor submeniuri, se recomandă folosirea formei impersonale: 
 
 
     Text original:     Manage...
@@ -85,8 +80,8 @@ Exemple:
 
 A se vedea și discuția imperativ versus impersonal în meniuri cu puncte-puncte pe marginea acestei reguli.
 
-* pentru titlurile ferestrelor se folosește forma impersonală: 
 
+pentru titlurile ferestrelor se folosește forma impersonală: 
 
     Text original:  Saving configuration
     Traducere:      Salvare configurație 
@@ -94,8 +89,7 @@ A se vedea și discuția imperativ versus impersonal în meniuri cu puncte-punct
     Text original:  Manage Media Usage Rights
     Traducere:      Gestionare drepturi de utilizare media
 
-* trebuie evitate expresiile cacofonice în traducerile reflexive, folosiți modul impersonal: 
-
+trebuie evitate expresiile cacofonice în traducerile reflexive, folosiți modul impersonal: 
 
     Text original:     Press OK to save the session
     Traducere greșită: Apăsați OK ca să se salveze sesiunea
