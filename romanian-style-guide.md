@@ -1,9 +1,5 @@
 # Mozilla Romania -- ghid de stil pentru traduceri
 
-(Acest ghid este preluat și inspirat din [l10n.ro](http://l10n.ro/Ghidul_traduc%C4%83torului_de_software) de pe l10n.ro . Vă recomandăm să vă abonați și la lista de discuții [Diacritice](https://groups.google.com/forum/#!forum/diacritice) )
-
----
-
 În primul rând ca traducător ar trebui să vă asigurați de cunoașterea foarte bună a limbii române. Este necesară și o cunoaștere bună a limbii engleze scrise.
 
 ## Regula principală
@@ -126,9 +122,7 @@ Este o informație suplimentară despre locul în care apare textul respectiv (n
 
 Deși mulți nu suntem conștienți de acest lucru, limba română are două forme de plural și una de singular, deci în total ar trebui 3 traduceri la mesajele cu forme de plural. 1 ou, 2 ouă, 3 ouă, ... 10 ouă, 20 **de** ouă, ..., 101 ouă, 102 ouă, 120 **de** ouă.
 
-
 Pentru mai multe detalii citiți [pagina dedicată acestui subiect](http://l10n.ro/Formele_de_plural).
-
 
 ## Majusculele
 
@@ -156,12 +150,15 @@ Topica expresiilor trebuie în general inversată:
 ## Nu creați propoziții negative cu tentă pozitivă 
 
 Text original 
+
     You have insufficient privileges to read this folder.
 
 Traducere confuză și nerecomandată:
+
     Aveți drepturi insuficiente pentru a citi acest dosar.
 
 Pentru că traducem textul în ansamblu și nu cuvânt cu cuvânt în aceeași ordine, putem formula mai clar astfel:
+
     Nu aveți drepturi suficiente pentru a citi acest dosar.
 
 ## Acceleratori
@@ -232,9 +229,11 @@ Ce facem când întalnim o situație unde termenii traduși, puși cap la cap nu
 
 Ok, după ce s-a dus zâmbetul, încercați să deduceți sensul expresiei, din context; în exemplul de față este vorba despre afișarea ferestrelor „copil” astfel încât să ocupe tot spațiul disponibil; în acest caz, expresia cea mai intuitivă pentru utilizator este:
 
-Ferestre alăturate
+*Ferestre alăturate*
+
 sau eventual
-Ferestre în mozaic
+
+*Ferestre în mozaic*
 
 Astfel, urmează morala: nu trebuie să vă feriți de traduceri mai „îndrăznețe”, atunci când sensul unei expresii poate fi îmbunătățit. Aveți însă grijă ca în cazurile în care expresia mai apare și în alte locuri (fișiere), traducerea să fie făcută într-o manieră consecventă.
 
@@ -242,8 +241,12 @@ Astfel, urmează morala: nu trebuie să vă feriți de traduceri mai „îndrăz
 
 Acest articol are la bază alte articole mai vechi
 
-    http://gnomero.sourceforge.net/sugestii.txt (Dan Damian, 2001)
-    https://wiki.ubuntu.com/RomanianTeam/Proiecte/Localizare/Ghid
+    [Ghidul traducătorului de software](http://l10n.ro/Ghidul_traduc%C4%83torului_de_software) de pe l10n.ro . 
+    
+## Liste de discuții
+
+[Grupul de discuții mozilla.ro](https://groups.google.com/forum/#!forum/mozilla-ro)
+[Diacritice](https://groups.google.com/forum/#!forum/diacritice) )
 
 ## Legături utile
 
