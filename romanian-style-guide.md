@@ -19,7 +19,7 @@
 
 * Majoritatea termenilor din IT au o traducere specifică în română. Este foarte importantă menținerea consecvenței acestor traduceri. Dacă nu știți traducerea adecvată consultați [Transvision](https://transvision.mozfr.org/) pentru exemple din șirurile deja traduse. Din păcate, nu toți acești termeni sunt încă definitivați și încă mai sunt inconsistențe între programe, dar încercăm să menținem aceeași terminologie peste întreg proiectul Mozilla.
 
- ## Greșeli frecvente
+## Greșeli frecvente
 
 [Greșeli frecvente din limba română](https://dexonline.ro/articol/Ghid_de_exprimare_corect%C4%83)
 
