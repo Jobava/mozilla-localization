@@ -1,6 +1,6 @@
-# Mozilla Romania -- ghid de stil pentru traduceri
+# Ghidul stilistic în cadrul localizărilor românești pentru Mozilla
 
-În primul rând ca traducător ar trebui să vă asigurați de cunoașterea foarte bună a limbii române. Este necesară și o cunoaștere bună a limbii engleze scrise.
+În primul rând ca localizator/traducător ar trebui să vă asigurați de cunoașterea foarte bună a limbii române. Este necesară și o cunoaștere bună a limbii engleze scrise.
 
 ## Regula principală
 
@@ -8,7 +8,7 @@
 
 ## Principii generale
 
-* Claritatea -- Preferăm claritatea mesajului chiar cu sacrificarea traducerii directe. Este important ca programele să fie înțelese de utilizatori și de audiența adresată. Nu se acceptă totuși modificarea mesajului traducerii dincolo de intenția textului din limba originală (engleza). Dacă ar fi necesară reformuarea textului original ar trebui raportat un defect pe bugzilla.
+* Claritatea -- Preferăm claritatea mesajului chiar cu sacrificarea traducerii directe, în special în cazurile în care sensul original este ceva mai dificil de redat în limba română. Este important ca programele să fie înțelese de utilizatori și de audiența adresată. Nu se acceptă totuși modificarea mesajului traducerii dincolo de intenția textului din limba originală (engleza), traducerea propriu-zisă trebuie să fie cât mai apropiată de original fără a pierde esența textului original. Dacă ar fi necesară reformularea textului original, acest lucru ar trebui raportat prin Bugzilla prin deschiderea un bug.
 * Diacritice -- Limba română utilizează diacritice și folosirea acestora nu este opțională. Mai mult de atât, trebuie utilizate [diacriticele corecte](http://i.imgur.com/gbXiYtY.png), cu virgulă: Șș Țț (corect) și nu sedilă: Şş Ţţ(greșit). Obsevați forma diacriticei de sub literă.
 
 ## Ce nu trebuie tradus
@@ -21,7 +21,7 @@ Mai multe informații de pe [ghidul L10n.ro](http://www.l10n.ro/Recunoasterea_se
 
 ### Mărcile Mozilla
 
-Mărcile Mozilla, numele produselor etc. sunt nume proprii și în general nu se traduc.
+Mărcile Mozilla, numele produselor etc. sunt nume proprii și în general nu se traduc. Spre ex. „Mozilla Foundation” este o entitate înregistrată din SUA și numele acesteia nu se traduce sub nicio formă.
 
 ## Termeni
 
@@ -37,11 +37,13 @@ Mărcile Mozilla, numele produselor etc. sunt nume proprii și în general nu se
 
 ## Forma de adresare
 
-Sunt trei moduri de adresare: *personală*, *politicoasă* și *impersonală*. Istoric și în unele proiecte de programe libere se preferă o adresare politicoasă (când calculatorul apeleasă utilizatorul -- de ex. „Doriți schimbarea culorii?” sau „Comanda dumneavoastră a fost acceptată”) și personală (când utilizatorul adresează o comandă programului -- de ex. „Tipărește”). La Mozilla din motive de consistență, simplitate și pentru scurtarea  traducerilor se preferă **apelarea personală**, dar respectuoasă (fără tutuiri). Uneori atunci când contextul este incert se mai poate folosi adresarea impersonală.
+Sunt trei moduri de adresare: *personală*, *politicoasă* și *impersonală*. Istoric și în unele proiecte de programe libere se preferă o adresare politicoasă (când calculatorul apelează utilizatorul -- de ex. „Doriți schimbarea culorii?” sau „Comanda dumneavoastră a fost acceptată”), personală (când utilizatorul adresează o comandă programului -- de ex. „Tipărește”) și impersonală (când este vorba de butoanele meniurilor unei aplicații -- de ex. „Vizualizare”).
+
+La Mozilla din motive de consistență, simplitate și pentru scurtarea traducerilor s-a decis de ceva timp folosirea exclusivă a adresării personale, dar respectuoasă (fără tutuiri). Sunt în continuare proiecte în cadrul Mozilla în care puteți remarca adresare politicoasă. Pe viitor vom încerca să le reparăm și să folosim strict adresare personală peste tot. În foarte puține cazuri atunci când contextul este incert se mai poate folosi adresarea impersonală.
 
 Exemple:
 
-Butoane sau elemente de meniu
+*Butoane sau elemente de meniu:*
 
     Text original:  Open
     Traducere:      Deschide
@@ -52,68 +54,50 @@ Butoane sau elemente de meniu
     Text original:  Search Files
     Traducere:      Caută fișiere
 
-când calculatorul solicită utilizatorul să ia o decizie, sau când calculatorul înștiințează utilizatorul cu privire la  o acțiune pe care acesta (utilizatorul) trebuie să o ia:
+*Când calculatorul solicită utilizatorul să ia o decizie, sau când calculatorul înștiințează utilizatorul cu privire la o acțiune pe care acesta (utilizatorul) trebuie să o ia:*
 
-    Text original:  Do you want to continue ?
-    Traducere:      Dorești să continui ? 
+    Text original:  Do you want to continue?
+    Traducere:      Dorești să continui?
 
-
-    Text original:  Please try again later
-    Traducere:      Încearcă din nou mai târziu (evităm traducerea lui „please”)
-
+    Text original:  Please try again later.
+    Traducere:      Te rugăm să încerci din nou mai târziu.
 
     Text original:  You have exceeded the number of registration attempts for this session.
                     Please try again later.
     Traducere:      Ai depășit numărul de încercări de înregistrare pentru această sesiune.
-                    Încearcă din nou mai târziu.
+                    Te rugăm să încerci din nou mai târziu.
 
-
-când calculatorul raportează o stare sau o acțiune pe care o realizează fără intervenția utilizatorului se folosește forma reflexivă, calculatorul fiind o entitate abstractă, nu o persoană sau un personaj: 
+*Când calculatorul raportează o stare sau o acțiune pe care o realizează fără intervenția utilizatorului se folosește forma reflexivă, calculatorul fiind o entitate abstractă, nu o persoană sau un personaj:*
 
     Text original:     Could not open file %s
-    Traducere greșită: Nu am putut deschide fișierul %s
-    Traducere corectă: Nu s-a putut deschide fișierul %s (sau: Imposibil de deschis fișierul)
+    Traducere corectă: Nu s-a putut deschide fișierul %s (sau Imposibil de deschis fișierul)
 
     Text original:     Receiving data from %s
-    Traducere greșită: Primesc date de la %s
     Traducere corectă: Se primesc date de la %s 
 
     Text original:     Saving configuration
-    Traducere greșită: Salvez configurația
-    Traducere corectă: Se salvează configurația 
+    Traducere corectă: Se salvează configurația
 
-pentru butoane care conduc la meniuri adiționale (fără acțiune imediată), sau poziții de meniu care deschid submeniuri, sau meniuri care constituie titluri ale unor submeniuri, se recomandă folosirea formei impersonale: 
-
+*Pentru butoane care conduc la meniuri adiționale (fără acțiune imediată), sau poziții de meniu care deschid submeniuri, sau meniuri care constituie titluri ale unor submeniuri, se recomandă folosirea formei impersonale:*
 
     Text original:     Manage...
-    Context:           buton a cărui singură acțiune este deschiderea unui meniu adițional
-    Traducere nerecomandată: Gestionează...
+    (context: buton a cărui singură acțiune este deschiderea unui meniu adițional)
     Traducere recomandată: Gestionare...
 
 A se vedea și discuția imperativ versus impersonal în meniuri cu puncte-puncte pe marginea acestei reguli.
 
-
-pentru titlurile ferestrelor se folosește forma impersonală: 
+*Pentru titlurile ferestrelor se folosește forma impersonală:*
 
     Text original:  Saving configuration
-    Traducere:      Salvare configurație 
+    Traducere:      Salvarea configurației
 
     Text original:  Manage Media Usage Rights
-    Traducere:      Gestionare drepturi de utilizare media
+    Traducere:      Gestionarea drepturilor de utilizare media
 
-trebuie evitate expresiile cacofonice în traducerile reflexive, folosiți modul impersonal: 
+*Trebuie evitate expresiile cacofonice în traducerile reflexive, folosiți modul impersonal:*
 
     Text original:     Press OK to save the session
-    Traducere greșită: Apăsați OK ca să se salveze sesiunea
-    Traducere corectă: Apăsați OK pentru salvarea sesiunii
-
-## Politețea excesivă
-
-Nu se traduce ad literam adresarea cu „Please”. Trebuie folosită forma politicoasă utilizată în limba română, nu cea politicoasă utilizată în limba engleză:
-
-    Text original:     Please enter your name
-    Traducere greșită: Vă rugăm să introduceți numele
-    Traducere corectă: Introduceți numele
+    Traducere corectă: Apasă Ok pentru a salva sesiunea
 
 ## Prescurtările
 
@@ -124,7 +108,6 @@ Trebuiesc evitate prescurtările gen „dvs.” în loc de „dumneavoastră”,
 Trebuiesc evitate discriminările pe bază de sex și formulările deranjante de genul el/ea, prin folosirea, pe cât posibil, a unui limbaj impersonal. De asemenea, pentru a evita frustrarea utilizatorului la vederea unui program care i se adresează nesigur, în ambele genuri, este mai bine să se evite genul când se poate.
 
     Text original:     Are you sure you want to delete this bookmark?
-    Traducere greșită: Sunteți sigur(ă) că doriți ...
     Traducere corectă: Sigur dorești să ștergi acest semn de carte?
 
 ## Contextul
@@ -132,60 +115,42 @@ Trebuiesc evitate discriminările pe bază de sex și formulările deranjante de
 Este o informație suplimentară despre locul în care apare textul respectiv (nu apare mereu). În exemplul de mai jos, fiind vorba de „Nickname”, uzual traducerea este cu „Pseudonim”, așadar traducerea corectă este cea la masculin.
 
     Text original:     (not yet valid)
-    Context:           Un nume ce nu este valid
-    Traducere greșită: (încă nu este validă)
+    (context: un nume ce nu este valid)
     Traducere corectă: (încă nu este valid)
 
 ## Pluralul
 
-Deși mulți nu suntem conștienți de acest lucru, limba română are două forme de plural și una de singular, deci în total ar trebui 3 traduceri la mesajele cu forme de plural. 1 ou, 2 ouă, 3 ouă, ... 10 ouă, 20 **de** ouă, ..., 101 ouă, 102 ouă, 120 **de** ouă.
+Deși mulți nu suntem conștienți de acest lucru, limba română are două forme de plural și una de singular, deci în total ar trebui 3 traduceri la mesajele cu forme de plural. 1 ou, 2 ouă, 3 ouă, ... 10 ouă, 20 de ouă, ..., 101 ouă, 102 ouă, 120 de ouă.
 
 Pentru mai multe detalii citiți [pagina dedicată acestui subiect](http://l10n.ro/Formele_de_plural).
 
 ## Majusculele
 
-NU trebuie folosite majuscule pentru fiecare cuvânt într-un meniu, titlu, etc (doar în limba engleză cuvintele încep cu majuscule în titlu).
+Nu trebuie folosite majuscule pentru fiecare cuvânt într-un meniu, titlu, etc (doar în limba engleză cuvintele încep cu majuscule în titlu).
 
-    Text original:           "Save As..."
-    Traducere scrisă greșit: "Salvează Ca..."
-    Traducere scrisă corect: "Salvează ca..."
+    Text original:           Save As...
+    Traducere corectă:       Salvează ca...
 
-    Text original:           "Control Center"
-    Traducere scrisă greșit: "Centru De Control"
-    Traducere scrisă corect: "Centru de control"
+    Text original:           Control Center
+    Traducere corectă:       Centru de control
 
 ## Topica expresiilor
 
 Topica expresiilor trebuie în general inversată: 
 
-    "An error occurred"
-    "S-a produs o eroare"
+    Text original:           An error occurred.
+    Traducere corectă:       S-a produs o eroare.
 
-    "Could not open file %s."
-    "Fișierul %s nu a putut fi deschis."
-
-
-## Nu creați propoziții negative cu tentă pozitivă 
-
-Text original 
-
-    You have insufficient privileges to read this folder.
-
-Traducere confuză și nerecomandată:
-
-    Ai drepturi insuficiente pentru a citi acest dosar.
-
-Pentru că traducem textul în ansamblu și nu cuvânt cu cuvânt în aceeași ordine, putem formula mai clar astfel:
-
-    Nu ai drepturi suficiente pentru a citi acest dosar.
+    Text original:           Something wrong has happened.
+    Traducere corectă:       S-a întâmplat ceva prost.
 
 ## Acceleratori
 
 Acceleratorii sunt scurtăturile din meniuri și panourile de configurare, sunt identificați prin cuvinte ce conțin o literă subliniată, iar acea intrare de meniu sau configurare poate fi activată folosind combinația de taste Alt + tasta subliniată. Ei sunt marcați în textele de tradus prin precedarea literei subliniate fie cu _ (linie joasă) fie cu & (ampersand).
 
-Litera de după accelerator este cea care apare subliniată în elementul de meniu. De ex. pentru șirul „E_ditează”, d va apărea subliniat.
+Litera de după accelerator este cea care apare subliniată în elementul de meniu. De ex. pentru șirul E_ditează, d va apărea subliniat.
 
-Se încearcă păstrarea acelorași taste ca din engleză, iar atunci când nu există o literă corespondentă în cuvântul tradus, vom elimina acceleratorul din cuvântul tradus. Pentru Firefox, netraducerea acceleratorului va avea ca efect afișarea literei într-o paranteză la sfârșit: de ex. *Editează (x)*
+Se încearcă păstrarea acelorași taste ca din engleză, iar atunci când nu există o literă corespondentă în cuvântul tradus, vom elimina acceleratorul din cuvântul tradus (practic se elimină „&” din traducerea românească chiar dacă vedeți „&” în engleză). Pentru Firefox, netraducerea acceleratorului va avea ca efect afișarea literei într-o paranteză la sfârșit: de ex. *Editează (x)*. Fiți fără griji, nu este nicio problemă dacă „&” nu va fi prezent în traducerea românească, pentru Firefox vom încerca să eliminăm toți acceleratorii diferiți față de cei în engleză, deci este posibil să vedeți texte în care & este urmat de o literă diferită pentru traducerea românească față de textul englezesc.
 
 ## Ghilimele
 
@@ -207,6 +172,9 @@ Câteva exemple:
 
     web-ul = greșit
     webul = corect
+    
+    link-ul / link-urile = greșit
+    linkul / linkurile = corect
 
     blog-ul / blog-urile = greșit
     blogul / blogurile = corect
@@ -236,38 +204,41 @@ Câteva exemple:
 
 Neologismele din domeniul IT sunt preluate cu genul neutru, ele fiind inanimate.
 
-    driver , drivere
+    driver / drivere
+    browser / browsere
+    player / playere
 
 ### Adaptarea la situații extreme
 
 Ce facem când întalnim o situație unde termenii traduși, puși cap la cap nu par să dea sensul dorit:
 
-    "Tile children"
-    ("Tapetează copii"?)
+    Tile children
+    (Tapetează copii?)
 
 Ok, după ce s-a dus zâmbetul, încercați să deduceți sensul expresiei, din context; în exemplul de față este vorba despre afișarea ferestrelor „copil” astfel încât să ocupe tot spațiul disponibil; în acest caz, expresia cea mai intuitivă pentru utilizator este:
 
-*Ferestre alăturate*
+    Ferestre alăturate
 
 sau eventual
 
-*Ferestre în mozaic*
+    Ferestre în mozaic
 
 Astfel, urmează morala: nu trebuie să vă feriți de traduceri mai „îndrăznețe”, atunci când sensul unei expresii poate fi îmbunătățit. Aveți însă grijă ca în cazurile în care expresia mai apare și în alte locuri (fișiere), traducerea să fie făcută într-o manieră consecventă.
 
-## Legături externe
+## Linkuri externe
 
 Acest articol are la bază alte articole mai vechi
 
-[Ghidul traducătorului de software](http://l10n.ro/Ghidul_traduc%C4%83torului_de_software) de pe l10n.ro . 
-    
+[Ghidul traducătorului de software](http://l10n.ro/Ghidul_traduc%C4%83torului_de_software) de pe l10n.ro. 
+
+## Linkuri utile
+
+    http://www.hallo.ro/ - Dicționar englez-român
+    http://www.dexonline.ro/ - Dicționar explicativ român (consultați doar sursele oficiale)
+    http://www.seelrc.org:8080/grammar/pdf/stand_alone_romanian.pdf - Gramatica detaliată a limbii române.
+
 ## Liste de discuții
 
 [Grupul de discuții mozilla.ro](https://groups.google.com/forum/#!forum/mozilla-ro)
-[Diacritice](https://groups.google.com/forum/#!forum/diacritice) )
 
-## Legături utile
-
-    http://hallo.ro/ - Dicționar Englez-Român
-    http://dexonline.ro/ - Dicționar explicativ român (consultați doar sursele oficiale)
-    http://www.seelrc.org:8080/grammar/pdf/stand_alone_romanian.pdf - Gramatica detaliată a limbii române. 
+[Diacritice](https://groups.google.com/forum/#!forum/diacritice)
