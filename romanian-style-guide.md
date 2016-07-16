@@ -125,14 +125,14 @@ Trebuiesc evitate discriminările pe bază de sex și formulările deranjante de
 
     Text original:     Are you sure you want to delete this bookmark?
     Traducere greșită: Sunteți sigur(ă) că doriți ...
-    Traducere corectă: Sigur doriți să ștergeți acest semn de carte?
+    Traducere corectă: Sigur dorești să ștergi acest semn de carte?
 
 ## Contextul
 
 Este o informație suplimentară despre locul în care apare textul respectiv (nu apare mereu). În exemplul de mai jos, fiind vorba de „Nickname”, uzual traducerea este cu „Pseudonim”, așadar traducerea corectă este cea la masculin.
 
     Text original:     (not yet valid)
-    Context:           NicknameNotYetValid
+    Context:           Un nume ce nu este valid
     Traducere greșită: (încă nu este validă)
     Traducere corectă: (încă nu este valid)
 
@@ -173,11 +173,11 @@ Text original
 
 Traducere confuză și nerecomandată:
 
-    Aveți drepturi insuficiente pentru a citi acest dosar.
+    Ai drepturi insuficiente pentru a citi acest dosar.
 
 Pentru că traducem textul în ansamblu și nu cuvânt cu cuvânt în aceeași ordine, putem formula mai clar astfel:
 
-    Nu aveți drepturi suficiente pentru a citi acest dosar.
+    Nu ai drepturi suficiente pentru a citi acest dosar.
 
 ## Acceleratori
 
