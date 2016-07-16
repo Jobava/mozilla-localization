@@ -30,11 +30,14 @@ Sunt trei moduri de adresare: *personală*, *politicoasă* și *impersonală*. I
 Exemple:
 
 * Butoane sau elemente de meniu
+
     Text original:  Open
     Traducere:      Deschide
 
+
     Text original:  Save
     Traducere:      Salvează
+
 
     Text original:  Search Files
     Traducere:      Caută fișiere
@@ -44,13 +47,16 @@ Exemple:
     Text original:  Do you want to continue ?
     Traducere:      Dorești să continui ? 
 
+
     Text original:  Please try again later
     Traducere:      Încearcă din nou mai târziu (evităm traducerea lui „please”)
+
 
     Text original:  You have exceeded the number of registration attempts for this session.
                     Please try again later.
     Traducere:      Ai depășit numărul de încercări de înregistrare pentru această sesiune.
                     Încearcă din nou mai târziu.
+
 
 * când calculatorul raportează o stare sau o acțiune pe care o realizează fără intervenția utilizatorului se folosește forma reflexivă, calculatorul fiind o entitate abstractă, nu o persoană sau un personaj: 
 
