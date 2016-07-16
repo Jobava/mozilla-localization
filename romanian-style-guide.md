@@ -31,6 +31,7 @@ Exemple:
 
 * Butoane sau elemente de meniu
 
+
     Text original:  Open
     Traducere:      Deschide
 
@@ -43,6 +44,7 @@ Exemple:
     Traducere:      Caută fișiere
 
 * când calculatorul solicită utilizatorul să ia o decizie, sau când calculatorul înștiințează utilizatorul cu privire la  o acțiune pe care acesta (utilizatorul) trebuie să o ia:
+
 
     Text original:  Do you want to continue ?
     Traducere:      Dorești să continui ? 
@@ -60,6 +62,7 @@ Exemple:
 
 * când calculatorul raportează o stare sau o acțiune pe care o realizează fără intervenția utilizatorului se folosește forma reflexivă, calculatorul fiind o entitate abstractă, nu o persoană sau un personaj: 
 
+
     Text original:     Could not open file %s
     Traducere greșită: Nu am putut deschide fișierul %s
     Traducere corectă: Nu s-a putut deschide fișierul %s (sau: Imposibil de deschis fișierul)
@@ -74,6 +77,7 @@ Exemple:
 
 * pentru butoane care conduc la meniuri adiționale (fără acțiune imediată), sau poziții de meniu care deschid submeniuri, sau meniuri care constituie titluri ale unor submeniuri, se recomandă folosirea formei impersonale: 
 
+
     Text original:     Manage...
     Context:           buton a cărui singură acțiune este deschiderea unui meniu adițional
     Traducere nerecomandată: Gestionează...
@@ -83,6 +87,7 @@ A se vedea și discuția imperativ versus impersonal în meniuri cu puncte-punct
 
 * pentru titlurile ferestrelor se folosește forma impersonală: 
 
+
     Text original:  Saving configuration
     Traducere:      Salvare configurație 
 
@@ -90,6 +95,7 @@ A se vedea și discuția imperativ versus impersonal în meniuri cu puncte-punct
     Traducere:      Gestionare drepturi de utilizare media
 
 * trebuie evitate expresiile cacofonice în traducerile reflexive, folosiți modul impersonal: 
+
 
     Text original:     Press OK to save the session
     Traducere greșită: Apăsați OK ca să se salveze sesiunea
@@ -247,7 +253,7 @@ Astfel, urmează morala: nu trebuie să vă feriți de traduceri mai „îndrăz
 
 Acest articol are la bază alte articole mai vechi
 
-    [Ghidul traducătorului de software](http://l10n.ro/Ghidul_traduc%C4%83torului_de_software) de pe l10n.ro . 
+[Ghidul traducătorului de software](http://l10n.ro/Ghidul_traduc%C4%83torului_de_software) de pe l10n.ro . 
     
 ## Liste de discuții
 
