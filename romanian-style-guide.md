@@ -11,6 +11,18 @@
 * Claritatea -- Preferăm claritatea mesajului chiar cu sacrificarea traducerii directe. Este important ca programele să fie înțelese de utilizatori și de audiența adresată. Nu se acceptă totuși modificarea mesajului traducerii dincolo de intenția textului din limba originală (engleza). Dacă ar fi necesară reformuarea textului original ar trebui raportat un defect pe bugzilla.
 * Diacritice -- Limba română utilizează diacritice și folosirea acestora nu este opțională. Mai mult de atât, trebuie utilizate [diacriticele corecte](http://i.imgur.com/gbXiYtY.png), cu virgulă: Șș Țț (corect) și nu sedilă: Şş Ţţ(greșit). Obsevați forma diacriticei de sub literă.
 
+## Ce nu trebuie tradus
+
+Deseori, șirurile conțin elemente ce sunt relevante pentru programatori și care ar trebui identificate de localizatori, chiar dacă nu trebuie să înțelegem precis rolul lor. De cele mai multe ori, acestea reprezintă șabloane pentru alt text (de ex. &brandName; ce poate să însemne „Firefox” sau „Thunderbird” pentru acele șiruri din interfață comune celor două programe). 
+
+Situația e mai complicată pentru că uneori acele șiruri reprezintă [entități HTML](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references), precum `&amp;` (&amp;) sau `&hellip;` (&hellip;) , care reprezintă caractere de text, nu termeni programatici. Ampersandul de obicei se traduce ca „și”, dar sunt excepții.
+
+Mai multe informații de pe [ghidul L10n.ro](http://www.l10n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse).
+
+### Mărcile Mozilla
+
+Mărcile Mozilla, numele produselor etc. sunt nume proprii și în general nu se traduc.
+
 ## Termeni
 
 * Majoritatea termenilor din IT au o traducere specifică în română. Este foarte importantă menținerea consecvenței acestor traduceri. Dacă nu știți traducerea adecvată consultați [Transvision](https://transvision.mozfr.org/) pentru exemple din șirurile deja traduse. Din păcate, nu toți acești termeni sunt încă definitivați și încă mai sunt inconsistențe între programe, dar încercăm să menținem aceeași terminologie peste întreg proiectul Mozilla.
