@@ -17,7 +17,7 @@
 
 ## Greșeli frecvente
 
-[Greșeli frecvente din limba română](https://dexonline.ro/articol/Ghid_de_exprimare_corect%C4%83)
+[Ghid de exprimare corectă](https://dexonline.ro/articol/Ghid_de_exprimare_corect%C4%83)
 
 [Greșeli frecvente din traducerea de programe](http://l10n.ro/Gre%C8%99eli_frecvente)
 
