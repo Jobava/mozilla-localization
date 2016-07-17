@@ -8,7 +8,7 @@
 
 ## Principii generale
 
-* Claritatea -- Preferăm claritatea mesajului chiar cu sacrificarea traducerii directe, în special în cazurile în care sensul original este ceva mai dificil de redat în limba română. Este important ca programele să fie înțelese de utilizatori și de audiența adresată. Nu se acceptă totuși modificarea mesajului traducerii dincolo de intenția textului din limba originală (engleza), traducerea propriu-zisă trebuie să fie cât mai apropiată de original fără a pierde esența textului original. Dacă ar fi necesară reformularea textului original, acest lucru ar trebui raportat prin Bugzilla prin deschiderea un bug.
+* Claritatea -- Preferăm claritatea mesajului chiar cu sacrificarea traducerii directe, în special în cazurile în care sensul original este ceva mai dificil de redat în limba română. Este important ca programele să fie înțelese de utilizatori și de audiența adresată. Nu se acceptă totuși modificarea mesajului traducerii dincolo de intenția textului din limba originală (engleza), traducerea propriu-zisă trebuie să fie cât mai clară fără a pierde esența textului original. Dacă ar fi necesară reformularea textului original, acest lucru ar trebui raportat prin Bugzilla prin deschiderea un bug.
 * Diacritice -- Limba română utilizează diacritice și folosirea acestora nu este opțională. Mai mult de atât, trebuie utilizate [diacriticele corecte](http://i.imgur.com/gbXiYtY.png), cu virgulă: Șș Țț (corect) și nu sedilă: Şş Ţţ(greșit). Obsevați forma diacriticei de sub literă.
 
 ## Ce nu trebuie tradus
@@ -120,7 +120,9 @@ Este o informație suplimentară despre locul în care apare textul respectiv (n
 
 ## Pluralul
 
-Deși mulți nu suntem conștienți de acest lucru, limba română are două forme de plural și una de singular, deci în total ar trebui 3 traduceri la mesajele cu forme de plural. 1 ou, 2 ouă, 3 ouă, ... 10 ouă, 20 de ouă, ..., 101 ouă, 102 ouă, 120 de ouă.
+Deși mulți nu suntem conștienți de acest lucru, limba română are *două* forme de plural (una fără „de”, cealaltă cu „de”) și forma de singular. La șirurile cu forme de plural trebuie așadar 3 traduceri: singularul, pluralul fără „de” și pluralul cu „de”.
+
+    1 ou, 2 ouă, 3 ouă, ... 10 ouă, 20 **de** ouă, ..., 101 ouă, 102 ouă, 120 **de** ouă.
 
 Pentru mai multe detalii citiți [pagina dedicată acestui subiect](http://l10n.ro/Formele_de_plural).
 
@@ -150,7 +152,7 @@ Acceleratorii sunt scurtăturile din meniuri și panourile de configurare, sunt 
 
 Litera de după accelerator este cea care apare subliniată în elementul de meniu. De ex. pentru șirul E_ditează, d va apărea subliniat.
 
-Se încearcă păstrarea acelorași taste ca din engleză, iar atunci când nu există o literă corespondentă în cuvântul tradus, vom elimina acceleratorul din cuvântul tradus (practic se elimină „&” din traducerea românească chiar dacă vedeți „&” în engleză). Pentru Firefox, netraducerea acceleratorului va avea ca efect afișarea literei într-o paranteză la sfârșit: de ex. *Editează (x)*. Fiți fără griji, nu este nicio problemă dacă „&” nu va fi prezent în traducerea românească, pentru Firefox vom încerca să eliminăm toți acceleratorii diferiți față de cei în engleză, deci este posibil să vedeți texte în care & este urmat de o literă diferită pentru traducerea românească față de textul englezesc.
+Se încearcă păstrarea acelorași taste ca din engleză, iar atunci când nu există o literă corespondentă în cuvântul tradus, vom elimina acceleratorul din cuvântul tradus (practic se elimină „&” sau „_” din traducerea românească chiar dacă vedeți „&” sau „_” în engleză). Pentru Firefox, netraducerea acceleratorului va avea ca efect afișarea literei într-o paranteză la sfârșit: de ex. *Editează (x)*. Fiți fără griji, nu este nicio problemă dacă „&” sau „_” lipsesc din traducerea românească.
 
 ## Ghilimele
 
