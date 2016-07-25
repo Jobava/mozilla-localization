@@ -1,3 +1,5 @@
+#The Guerrilla Guide to Swag
+
 As a firm believer in the Mozilla Mission: "an open web, free and accessible to all", there are some things that can further that mission, among them swag. Swag are physical objects: stickers, pins, plushies, toys, posters and other objects which help promote this Mission. But swag has been getting rather scarce in recent times, lacking even for events with official Mozilla participation. This appears to be a Mozilla-wide issue.
 
 Why this scarcity of swag? We can only speculate...
