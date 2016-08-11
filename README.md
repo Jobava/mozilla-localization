@@ -1,7 +1,7 @@
 # mozilla-localization
 ### Ghiduri
 
-* [Ghidul de stil oficial Mozilla România](http://www.l10n.ro/Ghidul_traducatorului_de_software)
+* [Ghidul de stil oficial Mozilla România](https://github.com/Jobava/mozilla-localization/blob/master/ROMANIAN-STYLE-GUIDE.md)
 * [L10n ce nu trebuie tradus](http://www.l10n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse)
 * [L10n greșeli frecvente](http://www.l10n.ro/Greseli_frecvente)
 * [Ghid localizare Ubuntu](https://wiki.ubuntu.com/RomanianTeam/Proiecte/Localizare/Ghid)
