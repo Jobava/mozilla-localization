@@ -12,7 +12,8 @@
 
 ### Unelte
 * [Glosar L10n](http://l10n.ro/Glosar)
-* [Glosar Wordpress](https://ro.wordpress.org/localizare/#reg_com)
+* [Glosar generic Wordpress](https://ro.wordpress.org/localizare/#reg_com)
+* [Glosar specific Wordpress](https://translate.wordpress.org/projects/wp/dev/ro/default/glossary)
 * [Dicționare hallo.ro](http://hallo.ro/)
 * [Google translate](https://translate.google.com/#en/ro/)
 * [Transvision](https://transvision.mozfr.org)
