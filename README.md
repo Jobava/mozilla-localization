@@ -14,6 +14,7 @@
 * [Dicționare hallo.ro](http://hallo.ro/)
 * [Google translate](https://translate.google.com/#en/ro/)
 * [Transvision](https://transvision.mozfr.org)
+* [Wordpress translation database](https://translate.wordpress.org/consistency?search=link&set=ro%2Fdefault)
 * [Amagama FOSS translations](https://amagama-live.translatehouse.org/)
 * [Linguee - resursă pentru traduceri](http://ro.linguee.com/)
 * [Dicționar Munte Alb - posibil parodie, utilizați cu atenție](https://web.archive.org/web/20151009195756/http://muntealb.orgfree.com/Traduceri/dictionar-traducere.htm)
