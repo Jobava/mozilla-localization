@@ -11,7 +11,7 @@
 * [scurtături de tastatură pentru Pontoon](http://i.imgur.com/aG9xDOc.png)
 
 ### Unelte
-* [Glosar L10n](http://l10n.ro/Glosar)
+* [Glosar L10n](http://i18n.ro/Glosar)
 * [Glosar generic Wordpress](https://ro.wordpress.org/localizare/#reg_com)
 * [Glosar specific Wordpress](https://translate.wordpress.org/projects/wp/dev/ro/default/glossary)
 * [Dicționare hallo.ro](http://hallo.ro/)
