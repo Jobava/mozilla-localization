@@ -215,6 +215,6 @@ Format: English - Romanian
 * [langchecker - CLI commands](https://github.com/mozilla-l10n/langchecker/wiki/CLI-scripts-syntax)
 * [How Pontoon Works](http://mozilla-pontoon.readthedocs.org/en/latest/)
 * [Pontoon open bugs](https://bugzilla.mozilla.org/buglist.cgi?component=Pontoon&product=Webtools&bug_status=__open__&list_id=12664581)
- 
+* [softcatala, translation memory and other tools](https://github.com/Softcatala/translation-memory-tools)
 ### Mozilla legal documents
 * Github repo: https://github.com/mozilla/legal-docs
