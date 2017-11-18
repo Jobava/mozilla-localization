@@ -17,7 +17,7 @@ Deseori, șirurile conțin elemente ce sunt relevante pentru programatori și ca
 
 Situația e mai complicată pentru că uneori acele șiruri reprezintă [entități HTML](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references), precum `&amp;` (&amp;) sau `&hellip;` (&hellip;) , care reprezintă caractere de text, nu termeni programatici. Ampersandul de obicei se traduce ca „și”, dar sunt excepții.
 
-Mai multe informații de pe [ghidul L10n.ro](http://www.l10n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse).
+Mai multe informații de pe [ghidul i18n.ro](http://www.i18n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse).
 
 ### Mărcile Mozilla
 
@@ -31,9 +31,9 @@ Mărcile Mozilla, numele produselor etc. sunt nume proprii și în general nu se
 
 [Ghid de exprimare corectă](https://dexonline.ro/articol/Ghid_de_exprimare_corect%C4%83)
 
-[Greșeli frecvente din traducerea de programe](http://l10n.ro/Gre%C8%99eli_frecvente)
+[Greșeli frecvente din traducerea de programe](http://i18n.ro/Gre%C8%99eli_frecvente)
 
-[Forme de plural](http://l10n.ro/Formele_de_plural)
+[Forme de plural](http://i18n.ro/Formele_de_plural)
 
 ## Forma de adresare
 
@@ -124,7 +124,7 @@ Deși mulți nu suntem conștienți de acest lucru, limba română are *două* f
 
     1 ou, 2 ouă, 3 ouă, ... 10 ouă, 20 **de** ouă, ..., 101 ouă, 102 ouă, 120 **de** ouă.
 
-Pentru mai multe detalii citiți [pagina dedicată acestui subiect](http://l10n.ro/Formele_de_plural).
+Pentru mai multe detalii citiți [pagina dedicată acestui subiect](http://i18n.ro/Formele_de_plural).
 
 ## Majusculele
 
@@ -231,7 +231,7 @@ Astfel, urmează morala: nu trebuie să vă feriți de traduceri mai „îndrăz
 
 Acest articol are la bază alte articole mai vechi
 
-[Ghidul traducătorului de software](http://l10n.ro/Ghidul_traduc%C4%83torului_de_software) de pe l10n.ro. 
+[Ghidul traducătorului de software](http://i18n.ro/Ghidul_traduc%C4%83torului_de_software) de pe i18n.ro. 
 
 ## Linkuri utile
 
