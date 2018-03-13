@@ -1,6 +1,7 @@
 # mozilla-localization
 ### Ghiduri
 
+* [Mozilla Localizer Documentation](https://mozilla-l10n.github.io/localizer-documentation/) - [Source](https://github.com/mozilla-l10n/localizer-documentation)
 * [Ghidul de stil oficial Mozilla România](https://github.com/Jobava/mozilla-localization/blob/master/ROMANIAN-STYLE-GUIDE.md)
 * [Ghid de stil Wordpress](https://ro.wordpress.org/localizare/)
 * [L10n ce nu trebuie tradus](http://www.l10n.ro/Recunoasterea_secventelor_de_text_ce_nu_trebuie_traduse)
