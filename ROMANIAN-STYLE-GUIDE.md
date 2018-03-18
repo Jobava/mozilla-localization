@@ -39,7 +39,7 @@ Mărcile Mozilla, numele produselor etc. sunt nume proprii și în general nu se
 
 Sunt trei moduri de adresare: *personală*, *politicoasă* și *impersonală*. Istoric și în unele proiecte de programe libere se preferă o adresare politicoasă (când calculatorul apelează utilizatorul -- de ex. „Doriți schimbarea culorii?” sau „Comanda dumneavoastră a fost acceptată”), personală (când utilizatorul adresează o comandă programului -- de ex. „Tipărește”) și impersonală (când este vorba de butoanele meniurilor unei aplicații -- de ex. „Vizualizare”).
 
-La Mozilla din motive de consistență, simplitate și pentru scurtarea traducerilor s-a decis de ceva timp folosirea exclusivă a adresării personale, dar respectuoasă (fără tutuiri). Sunt în continuare proiecte în cadrul Mozilla în care puteți remarca adresare politicoasă. Pe viitor vom încerca să le reparăm și să folosim strict adresare personală peste tot. În foarte puține cazuri atunci când contextul este incert se mai poate folosi adresarea impersonală.
+La Mozilla din motive de consistență, simplitate și pentru scurtarea traducerilor s-a decis de ceva timp folosirea exclusivă a adresării personale, dar respectuoasă (fără tutuiri). Sunt în continuare proiecte în cadrul Mozilla în care puteți remarca adresare politicoasă (de ex. **Thunderbird**). Pe viitor vom încerca să le reparăm și să folosim strict adresare personală peste tot. În foarte puține cazuri atunci când contextul este incert se mai poate folosi adresarea impersonală.
 
 Exemple:
 
