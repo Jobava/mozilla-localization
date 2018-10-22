@@ -1,0 +1,637 @@
+Discuție de terminologie salvată din:
+https://public.etherpad-mozilla.org/p/ro-mo-terminologie
+
+Termenii bătuți în cuie (la data aceasta) au fost salvați și în:
+https://public.etherpad-mozilla.org/p/ro-mo-terminologie-b%C4%83tut%C4%83-%C3%AEn-cuie
+
+en: runtime
+cum e tradus acum:
+cum propunem:
+Robb: nu merge „executare”, „la executare”, „timp de execuție” etc... Ar mai fi „mediu de execuție” https://en.wikipedia.org/wiki/Run_time
+Jobava: mediu de execuție
+
+en: obfuscate
+cum e tradus acum: ...
+cum propunem:
+Jobava: netradus
+
+en: cancel
+cum e tradus acum: renunță, anulează
+cum propunem:
+Robb: anulează
+Jobava: renunță (pentru consistență)
+
+en: viewport
+cum e tradus acum: netradus sau port de vizualizare
+cum propunem:
+Robb: zonă vizibilă, zonă de vizualizare (https://www.w3schools.com/css/css_rwd_viewport.asp)
+Jobava: zonă vizibilă
+
+en: pixel ratio
+cum e tradus acum:
+cum propunem:
+Robb: raport de pixeli  https://en.wikipedia.org/wiki/Pixel_aspect_ratio
+
+en: flame chart
+cum e tradus acum: ...
+cum propunem:
+Robb: grafic (simplu; flame se referă la aspectul tipic, în linie cu pie chart și restul ...)
+Jobava: grafic flame (termen tehnic) ex: http://www.brendangregg.com/flamegraphs.html
+
+en: payload
+cum e tradus acum: ...
+cum propunem:
+Robb: capacitate netă, încărcătură netă, sarcină utilă --- aș merge pe „mesaj propriu-zis”) (https://en.wikipedia.org/wiki/Payload_(computing)
+Jobava: payload
+
+en: primed cache
+cum e tradus acum: 
+cum propunem:
+Robb: cache pregătit, cache populat, cache disponibil (https://www.oreilly.com/library/view/high-performance-web/9780596529307/ch05s03.html)) 
+Jobava: cache populat
+
+en: bandwidth throttling
+cum e tradus acum: ...
+cum propunem:
+Robb: reglarea traficului (pe lățimea de bandă/în rețea)  - dat fiind că poate fi și accelerare și reducere. https://en.wikipedia.org/wiki/Bandwidth_throttling
+Jobava: limitarea lățimii de bandă
+
+en: bubbling
+cum e tradus acum: ...
+cum propunem:
+Robb: „propagare” („propagare pe verticală” chiar) https://javascript.info/bubbling-and-capturing)
+Jobava: propagare
+
+en: mobile browser
+cum e tradus acum: browser mobil
+cum propunem:
+Robb: browser pentru dispozitive mobile, browser pentru mobil
+Jobava: browser pentru mobil
+
+en: Firefox installation
+cum e tradus acum: ...
+cum propunem:
+Robb: instalare Firefox (secondary Firefox installation, such as a Beta build or another version of Firefox...)...
+Jobava: instalare Firefox
+
+en: heap
+cum e tradus acum: ...
+cum propunem:
+Robb: „memorie heap” (heap = zonă heap de memorie, memorie heap, zonă specială de memorie pentru alocare dinamică)
+Jobava: memorie heap (vezi și: „memorie stack”)
+
+en: repaint
+cum e tradus acum: ...
+cum propunem:
+Jobava: redesenare
+
+en: prettify
+cum e tradus acum: ...
+cum propunem:
+Robb: reformatează, optimizează aspectul https://en.wikipedia.org/wiki/Prettyprint
+Jobava: reformatează
+
+en: stepping skips through it
+cum e tradus acum: ...
+cum propunem:
+Robb: execuția pas cu pas o/îl sare, este ignorat la execuția pas cu pas
+Jobava: execuție pas cu pas / execută pas cu pas
+
+en: Service Workers, worker
+cum e tradus acum: worker(i)...
+cum propunem:
+Robb: scripturi de servicii, procese de servicii, procese de lucru pentru servicii
+Jobava: service worker, contextul e întotdeauna tehnic sau mesaje de excepție din devtools
+
+en: Sync
+cum e tradus acum: ...
+cum propunem:
+    dumol: nume de produs din nou?
+Robb: depinde: „Firefox Sync”, dar „Sync Firefox across your devices” - „sincronizează” și „Sync Settings” - „setări de sincronizare” (pentru că sync e prescurtare de la „synchronization” sau „synchronize”) 
+sau „Sign in to Sync”
+Jobava: Sync când ne referim la produs, „sincronizare” când e vorba de acțiune
+
+en: Pocket
+cum e tradus acum: ...
+cum propunem:
+    dumol: nume de produs, n-aș traduce
+Robb: tare i-aș zice „buzunar” (americanul nu pricepe altceva doar că e cu literă mare)
+Jobava: Pocket, nume de produs
+
+en: offline
+cum e tradus acum: ...
+cum propunem:
+Robb: offline, deconectat
+Jobava: deconectat
+
+en: matches
+cum e tradus acum: potriviri
+cum propunem:
+    dumol: „rezultate”, dacă e ce cred io
+Robb: rezultate ...
+Jobava: rezultate
+
+en: Location-Aware (Browsing)
+cum e tradus acum: (Navigarea) conștientă de locație
+cum propunem:
+    dumol: „conștientă de locație” e rizibil. Poate „navigare specifică locației”?
+Robb: „navigare specifică locației” (propunerea lui dumol)
+Jobava: navigare conștientă de locație
+
+en: Crash Reporter
+cum e tradus acum: raportor de defecțiuni
+cum propunem:
+    dumol: raportare de erori
+Robb: raportor de defecțiuni, dumol mai propusese „manager de rapoarte” și cred că ar fi și asta o variantă bună
+Jobava: raportare / raportor de erori
+
+en: saved logins
+cum e tradus acum: autentificări salvate
+cum propunem:
+Robb: date de autentificare salvate...
+Jobava: autentificări salvate
+
+en: Location bar
+cum e tradus acum: bara de locație
+cum propunem:
+Robb: bară de adrese https://en.wikipedia.org/wiki/Address_bar)
+Jobava: bara de adrese
+
+en: clipboard
+cum e tradus acum: clipboard
+cum propunem:
+Robb: „clipboard”, „memorie temporară”...
+Jobava: clipboard
+
+en: clip (audio / video)
+cum e tradus acum: clip
+cum propunem:
+Robb: „videoclip”, „secvență audio”/„material audio” („clipul” pare că e numai video)...
+Jobava: clip pentru „video”,  „secvență audio” pentru un clip audio
+
+en: library
+cum e tradus acum: colecție, bibliotecă
+cum propunem:
+Robb: „bibliotecă” -- avem în textul-sursă și „collection” („Add to collection”, „Follow this Collection”, „About this Collection”, „Remove this add-on from the collection”)
+Jobava: bibliotecă
+
+en: Tracking Protection
+cum e tradus acum: protecție împotriva urmăririi
+cum propunem:
+Jobava: ar trebui uniformizat fie ca „protecție față de urmărire” (e și mai scurt) sau „protecție împotriva urmăririi”
+Robb: „protecție împotriva urmăririi”
+
+en: scope
+cum e tradus acum: scope, domeniu
+cum propunem:
+Robb: domeniu
+Jobava: (domeniu de) vizibilitate
+
+en: exprimări de genul „send an e-mail”
+cum e tradus acum: „trimite un e-mail”
+cum propunem:
+Robb: „trimite un mesaj (de) e-mail” (dacă ”e-mail” e poștă electronică, nu pot trimite poșta electronică cuiva, ci un mesaj de genul...)
+Jobava: e-mail este deja substantiv comun: https://dexonline.ro/definitie/e-mail
+
+en: mailing list
+cum e tradus acum: listă de e-mail, listă de discuții, listă de expediție, listă de mail
+cum propunem:
+    Robb: listă de corespondență, listă de adrese de e-mail, listă de abonați.
+Jobava: listă de e-mail
+
+en: to pause
+cum e tradus acum: „a pauza”
+cum propunem:
+    Robb: a trece/pune în pauză
+    Cristian Silaghi: a pune pe pauză
+    Jobava: a pune în pauză
+
+en: room (Thunderbird)
+cum e tradus acum: cameră, canal
+cum propunem:
+Robb: cameră („sală” pentru Lightning)
+
+en: banned și unbanned
+cum e tradus acum: blocat, are interdicție, banat (deși e unbanned în EN) + debanat
+cum propunem:
+Robb: formulare cu „interdicție” (și unele formulări în en impun altceva - se poate merge pe exclus - imprimă mai bine interdicția accesului într-o cameră de chat, decât blocarea contului care are alte conotații - contul în sine nu are nimic la un ban pe o cameră)
+Jobava: interdicție
+
+en: mouse
+cum e tradus acum: maus, mouse
+cum propunem:
+Robb: mouse
+Jobava: mouse / mouse-ul
+
+en: contributor
+cum e tradus acum: contribuitor
+cum propunem:
+    Robb: colaborator (contribuitor e un calc aici;  în ro există, dar cu sensurile aferente din finante și taxe)
+Jobava: colaborator, sau unde are sens „voluntar” sau „colaborator voluntar”
+
+en: features
+cum e tradus acum: funcții, caracteristici, funcționalități
+cum propunem:
+Robb: funcționalități
+Jobava: funcționalități (deși nu îmi place acest cuvânt)
+
+en: homepage, home page
+cum e tradus acum: pagină de start, pagină principală (a doua variantă mai puțin)
+cum propunem:
+Robb: pagină de start
+Jobava: pagină de start
+
+en: bold
+cum e tradus acum: îngroșat, aldin
+cum propunem:
+Jobava: „aldin”, la fel ca în LibreOffice și Microsoft Office
+
+en: to explore
+cum e tradus acum: „să explori”
+cum propunem:
+    Robb: să explorezi
+    Jobava: să explorezi
+
+en: get started
+cum e tradus acum: „începe cu
+cum propunem:
+    Robb: începe să folosești, utilizare inițială, prima utilizare...
+    Jobava: începe să folosești
+
+en: reviewer
+cum e tradus acum: recenzor, recenzent
+cum propunem:
+    Robb: recenzent 
+  RECENZÓR, -OÁRE, recenzori, -oare, s. m. și f. Persoană care participă la lucrările unui recensământ. – Din fr. recenseur.  
+    RECENZÉNT, -Ă, recenzenți, -te, s. m. și f. Autor al unei recenzii. – Din germ. Rezensent.  
+    Jobava: recenzent
+
+en: container tab
+cum e tradus acum: filă container
+cum propunem:
+filă container?
+filă de container?
+Robb: filă de container, filă din container
+Jobava: filă de container
+
+en: click (to continue)
+cum e tradus acum: clic (pentru a continua)
+cum propunem:
+dă clic (pentru a continua)?
+clic (pentru a continua)?
+Robb: dă clic / clic 
+Jobava: dă clic
+
+en:breakpoint
+cum e tradus acum: punct de oprire, breakpoint
+cum propunem: breakpoint, punct de oprire
+Robb: punct de oprire https://en.wikipedia.org/wiki/Breakpoint
+Cristian Silaghi: punct de întrerupere (este folosit și de către Microsoft)
+Jobava: punct de întrerupere
+
+en: thread
+cum e tradus acum: fir (de discuție), fir (de execuție), conversație (în contextul e-mail)
+cum propunem:
+jobava: e bun cum e acum, trebuie doar uniformizat: fir de discuție, fir de execuție, fir de conversație
+dumol: conversație nu e potrivit pentru mesaje scrise, sensul primar din NODEX este de „1) Schimb de vorbe sau de idei pe cale orală”. 
+Mai potrivit este discuție, al căruii sens primar nu este limitat la comunicarea orală.
+A nu e se elimina „fir” dacă în textul original există „thread”.
+Robb: „conversație” (în contextul de e-mail) pentru că „discuție” = „Conversație animată în contradictoriu; controversă, dispută; ceartă”, în rest - „fir de execuție” + thread în EN s-a folosit ca prescurtare de la conversation thread 
+
+en: inbox
+cum e tradus acum: „mesaje primite”, „căsuță poștală”, „primite”, „căsuță de intrare”, „dosar de mesaje primite” ....
+cum propunem: 
+Robb: căsuță poștală
+Jobava: căsuță poștală
+
+en: subthread
+cum e tradus acum:
+cum propunem:
+    dumol: fir secundar de discuție
+Robb: ”fir de conversație”, „fir secundar de conversație”
+Jobava: sub-fir de execuție pentru "thread" programatic (fir „secundar” e prea imprecis aici)
+                fir secundar de conversație / discuție
+
+en: collapse
+cum e tradus acum: restrânge, pliază
+cum propunem:
+    dumol: „strânge” și „desfă” mi se par mai potrivite pentru un fir de discuție
+Robb: închide+deschide, (re)strânge + extinde
+Jobava: restrânge, extinde
+
+en: outgoing server
+cum e tradus acum: server de trimitere
+cum propunem:
+Robb: „server de trimitere” (pentru e-mail)
+Jobava: server de trimitere
+
+en: incoming server
+cum e tradus acum: server de primire
+cum propunem:
+Robb: „server de primire”  (pentru e-mail)
+Jobava: server de primire
+
+en: third party (trackers, software)
+cum e tradus acum: ... de la terți
+cum propunem:
+Jobava: „de la terți”
+Robb: „terți” sau „părți terțe” nu „terțe”
+
+en: manager
+cum e tradus acum: manager
+cum propunem:
+Robb: „manager”, „gestionar”
+Jobava: manager
+
+en: shortcut(s)
+cum e tradus acum: scurtătură, scurtături
+cum propunem:
+    dumol: funcție de context poate fi și „combinație de taste”
+Robb: „scurtătură” dacă e vorba de icoanele de pe desktop, „comandă rapidă” pentru combinații de mouse și tastatură
+Jobava: la fel ca Robb
+
+en: timed out
+cum e tradus acum: a expirat
+cum propunem:
+    dumol: e mai complicat, depinde de context
+Robb: „Timpul de așteptare pentru ... a expirat” („time out” = depășirea timpului de așteptare) https://en.wikipedia.org/wiki/Timeout_(computing))
+Jobava: la fel ca Robb
+
+en: software
+cum e tradus acum: program, programe
+cum propunem:
+    dumol: „software” e în DEX din 1998, „programe” nu este un sinonim perfect
+Robb: „software”, „program(e)”, „soft”
+Jobava: „software”, dar ar fi OK și „program” pentru a evita exprimări de genul „Software-ul de editare”
+
+en: color scheme
+cum e tradus acum: schemă de culori, paletă de culori
+cum propunem:
+Jobava: paletă de culori
+Robb: „paletă de culori”
+
+en: address bar
+cum e tradus acum: bară de adrese, bară de adresă
+cum propunem:
+Jobava: ar trebui unifromizat ca „bară de adrese”
+Robb: „bară de adrese”
+
+
+en: Private Browsing
+cum e tradus acum: navigare privată
+cum propunem:
+Jobava: navigare privată
+Robb: „navigare privată”
+
+en: deceptive sites
+cum e tradus acum: site-uri înșelătoare
+cum propunem:
+Robb: „site-uri înșelătoare”...
+Jobava: site-uri înșelătoare
+
+en: impersonate (server identity)
+cum e tradus acum: uzurpeze
+cum propunem:
+    dumol: „a impersona” ce are?
+Robb: a-și aroga/însuși/asuma identitatea altcuiva, a se substitui altcuiva (un server se substituie altui server, un server își asumă identitatea altui server)
+
+en: (software) library
+cum e tradus acum: bibliotecă
+cum propunem:
+Robb: „bibliotecă”...
+Jobava: bibliotecă
+
+en: menu bar
+cum e tradus acum: bară de meniu, bara cu meniul, bara meniului
+cum propunem:
+    dumol: bară de meniu
+Robb: bară de meniuri
+Jobava: bară de meniuri
+
+en: layout
+cum e tradus acum: aspect, aranjare, paginare
+cum propunem:
+Robb: așezare în pagină/ aranjare în pagină, merge și „aspect” dacă o permite contextul
+Jobava: aranjare
+
+en: Go back one page
+cum e tradus acum: mergi înapoi, navighează înapoi, înapoi cu o pagină
+cum propunem:
+    dumol: înapoi o pagină
+Robb: înapoi cu o pagină...
+Jobava: înapoi cu o pagină
+
+en: Go forward one page
+cum e tradus acum: navighează înainte, mergi înainte, înainte cu o pagină
+cum propunem:
+    dumol: înainte o pagină
+Robb: înainte cu o pagină...
+
+en: Refresh
+cum e tradus acum: reîmprospătare, actualizare
+cum propunem:
+Robb: reîmprospătare (actualizarea ar trimite la update?)
+Jobava: reîmprospătare (când se referă la pagină), actualizare (când se referă la software)
+
+en: desktop background
+cum e tradus acum: fundal pentru desktop, tapet pentru desktop
+cum propunem:
+Robb: fundal de/pentru desktop
+Jobava: fundal de desktop
+
+en: scam
+cum e tradus acum: înșelătorie, escrocherii săvârșite prin e-mail
+cum propunem:
+Robb: înșelăciune prin e-mail
+Jobava: la fel ca Roberta
+
+en: privacy policy, privacy policies
+cum e tradus acum: politică / politici de confidențialitate
+cum propunem:
+Robb: politică de confidențialitate (pe scurt de la politică de confidențialitate a datelor cu caracter personal - v. legislație)
+Jobava: politică de confidențialitate
+
+en: color settings
+cum e tradus acum: ...
+cum propunem:
+    dumol: context? poate fi „opțiuni pentru culori” sau „temă de culori” sau altceva
+Robb: setări de culori
+Jobava: setări de culori
+
+en: PDF viewer
+cum e tradus acum: ...
+cum propunem:
+    dumol: vizualizare de PDF-uri
+Robb: lector/cititor de PDF-uri...
+Jobava: vizualizator de PDF-uri
+
+en: Help
+cum e tradus acum: ...
+cum propunem:
+    dumol: am tradus exclusiv cu „Ajutor”, dar „Asistență” mi se pare chiar mai bun
+Robb: asistență
+Jobava: asistență
+
+en: Time stamp / timestamp
+cum e tradus acum: ...
+cum propunem:
+    dumol: datare, marcaj de timp
+Robb: marcaj de timp, marcă temporală, marcaj temporal
+Jobava: marcaj de timp
+
+en: frameset
+cum e tradus acum: ...
+cum propunem:
+Robb: set de cadre...
+Jobava: dacă se referă la elementul HTML, nu se traduce
+
+en: iframe
+cum e tradus acum: ...
+cum propunem:
+Robb: cadru intern
+Jobava: dacă se referă la elementul HTML, nu se traduce
+
+en: Personal Security Manager
+cum e tradus acum: ...
+cum propunem:
+    dumol: manager personal de securitate? manager al securității pe net?
+Robb: manager personal de securitate
+Jobava: manager personal de securitate
+
+en: pop-up
+cum e tradus acum: ...
+cum propunem:
+Robb: pop-up
+Jobava: pop-up
+
+en: canvas
+Jobava: e un termen tehnic care se referă la un element specific HTML, nu ar trebui tradus
+Robb: pânză, planșetă (https://hacks.mozilla.org/2014/03/introducing-the-canvas-debugger-in-firefox-developer-tools/)
+
+en: Public Key Pinning
+cum e tradus acum: ...
+cum propunem:
+    dumol: dificil… Fixare a cheii publice?
+Robb: fixarea cheii publice
+Jobava: fixarea cheii publice (pentru șirurile non-tehnice), netradus pentru mesaje de excepție, sau ca „fixarea cheii publice (public key pinning)”
+
+en: desktop
+cum e tradus acum: desktop, spațiu de lucru
+cum propunem:
+    dumol: „desktop” e în dicționarele românești de 10-15 ani
+Robb: desktop...
+Jobava: desktop
+
+en: listener
+cum e tradus acum: ...
+cum propunem:
+Robb: proces de ascultare
+Jobava: listener, context tehnic
+
+en: flexbox
+cum e tradus acum: ...
+cum propunem:
+Robb: casetă flexibilă...
+Jobava: Flexbox e un API de CSS, nume tehnic, nu trebuie tradus
+
+en: breakpoint
+cum e tradus acum: ...
+cum propunem:
+Robb: punct de oprire
+Jobava: punct de întrerupere
+
+en: minified
+cum e tradus acum: ...
+cum propunem:
+Robb: minimizat...
+Jobava: minimizat
+
+en: stack trace
+cum e tradus acum: ...
+cum propunem:
+Robb: fir de stivă
+Jobava: stack trace
+
+en: traces
+cum e tradus acum: ...
+cum propunem:
+Robb: fire de urmărire (din stivă) ...
+Jobava: trace-uri
+
+en: Watch Expression
+cum e tradus acum: ...
+cum propunem:
+Robb: expresie de monitorizare
+Jobava: expresie urmărită
+
+en: network log
+cum e tradus acum: ...
+cum propunem:
+Robb: jurnal de rețea...
+Jobava: jurnal de rețea
+
+en: black box
+cum e tradus acum: ...
+cum propunem:
+Robb: cutie neagră
+Jobava: black box
+
+en: end-to-end
+cum e tradus acum: ...
+cum propunem:
+Robb: end-to-end
+Jobava: end-to-end (dar aștept alte sugestii pentru exemple specifice)
+
+en: responsive, responsive design mode
+cum e tradus acum: mod de design responsiv, mod de design sensibil
+cum propunem:
+Robb: „adaptativ”, „cu viteză mare de răspuns”, „cu viteză mare de reacție” (aș prefera „adaptativ”, mai ales pentru că „responsive design mode” ar fi „mod adaptativ de creație” și ar implica și oarece flexibilitate, nu numai timpii de răspuns/reacție
+Jobava: design adaptabil
+
+en: multiprocess
+cum e tradus acum:...
+cum propunem:
+Robb: prelucrare multiplă
+Jobava: multi-proces
+
+en: touch simulation
+cum e tradus acum:
+cum propunem:
+Robb: simulare de gesturi tactile
+Jobava: la fel ca Robb
+
+en: trailing space
+cum e tradus acum:
+cum propunem:
+Robb: spațiu de la sfârșitul rândului (https://stackoverflow.com/questions/22273233/what-is-meant-by-trailing-space-and-whats-the-difference-between-it-and-a-blank)
+Jobava: la fel ca Robb
+
+en: scratchpad
+cum e tradus acum: ciornă
+cum propunem:
+Robb: ciornă, blocnotes, notițe, însemnări, încercări (https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
+Jobava: ciornă
+
+en: shader, vertex shaderm fragment shader
+cum e tradus acum:...
+cum propunem:
+Robb: shader(e), shader de vertexturi, shader de fragmente ( https://en.wikipedia.org/wiki/Shader, https://fr.wikipedia.org/wiki/Shader, vertex shader https://www.khronos.org/opengl/wiki/Vertex_Shader  https://www.khronos.org/opengl/wiki/Shader https://ocw.cs.pub.ro/courses/egc/laboratoare/06 
+Jobava: shader, vertex shader, fragment shader (termeni tehnici de grafică)
+
+en: indentation, to indent
+cum e tradus acum:
+cum propunem:
+Robb: indentare, alineat, a indenta?
+Jobava: indentare
+
+en: frontend
+ cum e tradus acum:
+cum propunem:
+Robb: frontend, interfață
+Jobava: frontend
+
+en: timer
+cum e tradus acum: cronometru
+cum propunem:
+Robb: cronometru, temporizator
+Jobava: cronometru (sensul de „temporizator” poate fi o alarmă care să pornească la o oră specifică)
