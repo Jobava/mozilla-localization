@@ -1,0 +1,488 @@
+Terminologie rezultată în urma discuțiilor de pe:
+https://public.etherpad-mozilla.org/p/ro-mo-terminologie
+și
+https://public.etherpad-mozilla.org/p/ro-mo-terminologie-b%C4%83tut%C4%83-%C3%AEn-cuie
+și de pe e-mail sau Telegram
+
+Aceasta reprezintă momentan terminologia oficială de folosit, alături de comentariile salvate. Comentariile nu sunt autoritative dar pot da context și alternative în cazul în care dorim să modificăm traducerea unui termen. 
+
+Format:
+en: <termen în engleză>
+context: <context, opțional>
+ro: <traducerea acceptată> (pot fi excepții de la asta în funcție de context, public adresat etc.)
+    nume: <comentariu opțional>
+    alt_nume: <comentariu opțional>
+    ...
+
+Lista de termeni:
+en: persistent storage
+ro: stocare persistentă
+    dumol: date persistente / stocare persistentă (nu „memorie”)
+
+en: share
+ro: partajează (o resursă), dă de veste
+    dumol: „împărtășește” mi se pare rizibil chiar și pentru chestii personale, mai bine „partajează”, „împarte cu”, „dă mai departe”, „dă de veste”
+
+en: statement
+ro: afirmație, comandă, declarație (în funcție de context)
+
+en: third-party (software, trackers)
+ro: software de la terți / mecanisme de urmărire de la terți
+
+en: malicious software
+ro: programe dăunătoare
+    dumol: programele nu au intenții, „malware” e termenul pe care l-am auzit la noi
+
+en: detection problem
+ro: problemă de detecție
+
+en: Unwanted Software Policy
+ro: politica de programe nedorite
+
+en: register
+ro: înregistrare / înregistrează-te
+
+en: unregister
+ro: ștergere înregistrare / șterge înregistrarea
+
+en: Finder
+ro: căutare
+
+en: plugin
+ro: plugin
+    dumol: modul
+
+en: hub
+ro: a se traduce natural și flexibil, de ex. „Community Hub” -> „Comunitate”, „Developer Hub” ->  „Colțul dezvoltatorilor”
+
+en: Wrapped Scrolling
+ro: derulare continuă
+
+en: paint flashing
+ro: paint flashing (apare doar în context tehnic)
+
+en: tenured
+ro: tenured (în lipsa unei alternative mai bune)
+
+en: clip-path
+ro: dacă e specific codului CSS nu se traduce, altfel e bun „cale de decupare”
+
+en: Zeal
+ro: Zeal (in lipsa unei alternative mai bune)
+
+en: Get
+ro: descarcă, obține (în funcție de context)
+
+en: storage
+ro: (spațiu de) stocare
+
+en: nick
+context: IRC chat
+ro: pseudonim
+
+en: room
+context: IRC chat
+ro: cameră
+
+en: packaged app
+ro: aplicație împachetată
+
+en: runtime
+ro: mediu de execuție
+
+en: obfuscate
+ro: netradus
+
+en: cancel
+ro: renunță (pentru consistență)
+
+en: viewport
+ro: zonă vizibilă
+
+en: pixel ratio
+ro: raport de pixeli  https://en.wikipedia.org/wiki/Pixel_aspect_ratio
+
+en: flame chart
+ro: grafic flame (termen tehnic) ex: http://www.brendangregg.com/flamegraphs.html
+
+en: payload
+ro: payload 
+
+en: primed cache
+ro: cache populat
+
+en: bandwidth throttling
+ro: limitarea lățimii de bandă 
+
+en: bubbling
+ro: propagare
+
+en: mobile browser
+ro: browser pentru mobil
+
+en: Firefox installation
+ro: instalare Firefox
+
+en: heap
+ro: memorie heap (vezi și: „memorie stack”)
+
+en: stack memory
+ro: memorie stack (vezi și: „memorie heap”)
+
+en: repaint
+ro: redesenare
+
+en: prettify
+ro: formateaza
+
+en: stepping skips through it
+ro: execuție pas cu pas / execută pas cu pas
+
+en: Service Workers, worker
+ro: service worker, contextul e întotdeauna tehnic sau mesaje de excepție din devtools
+
+en: Sync
+ro: Sync când ne referim la produs, „sincronizare” când e vorba de acțiune
+
+en: Pocket
+ro: Pocket, nume de produs
+
+en: offline
+ro: offline
+    dumol:  deconectat e potrivit pentru disconnected, offline ar fi corect aici, e în DOOM2 din 2005
+    Cristian Silaghi: prefer offline, „deconectat” poate să interfereze cu „disconnected”
+
+en: matches
+ro: rezultate
+
+en: Location-Aware (Browsing)
+ro: navigare specifică locației
+    dumol: „aware” aici are sensul de „informat”, nu de „conștient”! aș merge pe „navigare specifică locației”
+
+en: Crash Reporter
+ro: raportor de defecțiuni
+    Cristian Silaghi: a fost mereu tradus „raportor de defecțiuni”, deci nu a fost nicicând bătut în cuie ca „raportor de erori”
+
+en: saved logins
+ro: autentificări salvate
+
+en: Location bar
+ro: bara de adrese
+
+en: clipboard
+ro: clipboard
+
+en: clip (audio / video)
+ro: clip pentru „video”,  „secvență audio” pentru un clip audio
+
+en: library
+ro: bibliotecă
+
+en: Tracking Protection
+ro: protecție împotriva urmăririi
+
+en: scope
+context: function / block / ... scope, termen tehnic
+ro: (domeniu de) vizibilitate
+    Cristian Silaghi: domeniu
+
+en: exprimări de genul „send an e-mail”
+ro: e-mail (este deja substantiv comun: https://dexonline.ro/definitie/e-mail )
+
+en: mailing list
+ro: listă de e-mail
+
+en: to pause
+ro: a pune în pauză
+
+en: room (Thunderbird)
+ro: cameră („sală” pentru Lightning)
+
+en: banned și unbanned
+ro: interdicție, interzis, dez-interzis
+
+en: mouse
+ro: mouse / mouse-ul
+    dumol: https://dexonline.ro/definitie/maus (începând cu DEX98)
+
+en: contributor
+ro: colaborator
+
+en: features
+ro: funcționalități
+
+en: homepage, home page
+ro: pagină de start
+
+en: bold
+ro: „aldin”, la fel ca în LibreOffice și Microsoft Office
+
+en: to explore
+ro: să explorezi
+
+en: get started
+ro: începe să folosești
+
+en: reviewer
+ro: recenzent
+
+en: container tab
+ro: filă de container
+    Cristian Silaghi: a fost mereu „filă container” (fără prepoziție)
+
+en: click (to continue)
+ro: dă clic
+
+en: breakpoint
+ro: punct de întrerupere
+
+en: thread
+ro: fir de execuție pentru thread programatic / fir de discuție pentru mailuri
+    dumol: nu „conversație”, pentru că e vorba de un schimb de idei în scris, nu oral
+
+en: inbox
+ro: căsuță poștală
+
+en: subthread
+ro: sub-fir de execuție pentru "thread" programatic / fir secundar de discuții pentru mailuri
+    dumol: nu „conversație”, pentru că e vorba de un schimb de idei în scris, nu oral
+
+en: collapse/expand
+ro: restrânge/extinde
+
+en: outgoing server
+ro: server de trimitere
+
+en: incoming server
+ro: server de primire
+
+en: third party (trackers, software)
+ro: „de la terți”
+
+en: manager
+ro: manager
+
+en: shortcut(s)
+ro: tastă/comandă rapidă
+
+en: timed out
+ro: time-out expirat
+    dumol: vezi https://dexonline.ro/definitie/time-out (începând cu DEX 98)
+
+en: software
+ro: „software”, dar ar fi OK și „program” pentru a evita exprimări de genul „Software-ul de editare”
+
+en: color scheme
+ro: paletă de culori
+
+en: address bar
+ro: bară de adrese
+
+en: private browsing
+ro: navigare privată
+
+en: deceptive sites
+ro: site-uri înșelătoare
+
+en: impersonate (server identity)
+ro: a uzurpa identitatea (așa e de foarte mult timp)
+
+en: zoom, zoom in, zoom out
+ro: zoom, crește zoom-ul (nivelul zoom), scade zoom-ul (nivelul zoom)
+
+en: breadcrumbs
+ro: rută de navigare
+
+en: toggle
+ro: comută
+
+en: spyware
+ro: program de spionare
+
+en: antispyware
+ro: protecția împotriva programelor de spionare
+
+en: browser
+ro: browser
+    dumol: navigator, navigator web (pentru că traducem „to browse” cu „a naviga”) 
+
+en: Composer
+ro: Composer (dacă e nume propriu), editor
+
+en: self-posting
+ro: auto-postabil
+
+en: Media Feature Pack
+ro: Media Feature Pack
+
+en: garbage collection
+ro: garbage collection
+    dumol: nu se traduce, vezi literatura de specialitate în română, de ex. https://www.google.com/search?q=garbage+collection+alocare+de+memorie+site%3A.ro
+
+en: nursery
+ro: nursery
+    dumol: nu traduceți termeni pe care nu-i înțelegeți, altfel rezultă perle de genul „JavaScript a alocat suficiente obiecte noi în pepinieră încât pepiniera s-a umplut și a declanșat o GC minoră.”
+
+en: phishing
+ro: fraudă prin e-mail, e-mail de fraudare
+
+en: phishing and malware protection
+ro: protecție împotriva e-mailurilor de fraudare sau dăunătoare, protecție împotriva site-urilor de fraudare sau dăunătoare
+
+en: queue
+ro: coadă, a pune/scoate în/din coadă
+
+en: (un)caught exception
+ro: excepție (ne)prinsă
+
+en: tool / tools
+ro: unealtă / unelte
+
+en: bookmark
+ro: marcaj, a marca
+   a mai fost propus și „a adăuga la favorite”, „favorite”, dar momentan ne pliem pe convenție
+
+en: navigation toolbar
+ro: bara de navigare
+
+en: tracker
+ro: element de urmărire
+    dumol: din păcate variatentele actuale sunt mai slabe decât barbarismul tracker/trackere
+
+en: Prompt
+ro: mesaj de ghidare
+
+en: (software) library
+ro: bibliotecă
+
+en: menu bar
+ro: bară de meniu
+    dumol: nu „bară de meniuri”, că e unul singur
+
+en: layout
+ro: aranjare
+
+en: Go back one page
+ro: înapoi cu o pagină
+
+en: Go forward one page
+ro: înainte cu o pagină...
+
+en: Refresh
+ro: reîmprospătare (când se referă la pagină), actualizare (când se referă la software)
+
+en: desktop background
+ro: fundal pentru desktop
+
+en: (e-mail) scam
+ro: înșelăciune (prin e-mail)
+
+en: privacy policy, privacy policies
+ro: politică de confidențialitate
+
+en: color settings
+ro: setări de culori
+
+en: PDF viewer
+ro: vizualizator de PDF-uri
+
+en: Help
+ro: asistență
+
+en: Time stamp / timestamp
+ro: marcaj de timp
+
+en: frameset
+context: element HTML
+ro: frameset
+
+en: iframe
+context: element HTML
+ro: iframe
+
+en: canvas
+context: element HTML
+ro: canvas
+
+en: flexbox
+context: API CSS
+ro: flexbox
+    Jobava: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+
+en: grid
+context: API CSS
+ro: grid
+    Jobava: https://developer.mozilla.org/en-US/docs/Web/CSS/grid
+
+en: Personal Security Manager
+ro: manager personal de securitate
+
+en: pop-up
+ro: fereastră(e) pop-up
+
+en: Public Key Pinning
+ro: fixarea cheii publice (pentru șirurile non-tehnice), netradus pentru mesaje de excepție, sau ca „fixarea cheii publice (public key pinning)” unde este loc în mesajele tehnice
+
+en: desktop
+ro: desktop
+
+en: listener
+context: devtools, mesaje de excepție
+ro: listener
+
+en: breakpoint
+context: devtools
+ro: punct de întrerupere
+
+en: minified
+ro: minimizat
+
+en: stack trace
+context: devtools, web IDE, mesaje de excepție
+ro: stack trace
+
+en: traces
+context: devtools, mesaje de excepție
+ro: trace-uri
+
+en: Watch Expression
+context: devtools, depanatorul web
+ro: expresie urmărită
+
+en: network log
+context: devtools
+ro: jurnal de rețea
+
+en: black box
+context: devtools
+ro: black box
+
+en: end-to-end
+ro: end-to-end
+
+en: responsive, responsive design mode
+ro: mod de design adaptabil
+
+en: multiprocess
+ro: multi-proces
+
+en: touch simulation
+ro: simulare de gesturi tactile
+
+en: trailing space
+ro: spațiu de la sfârșitul rândului, spațiul de la sfârșit, spațiu de sfârșit (unde lungimea șirului e limitată)
+
+en: scratchpad
+ro: ciornă
+
+en: shader, vertex shaderm fragment shader
+ro: shader, vertex shader, fragment shader (termeni tehnici de grafică)
+
+en: indentation, to indent
+ro: indentare
+
+en: frontend
+ro: frontend
+
+en: timer
+ro: cronometru (a mai fost sugerat și „temporizator”, dar acolo e vorba de o alarmă care să pornească la o oră specifică)
