@@ -22,7 +22,7 @@ ro: stocare persistentă
 
 en: share
 ro: partajează (o resursă), dă de veste
-    dumol: „împărtășește” mi se pare rizibil chiar și pentru chestii personale, mai bine „partajează”, „împarte cu”, „dă mai departe”, „dă de veste”
+    dumol: nu „împărtășește”, care e rizibil chiar și pentru chestii personale, mai bine „partajează”, „împarte cu”, „dă mai departe”, „dă de veste”
 
 en: statement
 ro: afirmație, comandă, declarație (în funcție de context)
@@ -32,7 +32,7 @@ ro: software de la terți / mecanisme de urmărire de la terți
 
 en: malicious software
 ro: programe dăunătoare
-    dumol: programele nu au intenții, „malware” e termenul pe care l-am auzit la noi
+    dumol: „malware” e termenul tehnic pe care l-am auzit la noi
 
 en: detection problem
 ro: problemă de detecție
@@ -90,6 +90,7 @@ ro: aplicație împachetată
 
 en: runtime
 ro: mediu de execuție
+    dumol: hhmm, aș lăsa netradus
 
 en: obfuscate
 ro: netradus
@@ -150,7 +151,7 @@ ro: Pocket, nume de produs
 
 en: offline
 ro: offline
-    dumol:  deconectat e potrivit pentru disconnected, offline ar fi corect aici, e în DOOM2 din 2005
+    dumol: nu deconectat, care e potrivit pentru disconnected, ci offline care e în DOOM2 din 2005
     Cristian Silaghi: prefer offline, „deconectat” poate să interfereze cu „disconnected”
 
 en: matches
@@ -158,7 +159,6 @@ ro: rezultate
 
 en: Location-Aware (Browsing)
 ro: navigare specifică locației
-    dumol: „aware” aici are sensul de „informat”, nu de „conștient”! aș merge pe „navigare specifică locației”
 
 en: Crash Reporter
 ro: raportor de defecțiuni
@@ -348,7 +348,7 @@ ro: bara de navigare
 
 en: tracker
 ro: element de urmărire
-    dumol: din păcate variatentele actuale sunt mai slabe decât barbarismul tracker/trackere
+    dumol: din păcate variantele actuale sunt mai slabe decât barbarismul tracker/trackere
 
 en: Prompt
 ro: mesaj de ghidare
