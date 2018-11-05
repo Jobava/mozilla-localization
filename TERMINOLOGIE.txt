@@ -5,7 +5,7 @@ https://public.etherpad-mozilla.org/p/ro-mo-terminologie-b%C4%83tut%C4%83-%C3%AE
 și de pe e-mail sau Telegram
 
 Aceasta reprezintă momentan terminologia oficială de folosit, alături de comentariile salvate.
-Comentariile nu sunt autoritative dar pot da context și alternative în cazul în care dorim să modificăm traducerea unui termen. 
+Comentariile nu sunt autoritative, dar pot da context și alternative în cazul în care dorim să modificăm traducerea unui termen. 
 
 Format:
 en: <termen în engleză>
@@ -16,6 +16,10 @@ ro: <traducerea acceptată> (pot fi excepții de la asta în funcție de context
     ...
 
 Lista de termeni:
+
+en: two step authentication
+ro: autentificare în doi pași
+
 en: persistent storage
 ro: stocare persistentă
     dumol: date persistente / stocare persistentă (nu „memorie”)
